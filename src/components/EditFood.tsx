@@ -1,36 +1,35 @@
 // src/components/EditFood.tsx
-import React, { Fragment, SyntheticEvent } from "react";
-import { Entries, Entry } from "../types/Entry";
-import DatePicker from 'react-date-picker';
+import React, { Fragment, type ReactElement, type SyntheticEvent } from 'react'
+import { type Entries, type Entry } from '../types/Entry'
+import DatePicker from 'react-date-picker'
 
-
-interface EditFoodProps {  /* use `interface` if exporting so that consumers can extend */
-  food: Entry;
-  index: number;
-  entries: Entries;
-  setEntries: (entries: any) => void;
+interface EditFoodProps { /* use `interface` if exporting so that consumers can extend */
+  food: Entry
+  index: number
+  entries: Entries
+  setEntries: (entries: any) => void
 };
 
-function EditFood({ food, entries, setEntries }: EditFoodProps) {
-  const [showModal, setShowModal] = React.useState<Boolean>(false);
+function EditFood ({ food, entries, setEntries }: EditFoodProps): ReactElement {
+  const [showModal, setShowModal] = React.useState<boolean>(false)
   const [editedFood, setEditedFood] = React.useState<string>(food.foodName)
   const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(food.expiration)
 
-  const handleEdit = (e: SyntheticEvent) => {
+  const handleEdit = (e: SyntheticEvent): void => {
     e.preventDefault()
-    if (editedExpiration === null || editedFood === "") {
+    if (editedExpiration === null || editedFood === '') {
       // TODO: replace obnoxious alert with a modal--find form validation one from YelpCamp!
-      alert("Do not leave food name or expiration date blank");
+      alert('Do not leave food name or expiration date blank')
     } else {
-      const newEntries = entries.map((entry) => entry === food ? { foodName: editedFood, expiration: editedExpiration } : entry);
-      setEntries(newEntries);
-      setShowModal(false);
+      const newEntries = entries.map((entry) => entry === food ? { foodName: editedFood, expiration: editedExpiration } : entry)
+      setEntries(newEntries)
+      setShowModal(false)
     }
   }
-  const handleClose = () => {
-    setEditedFood(food.foodName);
-    setEditedExpiration(food.expiration);
-    setShowModal(false);
+  const handleClose = (): void => {
+    setEditedFood(food.foodName)
+    setEditedExpiration(food.expiration)
+    setShowModal(false)
   }
 
   return (
@@ -38,11 +37,12 @@ function EditFood({ food, entries, setEntries }: EditFoodProps) {
       <button
         className="bg-amber-500 text-white active:bg-amber-600 font-bold text-sm px-1 py-1 mx-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 cursor-pointer"
         type="button"
-        onClick={() => setShowModal(true)}
+        onClick={() => { setShowModal(true) }}
       >
         [edit]
       </button>
-      {showModal ? (
+      {showModal
+        ? (
         <Fragment>
           <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">
             <div className="relative w-auto my-6 mx-auto max-w-3xl">
@@ -53,7 +53,7 @@ function EditFood({ food, entries, setEntries }: EditFoodProps) {
                   </h3>
                   <button
                     className="p-1 ml-auto bg-transparent border-0 text-black float-right text-3xl leading-none font-semibold outline-none focus:outline-none"
-                    onClick={() => setShowModal(false)}
+                    onClick={() => { setShowModal(false) }}
                   >
                     <span
                       className="text-black opacity-30 h-2 w-2 text-2xl">
@@ -69,11 +69,11 @@ function EditFood({ food, entries, setEntries }: EditFoodProps) {
                     className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                     placeholder={food.foodName}
                     value={editedFood}
-                    onChange={e => setEditedFood(e.target.value)}
+                    onChange={e => { setEditedFood(e.target.value) }}
                     required />
                   <DatePicker
                     name="editedExpiration"
-                    className={"bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"}
+                    className={'bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500'}
                     format="y-MM-dd"
                     yearPlaceholder="yyyy"
                     monthPlaceholder="mm"
@@ -81,7 +81,7 @@ function EditFood({ food, entries, setEntries }: EditFoodProps) {
                     clearIcon={null}
                     value={editedExpiration}
                     locale="en-US"
-                    onChange={(date: Date) => setEditedExpiration(date)}
+                    onChange={(date: Date) => { setEditedExpiration(date) }}
                   />
                 </div>
                 <div className="flex items-center justify-end p-6 border-t border-solid border-slate-200 rounded-b">
@@ -104,9 +104,10 @@ function EditFood({ food, entries, setEntries }: EditFoodProps) {
             </div>
           </div>
         </Fragment>
-      ) : null}
+          )
+        : null}
     </Fragment>
-  );
+  )
 }
 
-export default EditFood;
+export default EditFood
