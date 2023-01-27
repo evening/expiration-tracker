@@ -1,8 +1,8 @@
-type Entry = {
-    foodName: string;
-    expiration: Date | null;
-};
+interface Entry {
+  foodName: string
+  expiration: Date | null
+}
 
-type Entries = Entry[];
+type Entries = Entry[]
 
 export type { Entry, Entries }
