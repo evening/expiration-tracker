@@ -7,6 +7,7 @@ import type { Entries, Entry } from './types/Entry'
 // Components
 import DatePicker from 'react-date-picker'
 import EditFood from './components/EditFood'
+import SearchBar from './components/SearchBar'
 
 function App () {
   const todayDate = new Date()
@@ -77,13 +78,11 @@ function App () {
         </small>
         <hr />
         <br />
-        <input
-          type="text"
-          placeholder="Search"
-          onChange={(e) => { setSearchTerm(e.target.value) }}
-          value={searchTerm}
-        />
       </div>
+      <SearchBar
+        searchTerm={searchTerm}
+        setSearchTerm={setSearchTerm}
+      />
       <hr />
       <h2
         className="underline decoration-gray-500">
