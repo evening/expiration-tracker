@@ -18,7 +18,7 @@ function EditFood ({ food, entries, setEntries }: EditFoodProps): ReactElement {
   const handleEdit = (e: SyntheticEvent): void => {
     e.preventDefault()
     if (editedExpiration === null || editedFood === '') {
-      // TODO: replace obnoxious alert with a modal--find form validation one from YelpCamp!
+      // TODO: replace obnoxious alert with ... something less obnoxious
       alert('Do not leave food name or expiration date blank')
     } else {
       const newEntries = entries.map((entry) => entry === food ? { foodName: editedFood, expiration: editedExpiration } : entry)
@@ -79,7 +79,7 @@ function EditFood ({ food, entries, setEntries }: EditFoodProps): ReactElement {
                     monthPlaceholder="mm"
                     dayPlaceholder="dd"
                     clearIcon={null}
-                    value={editedExpiration}
+                    value={editedExpiration ?? food.expiration}
                     locale="en-US"
                     onChange={(date: Date) => { setEditedExpiration(date) }}
                   />
