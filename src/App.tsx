@@ -2,7 +2,9 @@ import React from 'react'
 
 import './App.css'
 import useStickyState from './utils/useStickyState'
+
 import type { Entries } from './types/Entry'
+
 
 // Components
 import AddFood from './components/AddFood'
@@ -12,7 +14,7 @@ import FoodList from './components/FoodList'
 function App () {
   const [searchTerm, setSearchTerm] = React.useState<string>('')
   // TODO useStickyState should be an object and not a string
-  const { entries, setEntries } = useStickyState<Entries>('foods')
+  const { entries, setEntries } = useStickyState('foods')
 
   return (
     <div className="App">
