@@ -1,9 +1,18 @@
 import React from 'react'
+import type { Entries, EntryFromStorage } from './../types/Entry'
 
-function useStickyState<T> (key: string) {
-  const [entries, setEntries] = React.useState<T>(() => {
+function useStickyState (key: string) {
+  const [entries, setEntries] = React.useState<Entries>(() => {
     const stickyValue = window.localStorage.getItem(key)
-    return stickyValue !== null ? JSON.parse(stickyValue) : []
+    if (stickyValue === null) {
+      return []
+    }
+    return JSON.parse(stickyValue).map((entry: EntryFromStorage) => {
+      return {
+        foodName: entry.foodName,
+        expiration: (entry?.expiration != null) ? new Date(entry.expiration) : null
+      }
+    })
   })
   React.useEffect(() => {
     window.localStorage.setItem(key, JSON.stringify(entries))

@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 
 import './App.css'
 import useStickyState from './utils/useStickyState'
-import type { Entries, Entry } from './types/Entry'
+import type { Entry } from './types/Entry'
 
 // Components
 import DatePicker from 'react-date-picker'
@@ -17,7 +17,7 @@ function App () {
   const [searchTerm, setSearchTerm] = React.useState<string>('')
 
   // TODO useStickyState should be an object and not a string
-  const { entries, setEntries } = useStickyState<Entries>('foods')
+  const { entries, setEntries } = useStickyState('foods')
 
   function addDays (date: Date, days: number): Date {
     const result = new Date(date)
@@ -94,7 +94,7 @@ function App () {
           .map((food, index) =>
             <li key={index}>
               <>
-                {food.foodName} | {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''}
+              {food.foodName} | {(food?.expiration != null) ? food.expiration.toLocaleDateString() : ''}
                 <small>
                   <EditFood
                     food={food}
