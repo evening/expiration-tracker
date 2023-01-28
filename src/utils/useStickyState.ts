@@ -7,7 +7,7 @@ function useStickyState<T> (key: string) {
       return []
     }
     return JSON.parse(stickyValue, (key: any, value: any) => {
-      if (typeof value === 'string' && value.match(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$/)) {
+      if (value !== null && value !== undefined && typeof value === 'string' && value.match(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$/)) {
         return new Date(value)
       }
       return value
