@@ -94,7 +94,7 @@ function App () {
           .map((food, index) =>
             <li key={index}>
               <>
-                {food.foodName} | {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''}
+                {food.foodName} | {(food?.expiration != null) ? food.expiration.toLocaleDateString() : ''}
                 <small>
                   <EditFood
                     food={food}
