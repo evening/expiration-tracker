@@ -37,6 +37,8 @@ function App () {
         searchTerm={searchTerm}
         setSearchTerm={setSearchTerm}
       />
+      <hr />
+      <ExampleTable />
     </div>
   )
 }
