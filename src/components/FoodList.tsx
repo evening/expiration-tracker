@@ -16,7 +16,11 @@ interface FoodListProps {
 const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
   return (
     <div>
-      <ul>
+      <h2
+        className="underline decoration-gray-500">
+        Food List
+      </h2>
+      <ul className='list-none'>
         {entries.filter(entry => { if (searchTerm != null) { return entry.foodName.includes(searchTerm) } return entry })
           .map((food, index) =>
             <li key={index}>
