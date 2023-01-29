@@ -3,9 +3,6 @@ import React from 'react'
 import './App.css'
 import useStickyState from './utils/useStickyState'
 
-import type { Entries } from './types/Entry'
-
-
 // Components
 import AddFood from './components/AddFood'
 import SearchBar from './components/SearchBar'
