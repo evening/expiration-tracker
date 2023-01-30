@@ -8,6 +8,7 @@ interface FoodItemProps {
 const FoodItem = ({ food }: FoodItemProps) => {
   const [isNearExpiration, setIsNearExpiration] = React.useState<boolean>(false)
   const [isExpired, setIsExpired] = React.useState<boolean>(false)
+  const [warning, setWarning] = React.useState<string>('')
 
   const today = new Date()
   const DaysToWarning = 3
@@ -16,12 +17,15 @@ const FoodItem = ({ food }: FoodItemProps) => {
     if (food.expiration !== null && today > food.expiration) {
       setIsNearExpiration(false)
       setIsExpired(true)
-    } else if (food.expiration !== null && today.valueOf() > food.expiration.valueOf() - DaysToWarning * 24 * 60 * 60 * 1000) {
+      setWarning(' | Expired')
+    } else if (food.expiration !== null && today.valueOf() > (food.expiration.valueOf() - DaysToWarning * 24 * 60 * 60 * 1000)) {
       setIsNearExpiration(true)
       setIsExpired(false)
+      setWarning(`| Expires in less than ${DaysToWarning} day[s]!`)
     } else {
       setIsNearExpiration(false)
       setIsExpired(false)
+      setWarning('')
     }
   }, [food.expiration])
 
@@ -29,7 +33,7 @@ const FoodItem = ({ food }: FoodItemProps) => {
 
   return (
     <p className={`${conditionalClass}`} >
-      {food.foodName} | {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''}
+      {food.foodName} | {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''} {warning}
     </p >
   )
 }
