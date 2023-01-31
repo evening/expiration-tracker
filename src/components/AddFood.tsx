@@ -1,6 +1,7 @@
 import React from 'react'
 import { type Entries } from '../types/Entry'
 import DatePicker from 'react-date-picker'
+import dayjs from 'dayjs'
 
 interface AddFoodProps {
   entries: Entries
@@ -8,18 +9,15 @@ interface AddFoodProps {
 };
 
 const AddFood = ({ entries, setEntries }: AddFoodProps) => {
-  const todayDate = new Date()
-  const defaultDate = addDays(todayDate, 7)
+  const todayDate = dayjs()
+  const defaultDate = todayDate.add(7, 'day').toDate()
+
   const [newFoodName, setNewFoodName] = React.useState<string>('')
   const [newExpiration, setNewExpiration] = React.useState<Date>(defaultDate)
 
-  function addDays (date: Date, days: number): Date {
-    const result = new Date(date)
-    result.setDate(result.getDate() + days)
-    return result
-  }
   const addEntry = (foodName: string, expiration: Date): void => {
     setEntries([...entries, { foodName, expiration }])
+    setNewExpiration(defaultDate)
   }
   const handleSubmit = (e: any): void => {
     e.preventDefault()
