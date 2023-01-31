@@ -3,6 +3,7 @@ import { type Entry } from '../types/Entry'
 import { FoodStatus } from '../constants/FoodStatus'
 
 import dayjs from 'dayjs'
+import { clsx } from 'clsx'
 
 interface FoodItemProps {
   food: Entry
@@ -28,12 +29,18 @@ const FoodItem = ({ food }: FoodItemProps) => {
     }
   }, [food.expiration])
 
-  const conditionalClass = isExpired ? 'text-red-500' : isNearExpiration ? 'text-yellow-500' : 'text-green-700'
+  const itemStyle = clsx(
+    (status === FoodStatus.expired) && 'text-red-500 font-medium',
+    status === FoodStatus.nearExpiration && 'text-yellow-500',
+    status === FoodStatus.good && 'text-green-700'
+  )
 
   return (
-    <p className={`${conditionalClass}`} >
-    </p >
+    <>
+      <p className={itemStyle} >
         {food.foodName} | {(food.expiration != null) ? dayjs(food?.expiration).format('ddd, DD MMM YYYY ') : ''} {warning}
+      </p >
+    </>
   )
 }
 
