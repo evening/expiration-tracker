@@ -22,9 +22,12 @@ const FoodItem = ({ food }: FoodItemProps) => {
     if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration), 'days')) {
       setStatus(FoodStatus.expired)
       setWarning(' | Expired')
+    } else if (food.expiration !== null && dayjs(today).isSame(dayjs(food.expiration), 'days')) {
+      setStatus(FoodStatus.expired)
+      setWarning('| Expires today!')
     } else if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration).subtract(DaysToWarning, 'days'), 'days')) {
       setStatus(FoodStatus.nearExpiration)
-      setWarning(`| Expires in ${dayjs(food.expiration).diff(today, 'days')} days`)
+      setWarning(`| Expires ${dayjs(food.expiration).from(today)}`)
     } else {
       setStatus(FoodStatus.good)
       setWarning('')
