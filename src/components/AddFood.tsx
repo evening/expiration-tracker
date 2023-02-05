@@ -25,6 +25,7 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
       // TODO: replace obnoxious alert with something more elegant
       alert('Please enter a food name')
     } else if (entries.some((entry) => entry.foodName === newFoodName)) {
+      // TODO: replace obnoxious alert with something more elegant
       alert('Item is already in the list!')
     } else {
       addEntry(newFoodName, newExpiration)
