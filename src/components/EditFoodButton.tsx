@@ -103,7 +103,7 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
               </div>
             </div>
           </Fragment>
-          )
+        )
         : null}
     </Fragment>
   )
