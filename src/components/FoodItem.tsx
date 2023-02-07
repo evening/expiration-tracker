@@ -1,9 +1,11 @@
 import React, { useEffect } from 'react'
 import { type Entry } from '../types/Entry'
 import { FoodStatus } from '../constants/FoodStatus'
-
 import dayjs from 'dayjs'
+import relativeTime from 'dayjs/plugin/relativeTime'
 import { clsx } from 'clsx'
+
+dayjs.extend(relativeTime)
 
 interface FoodItemProps {
   food: Entry
@@ -20,9 +22,12 @@ const FoodItem = ({ food }: FoodItemProps) => {
     if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration), 'days')) {
       setStatus(FoodStatus.expired)
       setWarning(' | Expired')
+    } else if (food.expiration !== null && dayjs(today).isSame(dayjs(food.expiration), 'days')) {
+      setStatus(FoodStatus.expired)
+      setWarning('| Expires today!')
     } else if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration).subtract(DaysToWarning, 'days'), 'days')) {
       setStatus(FoodStatus.nearExpiration)
-      setWarning(`| Expires in less than ${DaysToWarning} day[s]!`)
+      setWarning(`| Expires ${dayjs(food.expiration).from(today)}`)
     } else {
       setStatus(FoodStatus.good)
       setWarning('')
