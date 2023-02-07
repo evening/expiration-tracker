@@ -7,9 +7,10 @@ interface FoodItemProps {
 
 const FoodItem = ({ food }: FoodItemProps) => {
   return (
-    <p>
-      {food.foodName} | {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''}
-    </p>
+    <>
+      <span className='col-span-1 my-auto'> {food.foodName} </span>
+      <span className='col-span-1 my-auto'> {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''} </span>
+    </>
   )
 }
 

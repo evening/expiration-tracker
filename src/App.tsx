@@ -7,7 +7,6 @@ import useStickyState from './utils/useStickyState'
 import AddFood from './components/AddFood'
 import SearchBar from './components/SearchBar'
 import FoodList from './components/FoodList'
-import ExampleTable from './components/ExampleLayouts'
 
 function App () {
   const [searchTerm, setSearchTerm] = React.useState<string>('')
@@ -34,8 +33,6 @@ function App () {
         searchTerm={searchTerm}
         setSearchTerm={setSearchTerm}
       />
-      <hr />
-      <ExampleTable />
     </div>
   )
 }
