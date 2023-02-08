@@ -16,7 +16,7 @@ interface FoodListProps {
 const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
   return (
     <div>
-      <h2 className="underline decoration-gray-500">
+      <h2 className="underline decoration-gray-500 font-extrabold">
         Food List
       </h2>
       <div className='grid grid-cols-3 gap-4'>
@@ -48,6 +48,16 @@ const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
               </Fragment>
           )}
         </div>
+        </div>
+        <div>
+        <h3 className="underline decoration-gray-400 inline font-bold">
+          Freezer
+        </h3>
+        </div>
+        <div>
+        <h3 className="underline decoration-gray-400 inline font-bold">
+          Pantry
+        </h3>
         </div>
       </div>
     </div>
