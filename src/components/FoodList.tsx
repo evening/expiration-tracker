@@ -24,9 +24,10 @@ const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
         <h3 className="underline decoration-gray-400 inline font-bold">
           Fridge
         </h3>
-        <div className="grid grid-cols-4">
+        <div className="grid grid-cols-5">
         <div className='col-span-1 font-semibold mx-auto'> Item </div>
         <div className='col-span-1 font-semibold mx-auto'> Expiration </div>
+        <div className='col-span-1 font-semibold mx-auto'> Status </div>
         <div className='col-span-2 font-semibold mx-auto'> Action </div>
         {entries.filter(entry => { if (searchTerm != null) { return entry.foodName.includes(searchTerm) } return entry })
           .map((food, index) =>

@@ -21,13 +21,13 @@ const FoodItem = ({ food }: FoodItemProps) => {
   useEffect(() => {
     if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration), 'days')) {
       setStatus(FoodStatus.expired)
-      setWarning(' | Expired')
+      setWarning(' Expired')
     } else if (food.expiration !== null && dayjs(today).isSame(dayjs(food.expiration), 'days')) {
       setStatus(FoodStatus.expired)
-      setWarning('| Expires today!')
+      setWarning('Expires today!')
     } else if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration).subtract(DaysToWarning, 'days'), 'days')) {
       setStatus(FoodStatus.nearExpiration)
-      setWarning(`| Expires ${dayjs(food.expiration).from(today)}`)
+      setWarning(`Expires ${dayjs(food.expiration).from(today)}`)
     } else {
       setStatus(FoodStatus.good)
       setWarning('')
@@ -36,14 +36,16 @@ const FoodItem = ({ food }: FoodItemProps) => {
 
   const itemStyle = clsx(
     (status === FoodStatus.expired) && 'text-red-500 font-medium',
-    status === FoodStatus.nearExpiration && 'text-yellow-500',
-    status === FoodStatus.good && 'text-green-700'
+    (status === FoodStatus.nearExpiration) && 'text-yellow-500',
+    (status === FoodStatus.good) && 'text-green-700',
+    true && 'col-span-1'
   )
 
   return (
     <>
       <span className='col-span-1 my-auto'> {food.foodName} </span>
       <span className='col-span-1 my-auto'> {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''} </span>
+      <span className={itemStyle}> {warning} </span>
     </>
   )
 }
