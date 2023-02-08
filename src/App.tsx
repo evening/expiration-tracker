@@ -27,10 +27,6 @@ function App () {
         setSearchTerm={setSearchTerm}
       />
       <hr />
-      <h2
-        className="underline decoration-gray-500">
-        Food List
-      </h2>
       <FoodList
         entries={entries}
         setEntries={setEntries}
