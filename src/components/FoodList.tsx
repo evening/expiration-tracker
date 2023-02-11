@@ -17,10 +17,10 @@ interface FoodListProps {
 const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
   return (
     <div>
-      <h2 className="underline decoration-gray-500 font-extrabold">
+      <h2 className="underline decoration-gray-500 font-bold">
         Food List
       </h2>
-      <div className='grid grid-cols-3 gap-4'>
+      <div className='grid grid-rows-3 lg:grid-cols-3 gap-4  '>
         <div>
         <h3 className="underline decoration-gray-400 inline font-bold">
           Fridge
