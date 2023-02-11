@@ -5,6 +5,7 @@ import { type Entries } from '../types/Entry'
 import EditFoodButton from './EditFoodButton'
 import DeleteFoodButton from './DeleteFoodButton'
 import FoodItem from './FoodItem'
+import { FoodLocation } from '../constants/FoodLocation'
 
 interface FoodListProps {
   entries: Entries

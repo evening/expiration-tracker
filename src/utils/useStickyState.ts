@@ -10,7 +10,8 @@ function useStickyState (key: string) {
     return JSON.parse(stickyValue).map((entry: EntryFromStorage) => {
       return {
         foodName: entry.foodName,
-        expiration: (entry?.expiration != null) ? new Date(entry.expiration) : null
+        expiration: (entry?.expiration != null) ? new Date(entry.expiration) : null,
+        location: entry.location
       }
     })
   })
