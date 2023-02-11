@@ -35,8 +35,11 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
     };
   }
   return (
-    <div>
+    <div className='grid grid-cols-5 py-4'>
+      <div className='col-start-2 col-span-1 mx-auto'>
+      <p> Item: </p>
       <input
+        className='py-1 px-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-emerald-500 focus:border-emerald-500'
         name="newFood"
         type="text"
         placeholder="Enter food"
@@ -44,6 +47,7 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
         value={newFoodName}
         required
       />
+      </div>
       <div className='col-span-1 mx-auto my-auto'>
       <p> Storage: </p>
         <select
@@ -57,6 +61,7 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
           <option value={FoodLocation.pantry}> Pantry </option>
         </select>
       </div>
+      <div className='col-span-1 my-auto'>
       <p> Expiration: </p>
       <DatePicker
         name="newExpiration"
@@ -75,6 +80,7 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
       >
         [add]
       </small>
+      </div>
     </div>
   )
 }
