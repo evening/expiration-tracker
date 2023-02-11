@@ -23,7 +23,6 @@ function App () {
         setEntries={setEntries}
       />
       <hr />
-      <br />
       <SearchBar
         searchTerm={searchTerm}
         setSearchTerm={setSearchTerm}
