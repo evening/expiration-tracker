@@ -29,6 +29,7 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
   }
   const handleClose = (): void => {
     setEditedFood(food.foodName)
+    setEditedLocation(food.location)
     setEditedExpiration(food.expiration)
     setShowModal(false)
   }
