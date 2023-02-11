@@ -15,7 +15,9 @@ function App () {
 
   return (
     <div className="App">
-      <h1>Food Expiration Tracker</h1>
+      <h1 className='underline decoration-gray-500 font-extrabold'>
+        Food Tracker
+      </h1>
       <AddFood
         entries={entries}
         setEntries={setEntries}
