@@ -21,7 +21,7 @@ const FoodItem = ({ food }: FoodItemProps) => {
   useEffect(() => {
     if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration), 'days')) {
       setStatus(FoodStatus.expired)
-      setWarning(' Expired')
+      setWarning('Expired')
     } else if (food.expiration !== null && dayjs(today).isSame(dayjs(food.expiration), 'days')) {
       setStatus(FoodStatus.expired)
       setWarning('Expires today!')
@@ -30,15 +30,15 @@ const FoodItem = ({ food }: FoodItemProps) => {
       setWarning(`Expires ${dayjs(food.expiration).from(today)}`)
     } else {
       setStatus(FoodStatus.good)
-      setWarning('')
+      setWarning('Good')
     }
   }, [food.expiration])
 
   const itemStyle = clsx(
-    (status === FoodStatus.expired) && 'text-red-500 font-medium',
-    (status === FoodStatus.nearExpiration) && 'text-yellow-500',
-    (status === FoodStatus.good) && 'text-green-700',
-    true && 'col-span-1'
+    (status === FoodStatus.expired) && 'text-red-500 font-semibold',
+    (status === FoodStatus.nearExpiration) && 'text-yellow-500 semibold',
+    (status === FoodStatus.good) && 'text-green-700 font-semibold',
+    true && 'col-span-1 my-auto'
   )
 
   return (

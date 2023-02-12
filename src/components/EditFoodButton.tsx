@@ -1,5 +1,6 @@
 import React, { Fragment, type ReactElement, type SyntheticEvent } from 'react'
 import { type Entries, type Entry } from '../types/Entry'
+import { FoodLocation } from '../constants/FoodLocation'
 import DatePicker from 'react-date-picker'
 
 interface EditFoodButtonProps {
@@ -13,6 +14,7 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
   const [showModal, setShowModal] = React.useState<boolean>(false)
   const [editedFood, setEditedFood] = React.useState<string>(food.foodName)
   const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(food.expiration)
+  const [editedLocation, setEditedLocation] = React.useState<string>(food.location)
 
   const handleEdit = (e: SyntheticEvent): void => {
     e.preventDefault()
@@ -20,13 +22,14 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
       // TODO: replace obnoxious alert with something more elegant
       alert('Do not leave food name or expiration date blank')
     } else {
-      const newEntries = entries.map((entry) => entry === food ? { foodName: editedFood, expiration: editedExpiration } : entry)
+      const newEntries = entries.map((entry) => entry === food ? { foodName: editedFood, location: editedLocation, expiration: editedExpiration } : entry)
       setEntries(newEntries)
       setShowModal(false)
     }
   }
   const handleClose = (): void => {
     setEditedFood(food.foodName)
+    setEditedLocation(food.location)
     setEditedExpiration(food.expiration)
     setShowModal(false)
   }
@@ -70,6 +73,16 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
                       value={editedFood}
                       onChange={e => { setEditedFood(e.target.value) }}
                       required />
+                    <select
+                      className='py-1 border my-auto border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-emerald-500 focus:border-emerald-500'
+                      name="location"
+                      id="location"
+                      onChange={(e) => { setEditedLocation(e.target.value) }}
+                    >
+                      <option value={FoodLocation.fridge}> Fridge </option>
+                      <option value={FoodLocation.freezer}> Freezer </option>
+                      <option value={FoodLocation.pantry}> Pantry </option>
+                    </select>
                     <DatePicker
                       name="editedExpiration"
                       className={'bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500'}
