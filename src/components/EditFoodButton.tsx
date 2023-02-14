@@ -77,6 +77,7 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
                       className='py-1 border my-auto border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-emerald-500 focus:border-emerald-500'
                       name="location"
                       id="location"
+                      value={editedLocation}
                       onChange={(e) => { setEditedLocation(e.target.value) }}
                     >
                       <option value={FoodLocation.fridge}> Fridge </option>
