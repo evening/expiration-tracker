@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React from 'react'
 
 import type { Entries, Entry } from '../types/Entry'
 
@@ -14,14 +14,12 @@ const DeleteFoodButton = ({ food, entries, setEntries }: DeleteFoodButtonProps) 
   }
 
   return (
-    <Fragment>
       <small
         className="bg-red-600 text-white active:bg-red-700 font-bold text-sm px-1 py-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 cursor-pointer"
         onClick={() => { removeEntry(food) }}
       >
         [delete]
       </small>
-    </Fragment>
   )
 }
 

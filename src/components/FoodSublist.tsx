@@ -1,8 +1,6 @@
 import React, { Fragment } from 'react'
 import { type Entries } from '../types/Entry'
 
-import DeleteFoodButton from './DeleteFoodButton'
-import EditFoodButton from './EditFoodButton'
 import FoodItem from './FoodItem'
 
 interface FoodSublistProps {
@@ -26,20 +24,12 @@ const FoodSublist = ({ location, entries, searchTerm, setEntries }: FoodSublistP
           {entries.filter(entry => entry.location === location && entry.foodName.includes(searchTerm))
             .map((food, index) =>
               <Fragment key={index}>
-                <FoodItem food={food} />
-                <div className='col-span-2'>
-                  <EditFoodButton
-                    food={food}
-                    index={index}
-                    entries={entries}
-                    setEntries={setEntries}
-                  />
-                  <DeleteFoodButton
-                    food={food}
-                    entries={entries}
-                    setEntries={setEntries}
-                  />
-                </div>
+                <FoodItem
+                food={food}
+                index = {index}
+                entries={entries}
+                setEntries={setEntries}
+                />
               </Fragment>
             )}
         </div>

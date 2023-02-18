@@ -1,6 +1,8 @@
 import React, { useEffect } from 'react'
 import { type Entry } from '../types/Entry'
 import { FoodStatus } from '../constants/FoodStatus'
+import EditFoodButton from './EditFoodButton'
+import DeleteFoodButton from './DeleteFoodButton'
 
 import dayjs from 'dayjs'
 import relativeTime from 'dayjs/plugin/relativeTime'
@@ -10,9 +12,12 @@ dayjs.extend(relativeTime)
 
 interface FoodItemProps {
   food: Entry
+  index: number
+  entries: Entry[]
+  setEntries: (entries: any) => void
 }
 
-const FoodItem = ({ food }: FoodItemProps) => {
+const FoodItem = ({ food, index, entries, setEntries }: FoodItemProps) => {
   const [status, setStatus] = React.useState<string>(FoodStatus.good)
   const [warning, setWarning] = React.useState<string>('')
 
@@ -47,6 +52,17 @@ const FoodItem = ({ food }: FoodItemProps) => {
       <span className='col-span-1 my-auto'> {food.foodName} </span>
       <span className='col-span-1 my-auto'> {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''} </span>
       <span className={warningStyle}> {warning} </span>
+      <EditFoodButton
+        food={food}
+        index={index}
+        entries={entries}
+        setEntries={setEntries}
+        />
+        <DeleteFoodButton
+        food={food}
+        entries={entries}
+        setEntries={setEntries}
+        />
     </>
   )
 }
