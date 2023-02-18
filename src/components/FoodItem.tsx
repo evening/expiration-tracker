@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import { type Entry } from '../types/Entry'
 import { FoodStatus } from '../constants/FoodStatus'
+
 import dayjs from 'dayjs'
 import relativeTime from 'dayjs/plugin/relativeTime'
 import { clsx } from 'clsx'
@@ -34,7 +35,7 @@ const FoodItem = ({ food }: FoodItemProps) => {
     }
   }, [food.expiration])
 
-  const itemStyle = clsx(
+  const warningStyle = clsx(
     (status === FoodStatus.expired) && 'text-red-500 font-semibold',
     (status === FoodStatus.nearExpiration) && 'text-yellow-500 semibold',
     (status === FoodStatus.good) && 'text-green-700 font-semibold',
@@ -45,7 +46,7 @@ const FoodItem = ({ food }: FoodItemProps) => {
     <>
       <span className='col-span-1 my-auto'> {food.foodName} </span>
       <span className='col-span-1 my-auto'> {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''} </span>
-      <span className={itemStyle}> {warning} </span>
+      <span className={warningStyle}> {warning} </span>
     </>
   )
 }
