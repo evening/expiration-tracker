@@ -1,0 +1,5924 @@
+{
+    "\"Genuine\" Maple syrup (unopened, glass)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "\"Genuine\" Maple syrup",
+        "name_subtitle": "unopened, glass",
+        "pantry": "4 Years",
+        "pantry_opened": null
+    },
+    "\"Genuine\" Maple syrup (unopened, plastic)": {
+        "freezer": null,
+        "fridge": "24 Months",
+        "fridge_opened": null,
+        "name": "\"Genuine\" Maple syrup",
+        "name_subtitle": "unopened, plastic",
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Aioli (homemade)": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Aioli",
+        "name_subtitle": "homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Almond butter": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Almond butter",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Almond extract": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Almond extract",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Almond milk": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Almond milk",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Almond oil": {
+        "freezer": null,
+        "fridge": "2 Years",
+        "fridge_opened": null,
+        "name": "Almond oil",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Almonds (no shell)": {
+        "freezer": "10 Months",
+        "fridge": "8 Months",
+        "fridge_opened": null,
+        "name": "Almonds",
+        "name_subtitle": "no shell",
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Almonds (shell)": {
+        "freezer": "20 Months",
+        "fridge": "16 Months",
+        "fridge_opened": null,
+        "name": "Almonds",
+        "name_subtitle": "shell",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Amaranth (flour, meal)": {
+        "freezer": "4 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Amaranth",
+        "name_subtitle": "flour, meal",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Amaranth (whole grain)": {
+        "freezer": "8 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Amaranth",
+        "name_subtitle": "whole grain",
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Anchovies (canned)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Anchovies",
+        "name_subtitle": "canned",
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Apple cider (fresh)": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Apple cider",
+        "name_subtitle": "fresh",
+        "pantry": "3 Days",
+        "pantry_opened": null
+    },
+    "Apple cider vinegar": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Apple cider vinegar",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Apple juice (fresh squeezed)": {
+        "freezer": "12 Months",
+        "fridge": "6 Days",
+        "fridge_opened": null,
+        "name": "Apple juice",
+        "name_subtitle": "fresh squeezed",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Apples": {
+        "freezer": "8 Months",
+        "fridge": "6 Weeks",
+        "fridge_opened": null,
+        "name": "Apples",
+        "name_subtitle": null,
+        "pantry": "3 Weeks",
+        "pantry_opened": null
+    },
+    "Applesauce (commercial)": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Applesauce",
+        "name_subtitle": "commercial",
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Applesauce (homemade)": {
+        "freezer": "12 Months",
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Applesauce",
+        "name_subtitle": "homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Apricots": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Apricots",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Artichokes, whole": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Artichokes, whole",
+        "name_subtitle": null,
+        "pantry": "2 Days",
+        "pantry_opened": null
+    },
+    "Arugula": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Arugula",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Asparagus": {
+        "freezer": "5 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Asparagus",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Avocado Oil": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Avocado Oil",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "6 Months"
+    },
+    "Avocados": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Avocados",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Baby carrots": {
+        "freezer": "3 Months",
+        "fridge": "4 Weeks",
+        "fridge_opened": null,
+        "name": "Baby carrots",
+        "name_subtitle": null,
+        "pantry": "4 Days",
+        "pantry_opened": null
+    },
+    "Bacon": {
+        "freezer": "1 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": "1 Weeks",
+        "name": "Bacon",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bacon (fully cooked)": {
+        "freezer": null,
+        "fridge": "14 Days",
+        "fridge_opened": "14 Days",
+        "name": "Bacon",
+        "name_subtitle": "fully cooked",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Bacon (uncured)": {
+        "freezer": "4 Weeks",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Bacon",
+        "name_subtitle": "uncured",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bacon bits (imitation)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Bacon bits",
+        "name_subtitle": "imitation",
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Bacon grease": {
+        "freezer": "12 Months",
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Bacon grease",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bagel (commercially frozen)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Bagel",
+        "name_subtitle": "commercially frozen",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bagel (fresh baked)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Bagel",
+        "name_subtitle": "fresh baked",
+        "pantry": "2 Days",
+        "pantry_opened": null
+    },
+    "Bagged greens (leaf, spinach, lettuce, etc.)": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Bagged greens",
+        "name_subtitle": "leaf, spinach, lettuce, etc.",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Baking powder": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Baking powder",
+        "name_subtitle": null,
+        "pantry": "18 Months",
+        "pantry_opened": "6 Months"
+    },
+    "Baking soda": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Baking soda",
+        "name_subtitle": null,
+        "pantry": "3 Years",
+        "pantry_opened": "6 Months"
+    },
+    "Balsamic vinegar": {
+        "freezer": null,
+        "fridge": "18 Months",
+        "fridge_opened": "18 Months",
+        "name": "Balsamic vinegar",
+        "name_subtitle": null,
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Bamboo shoots": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Bamboo shoots",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bananas": {
+        "freezer": "3 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Bananas",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Barbecue Sauce (homemade, canned)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Barbecue Sauce",
+        "name_subtitle": "homemade, canned",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Barbecue sauce (bottled)": {
+        "freezer": null,
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Barbecue sauce",
+        "name_subtitle": "bottled",
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Barley (flour, meal)": {
+        "freezer": "6 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Barley",
+        "name_subtitle": "flour, meal",
+        "pantry": "3 Months",
+        "pantry_opened": null
+    },
+    "Barley (whole grain)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Barley",
+        "name_subtitle": "whole grain",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Base (beef, vegetable)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Base",
+        "name_subtitle": "beef, vegetable",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Basil (dried)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Basil",
+        "name_subtitle": "dried",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Basil (fresh)": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": null,
+        "name": "Basil",
+        "name_subtitle": "fresh",
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Bean sprouts": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": null,
+        "name": "Bean sprouts",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beans (dried)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Beans",
+        "name_subtitle": "dried",
+        "pantry": "2 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)": {
+        "freezer": "8 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beans and peas",
+        "name_subtitle": "green, fava, lima, soybean, wax, snow, sugar snap",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (chuck roast, brisket)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "chuck roast, brisket",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (ground)": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "ground",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (rib roast, bone-in)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "rib roast, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (rib roast; boneless, rolled)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "rib roast; boneless, rolled",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (round or rump roast)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "round or rump roast",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (short ribs)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "short ribs",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (steaks)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "steaks",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (stew, cubes)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "stew, cubes",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (tenderloin, half)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "tenderloin, half",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef (tenderloin, whole)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Beef",
+        "name_subtitle": "tenderloin, whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beef broth/stock/consommé (commercially produced)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Beef broth/stock/consommé",
+        "name_subtitle": "commercially produced",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Beets": {
+        "freezer": "8 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Beets",
+        "name_subtitle": null,
+        "pantry": "1 Days",
+        "pantry_opened": null
+    },
+    "Beets (pickled)": {
+        "freezer": null,
+        "fridge": "2 Months",
+        "fridge_opened": "2 Months",
+        "name": "Beets",
+        "name_subtitle": "pickled",
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Berries (blackberries, boysenberries, currant)": {
+        "freezer": "12 Months",
+        "fridge": "6 Days",
+        "fridge_opened": null,
+        "name": "Berries",
+        "name_subtitle": "blackberries, boysenberries, currant",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Berries (cherries, goose berries, lychee)": {
+        "freezer": "12 Months",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Berries",
+        "name_subtitle": "cherries, goose berries, lychee",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Biscuit or pancake mix": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Biscuit or pancake mix",
+        "name_subtitle": null,
+        "pantry": "9 Months",
+        "pantry_opened": null
+    },
+    "Biscuits (refrigerated)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Biscuits",
+        "name_subtitle": "refrigerated",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bison (ground)": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Bison",
+        "name_subtitle": "ground",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bison (whole)": {
+        "freezer": "9 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Bison",
+        "name_subtitle": "whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Black bean sauce": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Black bean sauce",
+        "name_subtitle": null,
+        "pantry": "24 Months",
+        "pantry_opened": null
+    },
+    "Black pepper (cracked, dried, commercially bottled or purchased in bulk)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Black pepper",
+        "name_subtitle": "cracked, dried, commercially bottled or purchased in bulk",
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Black pepper (ground, dried, commercially bottled or purchased in bulk)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Black pepper",
+        "name_subtitle": "ground, dried, commercially bottled or purchased in bulk",
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Blueberries": {
+        "freezer": "12 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Blueberries",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bok choy": {
+        "freezer": "12 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Bok choy",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bratwurst (fresh)": {
+        "freezer": "3 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Bratwurst",
+        "name_subtitle": "fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bratwurst (smoked and processed)": {
+        "freezer": "3 Months",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Bratwurst",
+        "name_subtitle": "smoked and processed",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Bread (homemade)": {
+        "freezer": null,
+        "fridge": "3 Months",
+        "fridge_opened": null,
+        "name": "Bread",
+        "name_subtitle": "homemade",
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Breadcrumbs (commercial)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Breadcrumbs",
+        "name_subtitle": "commercial",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Broccoli and broccoli raab (rapini)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Broccoli and broccoli raab (rapini)",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Broth (homemade)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Broth",
+        "name_subtitle": "homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Brussels sprouts": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Brussels sprouts",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Buckwheat (flour, meal)": {
+        "freezer": "2 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Buckwheat",
+        "name_subtitle": "flour, meal",
+        "pantry": "1 Months",
+        "pantry_opened": null
+    },
+    "Buckwheat (whole grain)": {
+        "freezer": "4 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Buckwheat",
+        "name_subtitle": "whole grain",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Bulgur": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Bulgur",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Butter": {
+        "freezer": "9 Months",
+        "fridge": "2 Months",
+        "fridge_opened": null,
+        "name": "Butter",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Butter flavor": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Butter flavor",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Buttermilk": {
+        "freezer": "3 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Buttermilk",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cabbage": {
+        "freezer": "12 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Cabbage",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cajun seasoning blend",
+        "name_subtitle": "ground, dried, commercially bottled or purchased in bulk",
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Cake, brownie, bread mixes": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cake, brownie, bread mixes",
+        "name_subtitle": null,
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Canadian bacon (sliced)": {
+        "freezer": "12 Months",
+        "fridge": "80 Days",
+        "fridge_opened": null,
+        "name": "Canadian bacon",
+        "name_subtitle": "sliced",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Canadian bacon (whole)": {
+        "freezer": "2 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Canadian bacon",
+        "name_subtitle": "whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Canned chicken": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Canned chicken",
+        "name_subtitle": null,
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Canned goods",
+        "name_subtitle": "high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)",
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Canned goods",
+        "name_subtitle": "low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)",
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Canola oil": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Canola oil",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Cantaloupe": {
+        "freezer": "12 Months",
+        "fridge": "15 Days",
+        "fridge_opened": null,
+        "name": "Cantaloupe",
+        "name_subtitle": null,
+        "pantry": "4 Days",
+        "pantry_opened": null
+    },
+    "Capers (in jar)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Capers",
+        "name_subtitle": "in jar",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Capon (whole)": {
+        "freezer": "12 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Capon",
+        "name_subtitle": "whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Carrot juice (fresh squeezed)": {
+        "freezer": "12 Months",
+        "fridge": "6 Days",
+        "fridge_opened": null,
+        "name": "Carrot juice",
+        "name_subtitle": "fresh squeezed",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Carrots, parsnips": {
+        "freezer": "12 Months",
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Carrots, parsnips",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cashew butter": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cashew butter",
+        "name_subtitle": null,
+        "pantry": "3 Months",
+        "pantry_opened": null
+    },
+    "Cashews (no shell)": {
+        "freezer": "12 Months",
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Cashews",
+        "name_subtitle": "no shell",
+        "pantry": "4 Weeks",
+        "pantry_opened": null
+    },
+    "Casseroles": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Casseroles",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cauliflower": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Cauliflower",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Caviar (fresh, in jar)": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Caviar",
+        "name_subtitle": "fresh, in jar",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Celery": {
+        "freezer": "12 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Celery",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Celery root": {
+        "freezer": null,
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Celery root",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cereal (cook before eating (oatmeal, etc.))": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cereal",
+        "name_subtitle": "cook before eating (oatmeal, etc.)",
+        "pantry": "12 Months",
+        "pantry_opened": "12 Months"
+    },
+    "Cereal (ready-to-eat)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cereal",
+        "name_subtitle": "ready-to-eat",
+        "pantry": "12 Months",
+        "pantry_opened": "3 Months"
+    },
+    "Cereal or granola bars": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cereal or granola bars",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Cereal, dry mixes": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cereal, dry mixes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": "1 Months"
+    },
+    "Cheese (hard such as cheddar, swiss, block parmesan)": {
+        "freezer": "6 Months",
+        "fridge": "4 Weeks",
+        "fridge_opened": "4 Weeks",
+        "name": "Cheese",
+        "name_subtitle": "hard such as cheddar, swiss, block parmesan",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cheese (parmesan; shredded or grated)": {
+        "freezer": null,
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Cheese",
+        "name_subtitle": "parmesan; shredded or grated",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cheese (processed slices)": {
+        "freezer": null,
+        "fridge": "4 Weeks",
+        "fridge_opened": null,
+        "name": "Cheese",
+        "name_subtitle": "processed slices",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cheese (shredded; cheddar, mozzarella, etc.)": {
+        "freezer": "4 Months",
+        "fridge": "1 Months",
+        "fridge_opened": null,
+        "name": "Cheese",
+        "name_subtitle": "shredded; cheddar, mozzarella, etc.",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cheese (soft such as brie, bel paese, goat)": {
+        "freezer": "6 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Cheese",
+        "name_subtitle": "soft such as brie, bel paese, goat",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cheese Curds (fresh, unaged)": {
+        "freezer": "4 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Cheese Curds",
+        "name_subtitle": "fresh, unaged",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cheesecake": {
+        "freezer": "6 Months",
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Cheesecake",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cherimoya": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Cherimoya",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cherries": {
+        "freezer": "12 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Cherries",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cherry tomatoes": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Cherry tomatoes",
+        "name_subtitle": null,
+        "pantry": "10 Days",
+        "pantry_opened": null
+    },
+    "Chia seeds": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Chia seeds",
+        "name_subtitle": null,
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Chicken (pre-packaged, luncheon/deli meat)": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Chicken",
+        "name_subtitle": "pre-packaged, luncheon/deli meat",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chicken (whole)": {
+        "freezer": "12 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Chicken",
+        "name_subtitle": "whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chicken broth/stock/consommé (commercially produced)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Chicken broth/stock/consommé",
+        "name_subtitle": "commercially produced",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chicken nuggets, patties": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Chicken nuggets, patties",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chicken parts (breast halves, bone-in)": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Chicken parts",
+        "name_subtitle": "breast halves, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chicken parts (breast halves, boneless)": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Chicken parts",
+        "name_subtitle": "breast halves, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chicken parts (legs or thighs)": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Chicken parts",
+        "name_subtitle": "legs or thighs",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chicken salad": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Chicken salad",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chiffon pies (chocolate, lemon)": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Chiffon pies",
+        "name_subtitle": "chocolate, lemon",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chili powder": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Chili powder",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "2 Years"
+    },
+    "Chives": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Chives",
+        "name_subtitle": null,
+        "pantry": "2 Weeks",
+        "pantry_opened": null
+    },
+    "Chocolate (unsweetened and semi-sweet, solid)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Chocolate",
+        "name_subtitle": "unsweetened and semi-sweet, solid",
+        "pantry": "2 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Chocolate hazlenut spread": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Chocolate hazlenut spread",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chocolate syrup": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Chocolate syrup",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Chorizo (fresh)": {
+        "freezer": "2 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Chorizo",
+        "name_subtitle": "fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chorizo (smoked and processed, cooked)": {
+        "freezer": "6 Months",
+        "fridge": "1 Months",
+        "fridge_opened": "1 Months",
+        "name": "Chorizo",
+        "name_subtitle": "smoked and processed, cooked",
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Chorizo (smoked and processed, uncooked)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Chorizo",
+        "name_subtitle": "smoked and processed, uncooked",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Chutney": {
+        "freezer": null,
+        "fridge": "2 Months",
+        "fridge_opened": "2 Months",
+        "name": "Chutney",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Cilantro": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Cilantro",
+        "name_subtitle": null,
+        "pantry": "2 Weeks",
+        "pantry_opened": null
+    },
+    "Cinnamon (ground, dried, commercially bottled or purchased in bulk)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cinnamon",
+        "name_subtitle": "ground, dried, commercially bottled or purchased in bulk",
+        "pantry": "4 Years",
+        "pantry_opened": null
+    },
+    "Cinnamon extract": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cinnamon extract",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Cinnamon rolls (baked)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cinnamon rolls",
+        "name_subtitle": "baked",
+        "pantry": "3 Days",
+        "pantry_opened": null
+    },
+    "Cinnamon rolls (unbaked, tube)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cinnamon rolls",
+        "name_subtitle": "unbaked, tube",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)": {
+        "freezer": null,
+        "fridge": "21 Days",
+        "fridge_opened": null,
+        "name": "Citrus fruit",
+        "name_subtitle": "lemon, lime, orange, grapefruit, tangerines, clementines",
+        "pantry": "10 Days",
+        "pantry_opened": null
+    },
+    "Cocoa and cocoa mixes": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cocoa and cocoa mixes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": "1 Years"
+    },
+    "Coconut (shredded)": {
+        "freezer": "1 Years",
+        "fridge": "8 Months",
+        "fridge_opened": "8 Months",
+        "name": "Coconut",
+        "name_subtitle": "shredded",
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Coconut cream (canned)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Coconut cream",
+        "name_subtitle": "canned",
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Coconut flavor": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Coconut flavor",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Coconut flour": {
+        "freezer": "12 Months",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Coconut flour",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Coconut milk": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Coconut milk",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Coconut milk (canned)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Coconut milk",
+        "name_subtitle": "canned",
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Coconut oil": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Coconut oil",
+        "name_subtitle": null,
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Coconut water": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Coconut water",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Coconuts (fresh)": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Coconuts",
+        "name_subtitle": "fresh",
+        "pantry": "1 Weeks",
+        "pantry_opened": null
+    },
+    "Coffee (commercial ground, non-vacuum)": {
+        "freezer": "12 Months",
+        "fridge": "1 Months",
+        "fridge_opened": "1 Months",
+        "name": "Coffee",
+        "name_subtitle": "commercial ground, non-vacuum",
+        "pantry": "2 Years",
+        "pantry_opened": "2 Weeks"
+    },
+    "Coffee (home ground, non-vacuum)": {
+        "freezer": "2 Years",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Coffee",
+        "name_subtitle": "home ground, non-vacuum",
+        "pantry": "5 Months",
+        "pantry_opened": "5 Weeks"
+    },
+    "Coffee (instant)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Coffee",
+        "name_subtitle": "instant",
+        "pantry": "1 Years",
+        "pantry_opened": "3 Months"
+    },
+    "Coffee (whole beans)": {
+        "freezer": null,
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Coffee",
+        "name_subtitle": "whole beans",
+        "pantry": "5 Months",
+        "pantry_opened": "5 Months"
+    },
+    "Coffee creamer (liquid refrigerated)": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Coffee creamer",
+        "name_subtitle": "liquid refrigerated",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Coffee creamer (powdered)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Coffee creamer",
+        "name_subtitle": "powdered",
+        "pantry": "2 Years",
+        "pantry_opened": "3 Months"
+    },
+    "Coleslaw (homemade, prepared)": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Coleslaw",
+        "name_subtitle": "homemade, prepared",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Commercial brand vacuum-packed dinners (with USDA seal)": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Commercial brand vacuum-packed dinners",
+        "name_subtitle": "with USDA seal",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Commercial bread products (including pan breads, flat breads, rolls, and buns)": {
+        "freezer": "5 Months",
+        "fridge": "3 Weeks",
+        "fridge_opened": "3 Weeks",
+        "name": "Commercial bread products",
+        "name_subtitle": "including pan breads, flat breads, rolls, and buns",
+        "pantry": "18 Days",
+        "pantry_opened": null
+    },
+    "Commercial cakes and muffins": {
+        "freezer": "6 Months",
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Commercial cakes and muffins",
+        "name_subtitle": null,
+        "pantry": "7 Days",
+        "pantry_opened": null
+    },
+    "Cooked fish (all)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Cooked fish",
+        "name_subtitle": "all",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cooked pasta": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Cooked pasta",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cooked poultry dishes": {
+        "freezer": "6 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Cooked poultry dishes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cooked rice": {
+        "freezer": "6 Months",
+        "fridge": "6 Days",
+        "fridge_opened": null,
+        "name": "Cooked rice",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cooked shellfish (all)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Cooked shellfish",
+        "name_subtitle": "all",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cookie dough": {
+        "freezer": "2 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cookie dough",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cookies (crispy)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cookies",
+        "name_subtitle": "crispy",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Cookies (soft)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cookies",
+        "name_subtitle": "soft",
+        "pantry": "3 Months",
+        "pantry_opened": null
+    },
+    "Cooking wine": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cooking wine",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Corn on the cob": {
+        "freezer": "8 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Corn on the cob",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Corn syrup": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Corn syrup",
+        "name_subtitle": null,
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Corned beef (in pouch with pickling juices)": {
+        "freezer": "1 Months",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Corned beef",
+        "name_subtitle": "in pouch with pickling juices",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cornish Hens (whole)": {
+        "freezer": "12 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Cornish Hens",
+        "name_subtitle": "whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cornmeal (regular, degerminated)": {
+        "freezer": null,
+        "fridge": "1 Year",
+        "fridge_opened": "1 Year",
+        "name": "Cornmeal",
+        "name_subtitle": "regular, degerminated",
+        "pantry": "12 Months",
+        "pantry_opened": "2 Years"
+    },
+    "Cornmeal (stone ground or blue)": {
+        "freezer": null,
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Cornmeal",
+        "name_subtitle": "stone ground or blue",
+        "pantry": "1 Months",
+        "pantry_opened": null
+    },
+    "Cornstarch": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cornstarch",
+        "name_subtitle": null,
+        "pantry": "24 Months",
+        "pantry_opened": "18 Months"
+    },
+    "Cottage cheese": {
+        "freezer": null,
+        "fridge": "1 Weeks",
+        "fridge_opened": "1 Weeks",
+        "name": "Cottage cheese",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Crab legs (king, dungeness, snow)": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Crab legs",
+        "name_subtitle": "king, dungeness, snow",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Crab meat (fresh)": {
+        "freezer": "4 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Crab meat",
+        "name_subtitle": "fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Crab meat (pasteurized)": {
+        "freezer": "10 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Crab meat",
+        "name_subtitle": "pasteurized",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Crackers": {
+        "freezer": "4 Months",
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Crackers",
+        "name_subtitle": null,
+        "pantry": "8 Months",
+        "pantry_opened": "1 Months"
+    },
+    "Cranberries": {
+        "freezer": "12 Months",
+        "fridge": "2 Months",
+        "fridge_opened": null,
+        "name": "Cranberries",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cranberry sauce (canned)": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": "2 Weeks",
+        "name": "Cranberry sauce",
+        "name_subtitle": "canned",
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Cranberry sauce (homemade)": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": null,
+        "name": "Cranberry sauce",
+        "name_subtitle": "homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cream (half and half)": {
+        "freezer": "4 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Cream",
+        "name_subtitle": "half and half",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cream (heavy)": {
+        "freezer": "4 Months",
+        "fridge": "10 Days",
+        "fridge_opened": null,
+        "name": "Cream",
+        "name_subtitle": "heavy",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cream (light)": {
+        "freezer": "4 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Cream",
+        "name_subtitle": "light",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cream (whipped, sweetened)": {
+        "freezer": "2 Months",
+        "fridge": "1 Days",
+        "fridge_opened": null,
+        "name": "Cream",
+        "name_subtitle": "whipped, sweetened",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cream (whipping, ultrapasteurized)": {
+        "freezer": null,
+        "fridge": "1 Weeks",
+        "fridge_opened": "1 Weeks",
+        "name": "Cream",
+        "name_subtitle": "whipping, ultrapasteurized",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cream cheese": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Cream cheese",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cream liquors (unopened)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cream liquors",
+        "name_subtitle": "unopened",
+        "pantry": "8 Months",
+        "pantry_opened": null
+    },
+    "Cream pies (banana cream, coconut cream, butterscotch)": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Cream pies",
+        "name_subtitle": "banana cream, coconut cream, butterscotch",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cream sauces, milk solids": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cream sauces, milk solids",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Croutons": {
+        "freezer": "12 Months",
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Croutons",
+        "name_subtitle": null,
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Cucumbers": {
+        "freezer": null,
+        "fridge": "6 Days",
+        "fridge_opened": null,
+        "name": "Cucumbers",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Cumin",
+        "name_subtitle": "ground, dried, commercially bottled or purchased in bulk, opened or unopened",
+        "pantry": "4 Years",
+        "pantry_opened": null
+    },
+    "Dairy filled eclairs": {
+        "freezer": "3 Months",
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "Dairy filled eclairs",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Dates": {
+        "freezer": "2 Years",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Dates",
+        "name_subtitle": null,
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Diet powder mixes and drink mixes": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Diet powder mixes and drink mixes",
+        "name_subtitle": null,
+        "pantry": "24 Months",
+        "pantry_opened": "3 Months"
+    },
+    "Dinners": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Dinners",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Dips (sour cream based)": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Dips",
+        "name_subtitle": "sour cream based",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Dough (commercial (bread or cookie))": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Dough",
+        "name_subtitle": "commercial (bread or cookie)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Doughnuts": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Doughnuts",
+        "name_subtitle": null,
+        "pantry": "2 Days",
+        "pantry_opened": null
+    },
+    "Dry egg noodles": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Dry egg noodles",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "2 Months"
+    },
+    "Dry gravy mixes": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Dry gravy mixes",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Dry stuffing mix (commercially packaged)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Dry stuffing mix",
+        "name_subtitle": "commercially packaged",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Duck fat": {
+        "freezer": null,
+        "fridge": "30 Days",
+        "fridge_opened": null,
+        "name": "Duck fat",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Duckling (domestic or wild, whole)": {
+        "freezer": "6 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Duckling",
+        "name_subtitle": "domestic or wild, whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Edamame (fresh)": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Edamame",
+        "name_subtitle": "fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Edamame (frozen)": {
+        "freezer": "2 Years",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Edamame",
+        "name_subtitle": "frozen",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Edamame (salted, dry roasted, out of pod)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Edamame",
+        "name_subtitle": "salted, dry roasted, out of pod",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Egg dishes": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Egg dishes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Egg salad": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Egg salad",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Egg substitutes": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Egg substitutes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Egg substitutes (liquid)": {
+        "freezer": null,
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "Egg substitutes",
+        "name_subtitle": "liquid",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Eggnog (commercial)": {
+        "freezer": "6 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Eggnog",
+        "name_subtitle": "commercial",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Eggplant": {
+        "freezer": "8 Months",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Eggplant",
+        "name_subtitle": null,
+        "pantry": "1 Days",
+        "pantry_opened": null
+    },
+    "Eggs (hard boiled cooked)": {
+        "freezer": null,
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Eggs",
+        "name_subtitle": "hard boiled cooked",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Eggs (in shell)": {
+        "freezer": null,
+        "fridge": "5 Weeks",
+        "fridge_opened": null,
+        "name": "Eggs",
+        "name_subtitle": "in shell",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Eggs (raw whites, yolks)": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Eggs",
+        "name_subtitle": "raw whites, yolks",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Farro (flour, meal)": {
+        "freezer": "6 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Farro",
+        "name_subtitle": "flour, meal",
+        "pantry": "3 Months",
+        "pantry_opened": null
+    },
+    "Farro (whole grain)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Farro",
+        "name_subtitle": "whole grain",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)": {
+        "freezer": "3 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Fatty fish",
+        "name_subtitle": "bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fish (breaded)": {
+        "freezer": "18 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Fish",
+        "name_subtitle": "breaded",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fish (cold smoked, air pack)": {
+        "freezer": "12 Months",
+        "fridge": "30 Days",
+        "fridge_opened": null,
+        "name": "Fish",
+        "name_subtitle": "cold smoked, air pack",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fish (cold smoked, vacuum pack)": {
+        "freezer": "12 Months",
+        "fridge": "30 Days",
+        "fridge_opened": null,
+        "name": "Fish",
+        "name_subtitle": "cold smoked, vacuum pack",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fish (hot smoked, air pack)": {
+        "freezer": "12 Months",
+        "fridge": "45 Days",
+        "fridge_opened": null,
+        "name": "Fish",
+        "name_subtitle": "hot smoked, air pack",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fish (hot smoked, vacuum pack)": {
+        "freezer": "12 Months",
+        "fridge": "45 Days",
+        "fridge_opened": null,
+        "name": "Fish",
+        "name_subtitle": "hot smoked, vacuum pack",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fish (raw but headed and gutted)": {
+        "freezer": "6 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Fish",
+        "name_subtitle": "raw but headed and gutted",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Flavored or herb mixes": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Flavored or herb mixes",
+        "name_subtitle": null,
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Flaxseed (ground)": {
+        "freezer": "12 Months",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Flaxseed",
+        "name_subtitle": "ground",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Flaxseed (whole seed)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Flaxseed",
+        "name_subtitle": "whole seed",
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Flour (white)": {
+        "freezer": null,
+        "fridge": "1 Year",
+        "fridge_opened": "1 Year",
+        "name": "Flour",
+        "name_subtitle": "white",
+        "pantry": "12 Months",
+        "pantry_opened": "8 Months"
+    },
+    "Flour (whole wheat)": {
+        "freezer": null,
+        "fridge": "8 Months",
+        "fridge_opened": "8 Months",
+        "name": "Flour",
+        "name_subtitle": "whole wheat",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Formula (prepared)": {
+        "freezer": null,
+        "fridge": "1 Days",
+        "fridge_opened": "1 Days",
+        "name": "Formula",
+        "name_subtitle": "prepared",
+        "pantry": null,
+        "pantry_opened": "1 Hours"
+    },
+    "Fresh clams, mussels, oysters": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": null,
+        "name": "Fresh clams, mussels, oysters",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fresh lobster tails (cooked)": {
+        "freezer": "4 Weeks",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Fresh lobster tails",
+        "name_subtitle": "cooked",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fresh pasta": {
+        "freezer": "2 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Fresh pasta",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fresh whole lobster (frozen)": {
+        "freezer": "4 Weeks",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Fresh whole lobster",
+        "name_subtitle": "frozen",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fresh whole lobster (live)": {
+        "freezer": null,
+        "fridge": "1 Days",
+        "fridge_opened": null,
+        "name": "Fresh whole lobster",
+        "name_subtitle": "live",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fried chicken": {
+        "freezer": "4 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Fried chicken",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Frosting or icing": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": "3 Weeks",
+        "name": "Frosting or icing",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Frozen entrees (prepared meals)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Frozen entrees",
+        "name_subtitle": "prepared meals",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Frozen potato products (fries, hashbrowns, tater tots)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Frozen potato products",
+        "name_subtitle": "fries, hashbrowns, tater tots",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Frozen pretzels": {
+        "freezer": "9 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Frozen pretzels",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fruit": {
+        "freezer": null,
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "Fruit",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fruit Juice in cartons, fruit drinks, punch": {
+        "freezer": null,
+        "fridge": "12 Days",
+        "fridge_opened": "12 Days",
+        "name": "Fruit Juice in cartons, fruit drinks, punch",
+        "name_subtitle": null,
+        "pantry": "3 Weeks",
+        "pantry_opened": "12 Days"
+    },
+    "Fruit cake": {
+        "freezer": "12 Months",
+        "fridge": "12 Months",
+        "fridge_opened": "12 Months",
+        "name": "Fruit cake",
+        "name_subtitle": null,
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Fruit cocktail (canned)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Fruit cocktail",
+        "name_subtitle": "canned",
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)": {
+        "freezer": "8 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": "1 Weeks",
+        "name": "Fruit pies",
+        "name_subtitle": "apple, peach, blueberry, apricot, cherry, blackberry",
+        "pantry": "2 Days",
+        "pantry_opened": null
+    },
+    "Fruit, cut": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Fruit, cut",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fruits (such as berries, melons)": {
+        "freezer": "18 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Fruits",
+        "name_subtitle": "such as berries, melons",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Fruits, dried",
+        "name_subtitle": "raisins, apricots, mangoes, cranberries, etc.",
+        "pantry": "6 Months",
+        "pantry_opened": "1 Months"
+    },
+    "Frying oil (re-used)": {
+        "freezer": "9 Months",
+        "fridge": "1 Months",
+        "fridge_opened": null,
+        "name": "Frying oil",
+        "name_subtitle": "re-used",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Garam masala": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Garam masala",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Garlic": {
+        "freezer": "1 Months",
+        "fridge": "14 Days",
+        "fridge_opened": null,
+        "name": "Garlic",
+        "name_subtitle": null,
+        "pantry": "1 Months",
+        "pantry_opened": null
+    },
+    "Garlic (chopped, commercial jars)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Garlic",
+        "name_subtitle": "chopped, commercial jars",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Garlic powder (dried, commercially bottled or purchased in bulk)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Garlic powder",
+        "name_subtitle": "dried, commercially bottled or purchased in bulk",
+        "pantry": "4 Years",
+        "pantry_opened": null
+    },
+    "Gelatin (flavored)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Gelatin",
+        "name_subtitle": "flavored",
+        "pantry": "12 Months",
+        "pantry_opened": "4 Months"
+    },
+    "Gelatin (unflavored)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Gelatin",
+        "name_subtitle": "unflavored",
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Ghee": {
+        "freezer": null,
+        "fridge": "2 Years",
+        "fridge_opened": null,
+        "name": "Ghee",
+        "name_subtitle": null,
+        "pantry": "8 Months",
+        "pantry_opened": null
+    },
+    "Giblets": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Giblets",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ginger root": {
+        "freezer": "6 Months",
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Ginger root",
+        "name_subtitle": null,
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Goat (ground)": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Goat",
+        "name_subtitle": "ground",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Goat (less tender whole cuts (stew meat, riblets, shanks))": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Goat",
+        "name_subtitle": "less tender whole cuts (stew meat, riblets, shanks)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Goat (tender whole cuts (legs, ribs, shoulder, loin))": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Goat",
+        "name_subtitle": "tender whole cuts (legs, ribs, shoulder, loin)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Goose (domestic or wild, whole)": {
+        "freezer": "6 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Goose",
+        "name_subtitle": "domestic or wild, whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Graham cracker/animal cracker": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Graham cracker/animal cracker",
+        "name_subtitle": null,
+        "pantry": "9 Months",
+        "pantry_opened": null
+    },
+    "Granola": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Granola",
+        "name_subtitle": null,
+        "pantry": "9 Months",
+        "pantry_opened": null
+    },
+    "Grapes": {
+        "freezer": "1 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Grapes",
+        "name_subtitle": null,
+        "pantry": "1 Days",
+        "pantry_opened": null
+    },
+    "Grapeseed oil": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Grapeseed oil",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Gravy (jars and cans)": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Gravy",
+        "name_subtitle": "jars and cans",
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Greens": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Greens",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Grits (boxed)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Grits",
+        "name_subtitle": "boxed",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Ground turkey or chicken": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Ground turkey or chicken",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Guacamole": {
+        "freezer": "4 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Guacamole",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Guava": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Guava",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Gummy (fruit) snacks": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Gummy (fruit) snacks",
+        "name_subtitle": null,
+        "pantry": "9 Months",
+        "pantry_opened": null
+    },
+    "Ham (canned (“keep refrigerated” label))": {
+        "freezer": null,
+        "fridge": "9 Months",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "canned (“keep refrigerated” label)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (country ham (whole or half))": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "country ham (whole or half)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fresh, cook-before-eating, arm picnic shoulder, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fresh, cook-before-eating, bone-in, half)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fresh, cook-before-eating, bone-in, half",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fresh, cook-before-eating, bone-in, whole)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fresh, cook-before-eating, bone-in, whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fresh, cook-before-eating, shank or butt portion, bone-in)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fresh, cook-before-eating, shank or butt portion, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fresh, cook-before-eating, shoulder roll (butt), boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fresh, uncooked, half leg, bone-in)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fresh, uncooked, half leg, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fresh, uncooked, whole leg, bone-in)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fresh, uncooked, whole leg, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fresh, uncooked, whole leg, boneless)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fresh, uncooked, whole leg, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fully cooked, arm picnic shoulder, boneless)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fully cooked, arm picnic shoulder, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fully cooked, bone-in, half)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fully cooked, bone-in, half",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fully cooked, bone-in, whole)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fully cooked, bone-in, whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fully cooked, canned, boneless (refrigerated))": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Ham",
+        "name_subtitle": "fully cooked, canned, boneless (refrigerated)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fully cooked, slices, half, or spiral cut)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fully cooked, slices, half, or spiral cut",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (fully cooked, vacuum packed, boneless)": {
+        "freezer": "2 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "fully cooked, vacuum packed, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (pre-packaged, luncheon/deli meat)": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Ham",
+        "name_subtitle": "pre-packaged, luncheon/deli meat",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (shelf-stable cans)": {
+        "freezer": null,
+        "fridge": "14 Days",
+        "fridge_opened": "14 Days",
+        "name": "Ham",
+        "name_subtitle": "shelf-stable cans",
+        "pantry": "9 Months",
+        "pantry_opened": null
+    },
+    "Ham (uncured, fresh, cooked)": {
+        "freezer": "4 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "uncured, fresh, cooked",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham (uncured, fresh, uncooked)": {
+        "freezer": "6 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Ham",
+        "name_subtitle": "uncured, fresh, uncooked",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ham salad": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Ham salad",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Hard liquors": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Hard liquors",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Herbs": {
+        "freezer": "2 Months",
+        "fridge": "10 Days",
+        "fridge_opened": null,
+        "name": "Herbs",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Herbs (dried)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Herbs",
+        "name_subtitle": "dried",
+        "pantry": "2 Years",
+        "pantry_opened": "2 Years"
+    },
+    "Herring (glass packed, in wine sauce)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Herring",
+        "name_subtitle": "glass packed, in wine sauce",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Hoisin sauce": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Hoisin sauce",
+        "name_subtitle": null,
+        "pantry": "24 Months",
+        "pantry_opened": null
+    },
+    "Honey": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Honey",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Honeydew": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Honeydew",
+        "name_subtitle": null,
+        "pantry": "7 Days",
+        "pantry_opened": null
+    },
+    "Horseradish (in jar)": {
+        "freezer": null,
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Horseradish",
+        "name_subtitle": "in jar",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Hot dogs": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": "1 Weeks",
+        "name": "Hot dogs",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Hot peppers": {
+        "freezer": "9 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Hot peppers",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Hot sauce": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Hot sauce",
+        "name_subtitle": null,
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Hummus (commercial (pasteurized, with preservatives))": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Hummus",
+        "name_subtitle": "commercial (pasteurized, with preservatives)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Hummus (traditional (no preservatives, not pasteurized))": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Hummus",
+        "name_subtitle": "traditional (no preservatives, not pasteurized)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ice cream": {
+        "freezer": "6 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Ice cream",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ice pops": {
+        "freezer": "9 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Ice pops",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Instant breakfast drinks (bottled)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Instant breakfast drinks",
+        "name_subtitle": "bottled",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Jams, jellies, and preserves": {
+        "freezer": null,
+        "fridge": "12 Months",
+        "fridge_opened": "12 Months",
+        "name": "Jams, jellies, and preserves",
+        "name_subtitle": null,
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Jars or pouches": {
+        "freezer": null,
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "Jars or pouches",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Jerky (commercially dried)": {
+        "freezer": null,
+        "fridge": "3 Months",
+        "fridge_opened": "3 Months",
+        "name": "Jerky",
+        "name_subtitle": "commercially dried",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Jerky (homemade)": {
+        "freezer": null,
+        "fridge": "2 Months",
+        "fridge_opened": null,
+        "name": "Jerky",
+        "name_subtitle": "homemade",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Jicama (fresh)": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Jicama",
+        "name_subtitle": "fresh",
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Juice concentrates": {
+        "freezer": "2 Years",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Juice concentrates",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Juice, boxes": {
+        "freezer": null,
+        "fridge": "12 Days",
+        "fridge_opened": "12 Days",
+        "name": "Juice, boxes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Kale": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Kale",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Kefir (fermented milk)": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Kefir",
+        "name_subtitle": "fermented milk",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ketchup, cocktail, or chili sauce": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Ketchup, cocktail, or chili sauce",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Kimchi": {
+        "freezer": null,
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Kimchi",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Kiwi fruit": {
+        "freezer": null,
+        "fridge": "6 Days",
+        "fridge_opened": null,
+        "name": "Kiwi fruit",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Kohlrabi": {
+        "freezer": "12 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Kohlrabi",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Kugel (commercial)": {
+        "freezer": "1 Years",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Kugel",
+        "name_subtitle": "commercial",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Kugel (homemade)": {
+        "freezer": "1 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Kugel",
+        "name_subtitle": "homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Kumquats": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Kumquats",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (breast, rolled)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "breast, rolled",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (chops, ribs, or loin)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "chops, ribs, or loin",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (crown roast)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "crown roast",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (cubes for kabobs)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "cubes for kabobs",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (ground)": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "ground",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (leg steaks)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "leg steaks",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (leg, bone-in - large)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "leg, bone-in - large",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (leg, bone-in - small)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "leg, bone-in - small",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (leg; boneless, rolled)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "leg; boneless, rolled",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (shanks)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "shanks",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (shoulder roast or shank leg half)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "shoulder roast or shank leg half",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lamb (stew meat, pieces)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Lamb",
+        "name_subtitle": "stew meat, pieces",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lean fish (cod, flounder, haddock, halibut, sole, etc.)": {
+        "freezer": "8 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Lean fish",
+        "name_subtitle": "cod, flounder, haddock, halibut, sole, etc.",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lean fish (pollock, ocean perch, rockfish, sea trout.)": {
+        "freezer": "8 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Lean fish",
+        "name_subtitle": "pollock, ocean perch, rockfish, sea trout.",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Leeks": {
+        "freezer": "12 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Leeks",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Leftovers (pizza)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Leftovers",
+        "name_subtitle": "pizza",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Leftovers (with meat, fish, poultry, or egg)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Leftovers",
+        "name_subtitle": "with meat, fish, poultry, or egg",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Leftovers",
+        "name_subtitle": "without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lemon extract": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Lemon extract",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Lemon juice": {
+        "freezer": null,
+        "fridge": "2 Months",
+        "fridge_opened": "2 Months",
+        "name": "Lemon juice",
+        "name_subtitle": null,
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Lemon juice (fresh squeezed)": {
+        "freezer": "12 Months",
+        "fridge": "6 Days",
+        "fridge_opened": null,
+        "name": "Lemon juice",
+        "name_subtitle": "fresh squeezed",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lemongrass": {
+        "freezer": "6 Months",
+        "fridge": "9 Days",
+        "fridge_opened": null,
+        "name": "Lemongrass",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lentils (dried)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Lentils",
+        "name_subtitle": "dried",
+        "pantry": "1 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Lettuce (iceberg, romaine)": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Lettuce",
+        "name_subtitle": "iceberg, romaine",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lettuce (leaf, spinach)": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Lettuce",
+        "name_subtitle": "leaf, spinach",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lime juice": {
+        "freezer": null,
+        "fridge": "2 Months",
+        "fridge_opened": "2 Months",
+        "name": "Lime juice",
+        "name_subtitle": null,
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Liquid concentrate or ready-to-feed formula": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Liquid concentrate or ready-to-feed formula",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Live clams, mussels, crab, and oysters": {
+        "freezer": "3 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Live clams, mussels, crab, and oysters",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Lobster tails": {
+        "freezer": "8 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Lobster tails",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Luncheon meat or poultry (pre-packaged)": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Luncheon meat or poultry",
+        "name_subtitle": "pre-packaged",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Luncheon meat or poultry (store-sliced)": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Luncheon meat or poultry",
+        "name_subtitle": "store-sliced",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Macadamias (no shell)": {
+        "freezer": "24 Months",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Macadamias",
+        "name_subtitle": "no shell",
+        "pantry": "4 Weeks",
+        "pantry_opened": null
+    },
+    "Macaroons (french)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Macaroons",
+        "name_subtitle": "french",
+        "pantry": "2 Days",
+        "pantry_opened": null
+    },
+    "Main dishes or meals (hot or refrigerated)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Main dishes or meals",
+        "name_subtitle": "hot or refrigerated",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Margarine": {
+        "freezer": "12 Months",
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Margarine",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Marinades": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Marinades",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Marinated vegetables (in oil)": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Marinated vegetables",
+        "name_subtitle": "in oil",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Marshmallow crème": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Marshmallow crème",
+        "name_subtitle": null,
+        "pantry": "5 Months",
+        "pantry_opened": "1 Months"
+    },
+    "Marshmallows": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Marshmallows",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": "1 Months"
+    },
+    "Mayonnaise (commercial)": {
+        "freezer": null,
+        "fridge": "2 Months",
+        "fridge_opened": "2 Months",
+        "name": "Mayonnaise",
+        "name_subtitle": "commercial",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Meat products (canned)": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Meat products",
+        "name_subtitle": "canned",
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Meats (covered with gravy or broth)": {
+        "freezer": "6 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Meats",
+        "name_subtitle": "covered with gravy or broth",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Melons": {
+        "freezer": "1 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Melons",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Milk (canned evaporated or condensed)": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Milk",
+        "name_subtitle": "canned evaporated or condensed",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Milk (lactose-free)": {
+        "freezer": null,
+        "fridge": "1 Weeks",
+        "fridge_opened": "1 Weeks",
+        "name": "Milk",
+        "name_subtitle": "lactose-free",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Milk (plain or flavored)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Milk",
+        "name_subtitle": "plain or flavored",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Milk (shelf-stable)": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Milk",
+        "name_subtitle": "shelf-stable",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Milk (ultra-pasteurized)": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Milk",
+        "name_subtitle": "ultra-pasteurized",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Millet (flour, meal)": {
+        "freezer": "2 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Millet",
+        "name_subtitle": "flour, meal",
+        "pantry": "1 Months",
+        "pantry_opened": null
+    },
+    "Millet (whole grain)": {
+        "freezer": "4 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Millet",
+        "name_subtitle": "whole grain",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Mint": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Mint",
+        "name_subtitle": null,
+        "pantry": "2 Weeks",
+        "pantry_opened": null
+    },
+    "Miso": {
+        "freezer": null,
+        "fridge": "1 Years",
+        "fridge_opened": null,
+        "name": "Miso",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Molasses": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Molasses",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "6 Months"
+    },
+    "Muffin (commercially packaged)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Muffin",
+        "name_subtitle": "commercially packaged",
+        "pantry": "7 Days",
+        "pantry_opened": null
+    },
+    "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Muffin",
+        "name_subtitle": "homemade - including bran, blueberry, banana, corn, chocolate chip",
+        "pantry": "7 Days",
+        "pantry_opened": null
+    },
+    "Muffin (mix, dry, commercially packaged)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Muffin",
+        "name_subtitle": "mix, dry, commercially packaged",
+        "pantry": "9 Months",
+        "pantry_opened": null
+    },
+    "Mung bean (dry, food-grade bags)": {
+        "freezer": "1 Years",
+        "fridge": "1 Years",
+        "fridge_opened": null,
+        "name": "Mung bean",
+        "name_subtitle": "dry, food-grade bags",
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Mung bean (dry, vacuum-sealed)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Mung bean",
+        "name_subtitle": "dry, vacuum-sealed",
+        "pantry": "10 Years",
+        "pantry_opened": null
+    },
+    "Mung bean (sprouts)": {
+        "freezer": null,
+        "fridge": "6 Weeks",
+        "fridge_opened": null,
+        "name": "Mung bean",
+        "name_subtitle": "sprouts",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Mushrooms": {
+        "freezer": "12 Months",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Mushrooms",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Mushrooms (dried)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Mushrooms",
+        "name_subtitle": "dried",
+        "pantry": "2 Years",
+        "pantry_opened": "3 Months"
+    },
+    "Mustard": {
+        "freezer": null,
+        "fridge": "1 Years",
+        "fridge_opened": "1 Years",
+        "name": "Mustard",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Mustard (dried, ground)": {
+        "freezer": "2 Years",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Mustard",
+        "name_subtitle": "dried, ground",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Nacho cheese (store bought)": {
+        "freezer": "3 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": "2 Weeks",
+        "name": "Nacho cheese",
+        "name_subtitle": "store bought",
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Nectar (papaya, mango, guava, or guavabana)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Nectar",
+        "name_subtitle": "papaya, mango, guava, or guavabana",
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Nut oils": {
+        "freezer": null,
+        "fridge": "8 Months",
+        "fridge_opened": "8 Months",
+        "name": "Nut oils",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": "8 Months"
+    },
+    "Nutmeg (ground, dried, commercially bottled or purchased in bulk)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Nutmeg",
+        "name_subtitle": "ground, dried, commercially bottled or purchased in bulk",
+        "pantry": "4 Years",
+        "pantry_opened": null
+    },
+    "Nutrition supplement drinks (bottled)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Nutrition supplement drinks",
+        "name_subtitle": "bottled",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Nutrition supplement drinks (canned)": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Nutrition supplement drinks",
+        "name_subtitle": "canned",
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Nuts (jars or cans)": {
+        "freezer": "12 Months",
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Nuts",
+        "name_subtitle": "jars or cans",
+        "pantry": "1 Years",
+        "pantry_opened": "9 Months"
+    },
+    "Oats (flour, meal)": {
+        "freezer": "4 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Oats",
+        "name_subtitle": "flour, meal",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Oats (whole grain)": {
+        "freezer": "8 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Oats",
+        "name_subtitle": "whole grain",
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Oils (olive or vegetable)": {
+        "freezer": null,
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Oils",
+        "name_subtitle": "olive or vegetable",
+        "pantry": "12 Months",
+        "pantry_opened": "5 Months"
+    },
+    "Okra": {
+        "freezer": "12 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Okra",
+        "name_subtitle": null,
+        "pantry": "1 Days",
+        "pantry_opened": null
+    },
+    "Olives (black and green)": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": "2 Weeks",
+        "name": "Olives",
+        "name_subtitle": "black and green",
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Olives (from olive bar)": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Olives",
+        "name_subtitle": "from olive bar",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Onion powder (dried, commercially bottled or purchased in bulk)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Onion powder",
+        "name_subtitle": "dried, commercially bottled or purchased in bulk",
+        "pantry": "4 Years",
+        "pantry_opened": null
+    },
+    "Onions (spring or green)": {
+        "freezer": "12 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Onions",
+        "name_subtitle": "spring or green",
+        "pantry": "1 Months",
+        "pantry_opened": null
+    },
+    "Onions (yellow, white, red, etc.)": {
+        "freezer": "12 Months",
+        "fridge": "2 Months",
+        "fridge_opened": null,
+        "name": "Onions",
+        "name_subtitle": "yellow, white, red, etc.",
+        "pantry": "1 Months",
+        "pantry_opened": null
+    },
+    "Orange juice (commercially frozen concentrate)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Orange juice",
+        "name_subtitle": "commercially frozen concentrate",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Orange juice (commercially packaged carton)": {
+        "freezer": "12 Months",
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Orange juice",
+        "name_subtitle": "commercially packaged carton",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Orange juice (freshly squeezed)": {
+        "freezer": "3 Weeks",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Orange juice",
+        "name_subtitle": "freshly squeezed",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Oregano": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Oregano",
+        "name_subtitle": null,
+        "pantry": "2 Weeks",
+        "pantry_opened": null
+    },
+    "Oyster sauce": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Oyster sauce",
+        "name_subtitle": null,
+        "pantry": "24 Months",
+        "pantry_opened": null
+    },
+    "Pancakes, waffles": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pancakes, waffles",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Papaya, mango, feijoa, passionfruit, casaha melon": {
+        "freezer": "8 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Papaya, mango, feijoa, passionfruit, casaha melon",
+        "name_subtitle": null,
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Parsley (fresh)": {
+        "freezer": "4 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Parsley",
+        "name_subtitle": "fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pasta (dry, without eggs)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pasta",
+        "name_subtitle": "dry, without eggs",
+        "pantry": "2 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Pasta salad": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pasta salad",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pastrami": {
+        "freezer": null,
+        "fridge": "40 Days",
+        "fridge_opened": null,
+        "name": "Pastrami",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pastries, danish": {
+        "freezer": null,
+        "fridge": "14 Months",
+        "fridge_opened": "14 Months",
+        "name": "Pastries, danish",
+        "name_subtitle": null,
+        "pantry": "10 Days",
+        "pantry_opened": null
+    },
+    "Pate": {
+        "freezer": "2 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Pate",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pate (meat)": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Pate",
+        "name_subtitle": "meat",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pate (poultry)": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Pate",
+        "name_subtitle": "poultry",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Peaches, nectarines, plums, pears, sapote": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Peaches, nectarines, plums, pears, sapote",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Peanut butter (commercial)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Peanut butter",
+        "name_subtitle": "commercial",
+        "pantry": "24 Months",
+        "pantry_opened": "3 Months"
+    },
+    "Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)": {
+        "freezer": null,
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Peanut butter",
+        "name_subtitle": "commercially produced, containing hydrogenated fat or other stabilizers",
+        "pantry": "9 Months",
+        "pantry_opened": "3 Months"
+    },
+    "Peanut butter (natural)": {
+        "freezer": null,
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Peanut butter",
+        "name_subtitle": "natural",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Peanuts (boiled, shelled)": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Peanuts",
+        "name_subtitle": "boiled, shelled",
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Peanuts (no shell)": {
+        "freezer": "24 Months",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Peanuts",
+        "name_subtitle": "no shell",
+        "pantry": "4 Weeks",
+        "pantry_opened": null
+    },
+    "Peanuts (shell)": {
+        "freezer": "24 Months",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Peanuts",
+        "name_subtitle": "shell",
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Peas (dried split)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Peas",
+        "name_subtitle": "dried split",
+        "pantry": "1 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Pecans (chopped)": {
+        "freezer": "2 Years",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Pecans",
+        "name_subtitle": "chopped",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pecans (no shell)": {
+        "freezer": "24 Months",
+        "fridge": "9 Months",
+        "fridge_opened": null,
+        "name": "Pecans",
+        "name_subtitle": "no shell",
+        "pantry": "4 Weeks",
+        "pantry_opened": null
+    },
+    "Pecans (shell)": {
+        "freezer": "24 Months",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Pecans",
+        "name_subtitle": "shell",
+        "pantry": "4 Weeks",
+        "pantry_opened": null
+    },
+    "Pectin": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pectin",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": "1 Months"
+    },
+    "Peppers": {
+        "freezer": "8 Months",
+        "fridge": "14 Days",
+        "fridge_opened": null,
+        "name": "Peppers",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pesto (jarred)": {
+        "freezer": "1 Months",
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "Pesto",
+        "name_subtitle": "jarred",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pheasant (young, whole)": {
+        "freezer": "6 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Pheasant",
+        "name_subtitle": "young, whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pickles": {
+        "freezer": null,
+        "fridge": "3 Months",
+        "fridge_opened": "3 Months",
+        "name": "Pickles",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Pie crust (refrigerated)": {
+        "freezer": "2 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pie crust",
+        "name_subtitle": "refrigerated",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pies (mincemeat)": {
+        "freezer": "8 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": "1 Weeks",
+        "name": "Pies",
+        "name_subtitle": "mincemeat",
+        "pantry": "2 Hours",
+        "pantry_opened": null
+    },
+    "Pies (pecan)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Pies",
+        "name_subtitle": "pecan",
+        "pantry": "2 Hours",
+        "pantry_opened": null
+    },
+    "Pies (pumpkin)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Pies",
+        "name_subtitle": "pumpkin",
+        "pantry": "2 Hours",
+        "pantry_opened": null
+    },
+    "Pimento cheese (packaged)": {
+        "freezer": null,
+        "fridge": "4 Weeks",
+        "fridge_opened": "4 Weeks",
+        "name": "Pimento cheese",
+        "name_subtitle": "packaged",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pine nuts": {
+        "freezer": "9 Months",
+        "fridge": "3 Months",
+        "fridge_opened": null,
+        "name": "Pine nuts",
+        "name_subtitle": null,
+        "pantry": "3 Weeks",
+        "pantry_opened": null
+    },
+    "Pineapple": {
+        "freezer": "12 Months",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Pineapple",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pistachios (shell or no shell)": {
+        "freezer": "24 Months",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Pistachios",
+        "name_subtitle": "shell or no shell",
+        "pantry": "3 Weeks",
+        "pantry_opened": null
+    },
+    "Pitaya/dragon fruit": {
+        "freezer": "12 Months",
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Pitaya/dragon fruit",
+        "name_subtitle": null,
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Pizza (frozen)": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Pizza",
+        "name_subtitle": "frozen",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Plantains": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Plantains",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Polenta (frozen)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Polenta",
+        "name_subtitle": "frozen",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Polenta (shelf-stable)": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Polenta",
+        "name_subtitle": "shelf-stable",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pomegranate": {
+        "freezer": "12 Months",
+        "fridge": "3 Months",
+        "fridge_opened": null,
+        "name": "Pomegranate",
+        "name_subtitle": null,
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Popcorn (commercially popped in bags)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Popcorn",
+        "name_subtitle": "commercially popped in bags",
+        "pantry": "3 Months",
+        "pantry_opened": "2 Weeks"
+    },
+    "Popcorn (dry kernels in jar)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Popcorn",
+        "name_subtitle": "dry kernels in jar",
+        "pantry": "2 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Popcorn (microwave packets)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Popcorn",
+        "name_subtitle": "microwave packets",
+        "pantry": "12 Months",
+        "pantry_opened": "2 Days"
+    },
+    "Pork (crown roast - large)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "crown roast - large",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (crown roast - small)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "crown roast - small",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (ground)": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "ground",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (loin chops, bone-in)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "loin chops, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (loin chops, boneless)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "loin chops, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (loin roast, bone-in)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "loin roast, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (loin roast, boneless)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "loin roast, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (loin, cubes)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "loin, cubes",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (ribs)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "ribs",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (shoulder)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "shoulder",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (tenderloin medallions or loin cubes)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "tenderloin medallions or loin cubes",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork (tenderloin)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Pork",
+        "name_subtitle": "tenderloin",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pork rinds": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pork rinds",
+        "name_subtitle": null,
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Pork roll": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Pork roll",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Potato chips": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Potato chips",
+        "name_subtitle": null,
+        "pantry": "2 Months",
+        "pantry_opened": "2 Weeks"
+    },
+    "Potato salad": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Potato salad",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Potatoes": {
+        "freezer": "12 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Potatoes",
+        "name_subtitle": null,
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Potatoes (instant)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Potatoes",
+        "name_subtitle": "instant",
+        "pantry": "15 Months",
+        "pantry_opened": "12 Months"
+    },
+    "Poultry pieces (covered with gravy or broth)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Poultry pieces",
+        "name_subtitle": "covered with gravy or broth",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Powdered milk": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Powdered milk",
+        "name_subtitle": null,
+        "pantry": "5 Years",
+        "pantry_opened": "3 Months"
+    },
+    "Pretzels": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pretzels",
+        "name_subtitle": null,
+        "pantry": "9 Months",
+        "pantry_opened": "3 Weeks"
+    },
+    "Prickly pear": {
+        "freezer": "12 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Prickly pear",
+        "name_subtitle": null,
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Prosciutto": {
+        "freezer": "1 Months",
+        "fridge": "3 Months",
+        "fridge_opened": null,
+        "name": "Prosciutto",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pudding": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Pudding",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pudding mixes": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pudding mixes",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": "4 Months"
+    },
+    "Puff pastry": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Puff pastry",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Pumpkin seeds (raw, in-shell)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pumpkin seeds",
+        "name_subtitle": "raw, in-shell",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Pumpkin seeds (raw, no shell)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Pumpkin seeds",
+        "name_subtitle": "raw, no shell",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Pumpkin seeds (roasted, in-shell)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pumpkin seeds",
+        "name_subtitle": "roasted, in-shell",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Pumpkin seeds (roasted, no-shell)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pumpkin seeds",
+        "name_subtitle": "roasted, no-shell",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Pumpkins": {
+        "freezer": null,
+        "fridge": "5 Months",
+        "fridge_opened": null,
+        "name": "Pumpkins",
+        "name_subtitle": null,
+        "pantry": "3 Months",
+        "pantry_opened": null
+    },
+    "Pure vanilla extract": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Pure vanilla extract",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Quail (whole)": {
+        "freezer": "6 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Quail",
+        "name_subtitle": "whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Quark (fresh cheese)": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": null,
+        "name": "Quark",
+        "name_subtitle": "fresh cheese",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Quiche": {
+        "freezer": "3 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Quiche",
+        "name_subtitle": null,
+        "pantry": "2 Hours",
+        "pantry_opened": null
+    },
+    "Quinoa (cooked)": {
+        "freezer": "12 Months",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Quinoa",
+        "name_subtitle": "cooked",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Quinoa (uncooked)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Quinoa",
+        "name_subtitle": "uncooked",
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Rabbit (whole, fresh)": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Rabbit",
+        "name_subtitle": "whole, fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Radicchio": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Radicchio",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Radishes": {
+        "freezer": null,
+        "fridge": "14 Days",
+        "fridge_opened": null,
+        "name": "Radishes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Raspberries": {
+        "freezer": "12 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Raspberries",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Raw kabobs with vegetables": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Raw kabobs with vegetables",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Re-hydrated textured soy protein ((TSP))": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Re-hydrated textured soy protein",
+        "name_subtitle": "(TSP)",
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Ready-to-bake pie crust": {
+        "freezer": "2 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Ready-to-bake pie crust",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Red wine": {
+        "freezer": null,
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "Red wine",
+        "name_subtitle": null,
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Refried beans": {
+        "freezer": null,
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "Refried beans",
+        "name_subtitle": null,
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Relish": {
+        "freezer": null,
+        "fridge": "9 Months",
+        "fridge_opened": null,
+        "name": "Relish",
+        "name_subtitle": null,
+        "pantry": "30 Months",
+        "pantry_opened": null
+    },
+    "Retort pouches or boxes": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Retort pouches or boxes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Rhubarb": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Rhubarb",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Rice (brown)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Rice",
+        "name_subtitle": "brown",
+        "pantry": "1 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Rice (white or wild)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Rice",
+        "name_subtitle": "white or wild",
+        "pantry": "2 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Rice milk": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Rice milk",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Ricotta": {
+        "freezer": null,
+        "fridge": "1 Weeks",
+        "fridge_opened": "1 Weeks",
+        "name": "Ricotta",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Roasted nuts (peanuts, cashews, almonds)": {
+        "freezer": null,
+        "fridge": "4 Weeks",
+        "fridge_opened": "4 Weeks",
+        "name": "Roasted nuts (peanuts, cashews, almonds)",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": "2 Weeks"
+    },
+    "Roasted red peppers (jar)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Roasted red peppers",
+        "name_subtitle": "jar",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Rosemary": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Rosemary",
+        "name_subtitle": null,
+        "pantry": "2 Weeks",
+        "pantry_opened": null
+    },
+    "Rotisserie chicken": {
+        "freezer": "4 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Rotisserie chicken",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Rutabagas": {
+        "freezer": "10 Months",
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Rutabagas",
+        "name_subtitle": null,
+        "pantry": "1 Weeks",
+        "pantry_opened": null
+    },
+    "Rye (flour, meal)": {
+        "freezer": "6 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Rye",
+        "name_subtitle": "flour, meal",
+        "pantry": "3 Months",
+        "pantry_opened": null
+    },
+    "Rye (whole grain)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Rye",
+        "name_subtitle": "whole grain",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Salad dressing (creamy)": {
+        "freezer": null,
+        "fridge": "4 Weeks",
+        "fridge_opened": "4 Weeks",
+        "name": "Salad dressing",
+        "name_subtitle": "creamy",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Salad dressing (dry,packaged)": {
+        "freezer": null,
+        "fridge": "4 Weeks",
+        "fridge_opened": "4 Weeks",
+        "name": "Salad dressing",
+        "name_subtitle": "dry,packaged",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Salad dressing (homemade)": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": "2 Weeks",
+        "name": "Salad dressing",
+        "name_subtitle": "homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Salad dressing (vinaigrette)": {
+        "freezer": null,
+        "fridge": "4 Weeks",
+        "fridge_opened": "4 Weeks",
+        "name": "Salad dressing",
+        "name_subtitle": "vinaigrette",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Salad dressing (vinaigrette,homemade)": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Salad dressing",
+        "name_subtitle": "vinaigrette,homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Salad dressings (commercial, bottled)": {
+        "freezer": null,
+        "fridge": "3 Months",
+        "fridge_opened": "3 Months",
+        "name": "Salad dressings",
+        "name_subtitle": "commercial, bottled",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Salami (pre-packaged, luncheon/deli meat)": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Salami",
+        "name_subtitle": "pre-packaged, luncheon/deli meat",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Salsa (fresh)": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Salsa",
+        "name_subtitle": "fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Salsa (homemade, canned)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Salsa",
+        "name_subtitle": "homemade, canned",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Salsa (homemade, fresh)": {
+        "freezer": "12 Months",
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Salsa",
+        "name_subtitle": "homemade, fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Salsa (picante and taco sauces)": {
+        "freezer": null,
+        "fridge": "1 Months",
+        "fridge_opened": "1 Months",
+        "name": "Salsa",
+        "name_subtitle": "picante and taco sauces",
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Salt (table, plain, or iodized)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Salt",
+        "name_subtitle": "table, plain, or iodized",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Sauce mixes (nondairy (spaghetti, taco, etc.))": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sauce mixes",
+        "name_subtitle": "nondairy (spaghetti, taco, etc.)",
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Sausage (fully cooked smoked links, kielbasa)": {
+        "freezer": "2 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Sausage",
+        "name_subtitle": "fully cooked smoked links, kielbasa",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Sausage (hard, dry (pepperoni), sliced)": {
+        "freezer": "2 Months",
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Sausage",
+        "name_subtitle": "hard, dry (pepperoni), sliced",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Sausage (raw bulk type or patties)": {
+        "freezer": "2 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Sausage",
+        "name_subtitle": "raw bulk type or patties",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Sausages (precooked)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Sausages",
+        "name_subtitle": "precooked",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Sausages (uncooked)": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Sausages",
+        "name_subtitle": "uncooked",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Scallops": {
+        "freezer": "18 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Scallops",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Seafood (canned)": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Seafood",
+        "name_subtitle": "canned",
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Seafood salads",
+        "name_subtitle": "(tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.)",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Seasoning blends": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Seasoning blends",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "2 Years"
+    },
+    "Sesame oil": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sesame oil",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "6 Months"
+    },
+    "Sesame seeds": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sesame seeds",
+        "name_subtitle": null,
+        "pantry": "5 Years",
+        "pantry_opened": null
+    },
+    "Sherbet, sorbet": {
+        "freezer": "9 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sherbet, sorbet",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Shortening (solid)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Shortening",
+        "name_subtitle": "solid",
+        "pantry": "2 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Shrimp, crayfish": {
+        "freezer": "18 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Shrimp, crayfish",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Shrimp, shellfish": {
+        "freezer": "18 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Shrimp, shellfish",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Shucked clams, mussels, and oysters": {
+        "freezer": "4 Months",
+        "fridge": "10 Days",
+        "fridge_opened": null,
+        "name": "Shucked clams, mussels, and oysters",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)": {
+        "freezer": null,
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "Soda",
+        "name_subtitle": "carbonated cola drinks, mixers, diet sodas; bottles or cans",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Sorghum (flour, meal)": {
+        "freezer": "4 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sorghum",
+        "name_subtitle": "flour, meal",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Sorghum (whole grain)": {
+        "freezer": "8 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sorghum",
+        "name_subtitle": "whole grain",
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Soup mixes (dry bouillon)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Soup mixes",
+        "name_subtitle": "dry bouillon",
+        "pantry": "1 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Soup, stews": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Soup, stews",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Sour cream": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sour cream",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Soy crumbles and hot dogs": {
+        "freezer": "2 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Soy crumbles and hot dogs",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Soy flour (full-fat)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Soy flour",
+        "name_subtitle": "full-fat",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Soy meat substitutes": {
+        "freezer": "18 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Soy meat substitutes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Soy milk": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Soy milk",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Soy or rice beverage": {
+        "freezer": null,
+        "fridge": "10 Days",
+        "fridge_opened": "10 Days",
+        "name": "Soy or rice beverage",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Soy sauce or teriyaki sauce": {
+        "freezer": null,
+        "fridge": "1 Months",
+        "fridge_opened": "1 Months",
+        "name": "Soy sauce or teriyaki sauce",
+        "name_subtitle": null,
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Spaghetti sauce (in jars)": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Spaghetti sauce",
+        "name_subtitle": "in jars",
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Spaghetti squash (cut)": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Spaghetti squash",
+        "name_subtitle": "cut",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Spaghetti squash (whole)": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Spaghetti squash",
+        "name_subtitle": "whole",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Spelt (flour, meal)": {
+        "freezer": "6 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Spelt",
+        "name_subtitle": "flour, meal",
+        "pantry": "3 Months",
+        "pantry_opened": null
+    },
+    "Spelt (whole grain)": {
+        "freezer": "12 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Spelt",
+        "name_subtitle": "whole grain",
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Spice/spices (ground)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Spice/spices",
+        "name_subtitle": "ground",
+        "pantry": "3 Years",
+        "pantry_opened": "3 Years"
+    },
+    "Spice/spices (whole)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Spice/spices",
+        "name_subtitle": "whole",
+        "pantry": "4 Years",
+        "pantry_opened": "4 Years"
+    },
+    "Squash (summer and zucchini)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Squash",
+        "name_subtitle": "summer and zucchini",
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Squash (winter)": {
+        "freezer": "12 Months",
+        "fridge": "3 Months",
+        "fridge_opened": null,
+        "name": "Squash",
+        "name_subtitle": "winter",
+        "pantry": "6 Weeks",
+        "pantry_opened": null
+    },
+    "Squid": {
+        "freezer": "18 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Squid",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Star fruit": {
+        "freezer": "12 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Star fruit",
+        "name_subtitle": null,
+        "pantry": "1 Weeks",
+        "pantry_opened": null
+    },
+    "Strawberries": {
+        "freezer": "12 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Strawberries",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "String Cheese": {
+        "freezer": null,
+        "fridge": "5 Months",
+        "fridge_opened": null,
+        "name": "String Cheese",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Stuffed, raw chicken breasts": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Stuffed, raw chicken breasts",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Stuffed, raw pork chops": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Stuffed, raw pork chops",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Sugar (brown)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sugar",
+        "name_subtitle": "brown",
+        "pantry": null,
+        "pantry_opened": "24 Months"
+    },
+    "Sugar (confectioners)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sugar",
+        "name_subtitle": "confectioners",
+        "pantry": null,
+        "pantry_opened": "24 Months"
+    },
+    "Sugar (granulated)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sugar",
+        "name_subtitle": "granulated",
+        "pantry": null,
+        "pantry_opened": "24 Months"
+    },
+    "Sugar substitutes": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sugar substitutes",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Sun dried tomatoes (jar)": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Sun dried tomatoes",
+        "name_subtitle": "jar",
+        "pantry": "1 Years",
+        "pantry_opened": "6 Months"
+    },
+    "Sunflower oil": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sunflower oil",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Sunflower seeds (raw, unsalted, no shell)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sunflower seeds",
+        "name_subtitle": "raw, unsalted, no shell",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Sunflower seeds (roasted, no shell)": {
+        "freezer": null,
+        "fridge": "8 Months",
+        "fridge_opened": "8 Months",
+        "name": "Sunflower seeds",
+        "name_subtitle": "roasted, no shell",
+        "pantry": "12 Months",
+        "pantry_opened": "4 Months"
+    },
+    "Sunflower seeds (roasted, salted, in shell)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Sunflower seeds",
+        "name_subtitle": "roasted, salted, in shell",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Surimi seafood": {
+        "freezer": "9 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Surimi seafood",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Swiss chard": {
+        "freezer": null,
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Swiss chard",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Syrup": {
+        "freezer": null,
+        "fridge": "6 Months",
+        "fridge_opened": "6 Months",
+        "name": "Syrup",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Tahini": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": "3 Weeks",
+        "name": "Tahini",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Tamarind": {
+        "freezer": "1 Years",
+        "fridge": "6 Months",
+        "fridge_opened": null,
+        "name": "Tamarind",
+        "name_subtitle": null,
+        "pantry": "3 Weeks",
+        "pantry_opened": null
+    },
+    "Tamarind paste": {
+        "freezer": null,
+        "fridge": "3 Months",
+        "fridge_opened": "3 Months",
+        "name": "Tamarind paste",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": "6 Months"
+    },
+    "Tapenade": {
+        "freezer": null,
+        "fridge": "9 Months",
+        "fridge_opened": null,
+        "name": "Tapenade",
+        "name_subtitle": null,
+        "pantry": "9 Months",
+        "pantry_opened": null
+    },
+    "Tapiocas": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Tapiocas",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": "12 Months"
+    },
+    "Taro": {
+        "freezer": null,
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Taro",
+        "name_subtitle": null,
+        "pantry": "7 Days",
+        "pantry_opened": null
+    },
+    "Tea (bags)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Tea",
+        "name_subtitle": "bags",
+        "pantry": "36 Months",
+        "pantry_opened": "12 Months"
+    },
+    "Tea (instant)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Tea",
+        "name_subtitle": "instant",
+        "pantry": "3 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Tea (loose)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Tea",
+        "name_subtitle": "loose",
+        "pantry": "2 Years",
+        "pantry_opened": "12 Months"
+    },
+    "Teff (flour, meal)": {
+        "freezer": "4 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Teff",
+        "name_subtitle": "flour, meal",
+        "pantry": "2 Months",
+        "pantry_opened": null
+    },
+    "Teff (whole grain)": {
+        "freezer": "8 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Teff",
+        "name_subtitle": "whole grain",
+        "pantry": "4 Months",
+        "pantry_opened": null
+    },
+    "Tempeh": {
+        "freezer": "6 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Tempeh",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Textured soy protein ((TSP))": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Textured soy protein",
+        "name_subtitle": "(TSP)",
+        "pantry": "2 Years",
+        "pantry_opened": "4 Months"
+    },
+    "Thai red curry paste": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Thai red curry paste",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Thyme": {
+        "freezer": null,
+        "fridge": "3 Weeks",
+        "fridge_opened": null,
+        "name": "Thyme",
+        "name_subtitle": null,
+        "pantry": "2 Weeks",
+        "pantry_opened": null
+    },
+    "Toaster pastries": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Toaster pastries",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": "2 Weeks"
+    },
+    "Tofu": {
+        "freezer": "5 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Tofu",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Tomato Sauce (homemade, canned)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Tomato Sauce",
+        "name_subtitle": "homemade, canned",
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Tomato paste": {
+        "freezer": "3 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Tomato paste",
+        "name_subtitle": null,
+        "pantry": "27 Months",
+        "pantry_opened": null
+    },
+    "Tomato sauce (spaghetti, pizza)": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Tomato sauce",
+        "name_subtitle": "spaghetti, pizza",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Tomatoes": {
+        "freezer": "2 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Tomatoes",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Tortillas (corn)": {
+        "freezer": null,
+        "fridge": "90 Days",
+        "fridge_opened": null,
+        "name": "Tortillas",
+        "name_subtitle": "corn",
+        "pantry": "45 Days",
+        "pantry_opened": null
+    },
+    "Tortillas (flour)": {
+        "freezer": "6 Months",
+        "fridge": "3 Months",
+        "fridge_opened": "3 Months",
+        "name": "Tortillas",
+        "name_subtitle": "flour",
+        "pantry": "3 Months",
+        "pantry_opened": null
+    },
+    "Tube cans (of biscuits, rolls, pizza dough, etc.)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Tube cans",
+        "name_subtitle": "of biscuits, rolls, pizza dough, etc.",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Tuna (canned)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Tuna",
+        "name_subtitle": "canned",
+        "pantry": "3 Years",
+        "pantry_opened": null
+    },
+    "Tuna (packet)": {
+        "freezer": null,
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Tuna",
+        "name_subtitle": "packet",
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Turducken": {
+        "freezer": "9 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Turducken",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Turkey (pre-packaged, luncheon/deli meat)": {
+        "freezer": "2 Months",
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Turkey",
+        "name_subtitle": "pre-packaged, luncheon/deli meat",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Turkey (whole)": {
+        "freezer": "12 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Turkey",
+        "name_subtitle": "whole",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Turkey bacon": {
+        "freezer": "4 Months",
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Turkey bacon",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Turkey parts (breast halves, bone-in)": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Turkey parts",
+        "name_subtitle": "breast halves, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Turkey parts (breast halves, boneless)": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Turkey parts",
+        "name_subtitle": "breast halves, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Turkey parts (legs or thighs)": {
+        "freezer": "9 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Turkey parts",
+        "name_subtitle": "legs or thighs",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Turnips": {
+        "freezer": "10 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Turnips",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Variety meats (liver, tongue, chitterlings, etc.)": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Variety meats",
+        "name_subtitle": "liver, tongue, chitterlings, etc.",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Veal (ground)": {
+        "freezer": "4 Months",
+        "fridge": "2 Days",
+        "fridge_opened": null,
+        "name": "Veal",
+        "name_subtitle": "ground",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Veal (leg rump or round roast, boneless)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Veal",
+        "name_subtitle": "leg rump or round roast, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Veal (loin roast, bone-in)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Veal",
+        "name_subtitle": "loin roast, bone-in",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Veal (shoulder roast, boneless)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Veal",
+        "name_subtitle": "shoulder roast, boneless",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Vegan Cheddar Cheese": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": "7 Days",
+        "name": "Vegan Cheddar Cheese",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Vegetable juice (commercial, sold refrigerated)": {
+        "freezer": null,
+        "fridge": "1 Months",
+        "fridge_opened": null,
+        "name": "Vegetable juice",
+        "name_subtitle": "commercial, sold refrigerated",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Vegetable juice (homemade)": {
+        "freezer": null,
+        "fridge": "5 Days",
+        "fridge_opened": "5 Days",
+        "name": "Vegetable juice",
+        "name_subtitle": "homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Vegetable juice (shelf-stable)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Vegetable juice",
+        "name_subtitle": "shelf-stable",
+        "pantry": "18 Months",
+        "pantry_opened": null
+    },
+    "Vegetable oil sprays": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Vegetable oil sprays",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": "1 Years"
+    },
+    "Vegetable soup (homemade)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Vegetable soup",
+        "name_subtitle": "homemade",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Vegetable stock/broth (commercially produced)": {
+        "freezer": "3 Months",
+        "fridge": "4 Days",
+        "fridge_opened": "4 Days",
+        "name": "Vegetable stock/broth",
+        "name_subtitle": "commercially produced",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Vegetables": {
+        "freezer": null,
+        "fridge": "2 Days",
+        "fridge_opened": "2 Days",
+        "name": "Vegetables",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Venison (round, rump, loin, or rib roast)": {
+        "freezer": "12 Months",
+        "fridge": "5 Days",
+        "fridge_opened": null,
+        "name": "Venison",
+        "name_subtitle": "round, rump, loin, or rib roast",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Vinegar": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Vinegar",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Walnuts (shell or no shell)": {
+        "freezer": "24 Months",
+        "fridge": "12 Months",
+        "fridge_opened": null,
+        "name": "Walnuts",
+        "name_subtitle": "shell or no shell",
+        "pantry": "4 Weeks",
+        "pantry_opened": null
+    },
+    "Water (commercially bottled)": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Water",
+        "name_subtitle": "commercially bottled",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Watermelon": {
+        "freezer": "12 Months",
+        "fridge": "4 Days",
+        "fridge_opened": null,
+        "name": "Watermelon",
+        "name_subtitle": null,
+        "pantry": "2 Days",
+        "pantry_opened": null
+    },
+    "Whipped cream (aerosol can)": {
+        "freezer": null,
+        "fridge": "4 Weeks",
+        "fridge_opened": null,
+        "name": "Whipped cream",
+        "name_subtitle": "aerosol can",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Whipped topping (aerosol can)": {
+        "freezer": null,
+        "fridge": "3 Months",
+        "fridge_opened": null,
+        "name": "Whipped topping",
+        "name_subtitle": "aerosol can",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Whipped topping (tub)": {
+        "freezer": "14 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Whipped topping",
+        "name_subtitle": "tub",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "White wine": {
+        "freezer": null,
+        "fridge": "3 Days",
+        "fridge_opened": "3 Days",
+        "name": "White wine",
+        "name_subtitle": null,
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Whole wheat bread (commercially baked & pre-sliced)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Whole wheat bread",
+        "name_subtitle": "commercially baked & pre-sliced",
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Whole wheat bread (homemade)": {
+        "freezer": "3 Months",
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Whole wheat bread",
+        "name_subtitle": "homemade",
+        "pantry": "5 Days",
+        "pantry_opened": null
+    },
+    "Whole wheat flour": {
+        "freezer": "2 Years",
+        "fridge": "2 Years",
+        "fridge_opened": null,
+        "name": "Whole wheat flour",
+        "name_subtitle": null,
+        "pantry": "12 Months",
+        "pantry_opened": null
+    },
+    "Worcestershire sauce": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Worcestershire sauce",
+        "name_subtitle": null,
+        "pantry": "1 Years",
+        "pantry_opened": null
+    },
+    "Yams/sweet potatoes": {
+        "freezer": null,
+        "fridge": null,
+        "fridge_opened": null,
+        "name": "Yams/sweet potatoes",
+        "name_subtitle": null,
+        "pantry": "3 Weeks",
+        "pantry_opened": null
+    },
+    "Yeast (packaged)": {
+        "freezer": "6 Months",
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Yeast",
+        "name_subtitle": "packaged",
+        "pantry": "2 Years",
+        "pantry_opened": null
+    },
+    "Yogurt": {
+        "freezer": "2 Months",
+        "fridge": "2 Weeks",
+        "fridge_opened": null,
+        "name": "Yogurt",
+        "name_subtitle": null,
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Yuca/cassava": {
+        "freezer": "2 Months",
+        "fridge": "3 Days",
+        "fridge_opened": null,
+        "name": "Yuca/cassava",
+        "name_subtitle": null,
+        "pantry": "7 Days",
+        "pantry_opened": null
+    },
+    "Yuzu (fruit, fresh)": {
+        "freezer": null,
+        "fridge": "7 Days",
+        "fridge_opened": null,
+        "name": "Yuzu",
+        "name_subtitle": "fruit, fresh",
+        "pantry": null,
+        "pantry_opened": null
+    },
+    "Yuzu juice": {
+        "freezer": "2 Years",
+        "fridge": "4 Months",
+        "fridge_opened": "4 Months",
+        "name": "Yuzu juice",
+        "name_subtitle": null,
+        "pantry": "6 Months",
+        "pantry_opened": null
+    },
+    "Zucchini (fresh, whole)": {
+        "freezer": "10 Months",
+        "fridge": "1 Weeks",
+        "fridge_opened": null,
+        "name": "Zucchini",
+        "name_subtitle": "fresh, whole",
+        "pantry": null,
+        "pantry_opened": null
+    }
+}
