@@ -5,7 +5,6 @@ import DatePicker from 'react-date-picker'
 
 interface EditFoodButtonProps {
   food: Entry
-  index: number
   entries: Entries
   setEntries: (entries: any) => void
 };
