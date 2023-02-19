@@ -56,9 +56,9 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
         id="location"
         onChange={(e) => { setNewLocation(e.target.value) }}
         >
-          <option value={FoodLocation.fridge}> Fridge </option>
-          <option value={FoodLocation.freezer}> Freezer </option>
-          <option value={FoodLocation.pantry}> Pantry </option>
+          <option value={FoodLocations.fridge}> Fridge </option>
+          <option value={FoodLocations.freezer}> Freezer </option>
+          <option value={FoodLocations.pantry}> Pantry </option>
         </select>
       </div>
       <div className='row-span-1 lg:col-span-1 my-auto'>
