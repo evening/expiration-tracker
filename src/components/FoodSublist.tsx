@@ -6,13 +6,14 @@ import FoodItem from './FoodItem'
 interface FoodSublistProps {
   location: string
   entries: Entries
+  index: number
   setEntries: (entries: any) => void
   searchTerm: string
 };
 
 const FoodSublist = ({ location, entries, searchTerm, setEntries }: FoodSublistProps) => {
   return (
-      <div>
+      <div className='border-2 border-gray-100 bg-white'>
         <h3 className="underline decoration-gray-400 inline font-bold">
           {location}
         </h3>

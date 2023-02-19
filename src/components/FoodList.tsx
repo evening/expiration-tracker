@@ -1,9 +1,11 @@
-import React from 'react'
-import { type Entries } from '../types/Entry'
-import FoodSublist from './FoodSublist'
+import React, { useState } from 'react'
 
-// Components
-import { FoodLocation } from '../constants/FoodLocation'
+import FoodSublist from './FoodSublist'
+import { Draggable, DragDropContext } from 'react-beautiful-dnd'
+import { StrictModeDroppable } from './StrictModeDroppable'
+
+import { FoodLocations } from '../enums/FoodLocations'
+import { type Entries } from '../types/Entry'
 
 interface FoodListProps {
   entries: Entries
@@ -13,23 +15,51 @@ interface FoodListProps {
 };
 
 const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
+  const [colOrder, setColOrder] = useState<FoodLocations[]>(Object.values(FoodLocations))
+
+  const onDragEnd = (result: any) => {
+    if (result.destination === null) return
+    const sourceIndex = result.source.index
+    const destinationIndex = result.destination.index
+    setColOrder((locations) => {
+      const newOrder = Array.from(locations)
+      newOrder.splice(sourceIndex, 1)
+      newOrder.splice(destinationIndex, 0, locations[sourceIndex])
+      return newOrder
+    })
+  }
+
   return (
-<div>
-      <h2 className="underline decoration-gray-500 font-bold">
-        Food List
-      </h2>
-      <div className='grid grid-rows-3 lg:grid-cols-3 gap-4'>
-        {Object.values(FoodLocation).map((location) => (
-          <FoodSublist
-            key={location}
-            location={location as FoodLocation}
-            entries={entries}
-            searchTerm={searchTerm}
-            setEntries={setEntries}
-          />
-        ))}
-      </div>
-    </div>
+    <DragDropContext onDragEnd={onDragEnd}>
+      <StrictModeDroppable droppableId="all-columns" direction="horizontal" type="location">
+        {(provided) => (
+          <div {...provided.droppableProps} ref={provided.innerRef} className="grid grid-rows-3 lg:grid-cols-3 gap-4 pt-2">
+            {colOrder.map((location, index) => (
+              <Draggable
+              draggableId={location}
+              index={index}
+              key={location}
+              >
+                {(provided) => (
+                  <div ref={provided.innerRef} {...provided.draggableProps} {...provided.dragHandleProps} >
+                    <FoodSublist
+                      key={location}
+                      index={index}
+                      location={location}
+                      entries={entries}
+                      searchTerm={searchTerm}
+                      setEntries={setEntries}
+                    />
+                  </div>
+                )}
+              </Draggable>
+            ))}
+            {provided.placeholder}
+          </div>
+        )}
+      </StrictModeDroppable>
+    </DragDropContext>
   )
 }
+
 export default FoodList
