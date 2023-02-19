@@ -19,14 +19,16 @@ const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
 
   const onDragEnd = (result: any) => {
     if (result.destination === null) return
-    const sourceIndex = result.source.index
-    const destinationIndex = result.destination.index
-    setColOrder((locations) => {
-      const newOrder = Array.from(locations)
-      newOrder.splice(sourceIndex, 1)
-      newOrder.splice(destinationIndex, 0, locations[sourceIndex])
-      return newOrder
-    })
+    if (result.type === 'location') {
+      const sourceIndex = result.source.index
+      const destinationIndex = result.destination.index
+      setColOrder((locations) => {
+        const newOrder = Array.from(locations)
+        newOrder.splice(sourceIndex, 1)
+        newOrder.splice(destinationIndex, 0, locations[sourceIndex])
+        return newOrder
+      })
+    }
   }
 
   return (
