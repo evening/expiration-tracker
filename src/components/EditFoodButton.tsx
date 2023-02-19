@@ -37,7 +37,7 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
   return (
     <>
       <button
-        className="bg-amber-500 text-white active:bg-amber-600 font-bold text-sm px-1 py-1 mx-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 cursor-pointer"
+        className="bg-amber-500 text-white active:bg-amber-600 font-bold text-sm px-1 py-1 mx-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 cursor-pointer my-auto"
         type="button"
         onClick={() => { setShowModal(true) }}
       >
