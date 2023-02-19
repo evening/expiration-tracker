@@ -1,0 +1,5497 @@
+{
+    "aerosol can": [
+        "Whipped cream (aerosol can)",
+        "Whipped topping (aerosol can)"
+    ],
+    "aioli": [
+        "Aioli (homemade)"
+    ],
+    "air pack": [
+        "Fish (hot smoked, air pack)",
+        "Fish (cold smoked, air pack)"
+    ],
+    "all": [
+        "Cooked fish (all)"
+    ],
+    "almond": [
+        "Almond milk",
+        "Almonds (shell)",
+        "Almonds (no shell)",
+        "Almond butter",
+        "Almond oil"
+    ],
+    "almond butter": [
+        "Almond butter"
+    ],
+    "almond extract": [
+        "Almond extract"
+    ],
+    "almond milk": [
+        "Almond milk"
+    ],
+    "almond oil": [
+        "Almond oil"
+    ],
+    "almonds": [
+        "Almonds (shell)",
+        "Almonds (no shell)",
+        "Roasted nuts (peanuts, cashews, almonds)"
+    ],
+    "amaranth": [
+        "Amaranth (whole grain)",
+        "Amaranth (flour, meal)"
+    ],
+    "anchovies": [
+        "Anchovies (canned)"
+    ],
+    "anchovy": [
+        "Anchovies (canned)"
+    ],
+    "animal": [
+        "Graham cracker/animal cracker"
+    ],
+    "animal cracker": [
+        "Graham cracker/animal cracker"
+    ],
+    "apple": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Apples",
+        "Applesauce (commercial)",
+        "Apple juice (fresh squeezed)",
+        "Apple cider vinegar",
+        "Apple cider (fresh)"
+    ],
+    "apple cider": [
+        "Apple cider vinegar",
+        "Apple cider (fresh)"
+    ],
+    "apple cider vinegar": [
+        "Apple cider vinegar"
+    ],
+    "apple juice": [
+        "Apple juice (fresh squeezed)"
+    ],
+    "apple pie": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)"
+    ],
+    "apples": [
+        "Apples"
+    ],
+    "applesauce": [
+        "Applesauce (commercial)",
+        "Applesauce (homemade)"
+    ],
+    "apricot": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Apricots",
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)"
+    ],
+    "apricot pie": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)"
+    ],
+    "apricots": [
+        "Apricots",
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)"
+    ],
+    "arm picnic": [
+        "Ham (fully cooked, arm picnic shoulder, boneless)",
+        "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)"
+    ],
+    "arm picnic shoulder": [
+        "Ham (fully cooked, arm picnic shoulder, boneless)",
+        "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)"
+    ],
+    "artichoke": [
+        "Artichokes, whole"
+    ],
+    "artichokes": [
+        "Artichokes, whole"
+    ],
+    "arugula": [
+        "Arugula"
+    ],
+    "aseptic packaging": [
+        "Milk (shelf-stable)"
+    ],
+    "asparagus": [
+        "Asparagus"
+    ],
+    "avocado": [
+        "Avocados",
+        "Avocado Oil"
+    ],
+    "avocados": [
+        "Avocados"
+    ],
+    "avodaco oil": [
+        "Avocado Oil"
+    ],
+    "baby carrot": [
+        "Baby carrots"
+    ],
+    "baby carrots": [
+        "Baby carrots"
+    ],
+    "bacon": [
+        "Bacon",
+        "Bacon (fully cooked)",
+        "Bacon bits (imitation)",
+        "Turkey bacon",
+        "Canadian bacon (whole)",
+        "Canadian bacon (sliced)",
+        "Bacon grease",
+        "Bacon (uncured)"
+    ],
+    "bacon bits": [
+        "Bacon bits (imitation)"
+    ],
+    "bacon grease": [
+        "Bacon grease"
+    ],
+    "bag": [
+        "Popcorn (commercially popped in bags)",
+        "Tea (bags)",
+        "Mung bean (dry, food-grade bags)"
+    ],
+    "bagel": [
+        "Bagel (fresh baked)",
+        "Bagel (commercially frozen)"
+    ],
+    "bagged": [
+        "Bagged greens (leaf, spinach, lettuce, etc.)"
+    ],
+    "bagged greens": [
+        "Bagged greens (leaf, spinach, lettuce, etc.)"
+    ],
+    "bagged mung beans": [
+        "Mung bean (dry, food-grade bags)"
+    ],
+    "bags": [
+        "Popcorn (commercially popped in bags)",
+        "Tea (bags)"
+    ],
+    "bake": [
+        "Ready-to-bake pie crust"
+    ],
+    "baked": [
+        "Bagel (fresh baked)",
+        "Whole wheat bread (commercially baked & pre-sliced)"
+    ],
+    "baking": [
+        "Baking powder",
+        "Baking soda"
+    ],
+    "baking powder": [
+        "Baking powder"
+    ],
+    "baking soda": [
+        "Baking soda"
+    ],
+    "balsamic": [
+        "Balsamic vinegar"
+    ],
+    "balsamic vinegar": [
+        "Balsamic vinegar"
+    ],
+    "bamboo": [
+        "Bamboo shoots"
+    ],
+    "bamboo shoots": [
+        "Bamboo shoots"
+    ],
+    "banana": [
+        "Cream pies (banana cream, coconut cream, butterscotch)",
+        "Bananas",
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)"
+    ],
+    "banana cream": [
+        "Cream pies (banana cream, coconut cream, butterscotch)"
+    ],
+    "bananas": [
+        "Bananas"
+    ],
+    "bar": [
+        "Olives (from olive bar)",
+        "Cereal or granola bars"
+    ],
+    "barbecue": [
+        "Barbecue sauce (bottled)"
+    ],
+    "barbecue sauce": [
+        "Barbecue sauce (bottled)",
+        "Barbecue Sauce (homemade, canned)"
+    ],
+    "barley": [
+        "Barley (whole grain)",
+        "Barley (flour, meal)"
+    ],
+    "bars": [
+        "Cereal or granola bars"
+    ],
+    "base": [
+        "Base (beef, vegetable)"
+    ],
+    "basil": [
+        "Basil (dried)",
+        "Basil (fresh)"
+    ],
+    "bbq sauce": [
+        "Barbecue Sauce (homemade, canned)"
+    ],
+    "bean": [
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Coffee (whole beans)",
+        "Black bean sauce",
+        "Bean sprouts",
+        "Mung bean (sprouts)",
+        "Mung bean (dry, food-grade bags)",
+        "Mung bean (dry, vacuum-sealed)"
+    ],
+    "bean sauce": [
+        "Black bean sauce"
+    ],
+    "bean sprouts": [
+        "Bean sprouts"
+    ],
+    "beans": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",
+        "Beans (dried)",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Coffee (whole beans)"
+    ],
+    "beef": [
+        "Beef (rib roast, bone-in)",
+        "Beef (rib roast; boneless, rolled)",
+        "Beef (round or rump roast)",
+        "Beef (tenderloin, whole)",
+        "Beef (tenderloin, half)",
+        "Beef (chuck roast, brisket)",
+        "Beef (steaks)",
+        "Beef (stew, cubes)",
+        "Beef (short ribs)",
+        "Beef (ground)",
+        "Base (beef, vegetable)"
+    ],
+    "beef base": [
+        "Base (beef, vegetable)"
+    ],
+    "beef broth": [
+        "Beef broth/stock/consommé (commercially produced)"
+    ],
+    "beef consommé": [
+        "Beef broth/stock/consommé (commercially produced)"
+    ],
+    "beef stock": [
+        "Beef broth/stock/consommé (commercially produced)"
+    ],
+    "beets": [
+        "Beets",
+        "Beets (pickled)"
+    ],
+    "before-eating": [
+        "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)",
+        "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)"
+    ],
+    "bel paese": [
+        "Cheese (soft such as brie, bel paese, goat)"
+    ],
+    "berries": [
+        "Berries (cherries, goose berries, lychee)",
+        "Berries (blackberries, boysenberries, currant)",
+        "Blueberries",
+        "Fruits (such as berries, melons)"
+    ],
+    "berry": [
+        "Berries (cherries, goose berries, lychee)",
+        "Berries (blackberries, boysenberries, currant)",
+        "Blueberries",
+        "Fruits (such as berries, melons)"
+    ],
+    "beverage": [
+        "Soy or rice beverage"
+    ],
+    "biscuit": [
+        "Biscuit or pancake mix",
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)"
+    ],
+    "biscuits": [
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)",
+        "Biscuits (refrigerated)",
+        "Biscuits (refrigerated)"
+    ],
+    "bison": [
+        "Bison (whole)",
+        "Bison (ground)"
+    ],
+    "bison whole": [
+        "Bison (whole)"
+    ],
+    "bit": [
+        "Bacon bits (imitation)"
+    ],
+    "bits": [
+        "Bacon bits (imitation)"
+    ],
+    "black": [
+        "Olives (black and green)",
+        "Black bean sauce",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)"
+    ],
+    "black bean": [
+        "Black bean sauce"
+    ],
+    "black bean sauce": [
+        "Black bean sauce"
+    ],
+    "black pepper": [
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)"
+    ],
+    "blackberries": [
+        "Berries (blackberries, boysenberries, currant)"
+    ],
+    "blackberry": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Berries (blackberries, boysenberries, currant)"
+    ],
+    "blackberry pie": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)"
+    ],
+    "blend": [
+        "Seasoning blends",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "blends": [
+        "Seasoning blends"
+    ],
+    "blue": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)",
+        "Cornmeal (stone ground or blue)"
+    ],
+    "blueberries": [
+        "Blueberries"
+    ],
+    "blueberry": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Blueberries",
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)"
+    ],
+    "blueberry pie": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)"
+    ],
+    "bluefish": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)"
+    ],
+    "boiled": [
+        "Eggs (hard boiled cooked)",
+        "Peanuts (boiled, shelled)"
+    ],
+    "bok choy": [
+        "Bok choy"
+    ],
+    "bone": [
+        "Beef (rib roast, bone-in)",
+        "Lamb (leg, bone-in - small)",
+        "Lamb (leg, bone-in - large)",
+        "Lamb (leg; boneless, rolled)",
+        "Veal (loin roast, bone-in)",
+        "Pork (loin roast, bone-in)",
+        "Pork (loin chops, bone-in)",
+        "Ham (fully cooked, bone-in, whole)",
+        "Ham (fully cooked, bone-in, half)",
+        "Ham (fresh, cook-before-eating, bone-in, whole)",
+        "Ham (fresh, cook-before-eating, bone-in, half)",
+        "Ham (fresh, cook-before-eating, shank or butt portion, bone-in)",
+        "Ham (fresh, uncooked, whole leg, bone-in)",
+        "Ham (fresh, uncooked, whole leg, boneless)",
+        "Ham (fresh, uncooked, half leg, bone-in)",
+        "Chicken parts (breast halves, bone-in)",
+        "Chicken parts (breast halves, boneless)",
+        "Turkey parts (breast halves, bone-in)",
+        "Turkey parts (breast halves, boneless)"
+    ],
+    "bone-in": [
+        "Beef (rib roast, bone-in)",
+        "Lamb (leg, bone-in - small)",
+        "Lamb (leg, bone-in - large)",
+        "Veal (loin roast, bone-in)",
+        "Pork (loin roast, bone-in)",
+        "Pork (loin chops, bone-in)",
+        "Ham (fully cooked, bone-in, whole)",
+        "Ham (fully cooked, bone-in, half)",
+        "Ham (fresh, cook-before-eating, bone-in, whole)",
+        "Ham (fresh, cook-before-eating, bone-in, half)",
+        "Ham (fresh, cook-before-eating, shank or butt portion, bone-in)",
+        "Ham (fresh, uncooked, whole leg, bone-in)",
+        "Ham (fresh, uncooked, half leg, bone-in)",
+        "Chicken parts (breast halves, bone-in)",
+        "Turkey parts (breast halves, bone-in)"
+    ],
+    "bone-in - large": [
+        "Lamb (leg, bone-in - large)"
+    ],
+    "bone-in - small": [
+        "Lamb (leg, bone-in - small)"
+    ],
+    "boneless": [
+        "Beef (rib roast; boneless, rolled)",
+        "Lamb (leg; boneless, rolled)",
+        "Veal (shoulder roast, boneless)",
+        "Veal (leg rump or round roast, boneless)",
+        "Pork (loin roast, boneless)",
+        "Pork (loin chops, boneless)",
+        "Ham (fully cooked, arm picnic shoulder, boneless)",
+        "Ham (fully cooked, canned, boneless (refrigerated))",
+        "Ham (fully cooked, vacuum packed, boneless)",
+        "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)",
+        "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)",
+        "Ham (fresh, uncooked, whole leg, boneless)",
+        "Chicken parts (breast halves, boneless)",
+        "Turkey parts (breast halves, boneless)"
+    ],
+    "boost": [
+        "Nutrition supplement drinks (canned)"
+    ],
+    "bottle": [
+        "Salad dressings (commercial, bottled)",
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)",
+        "Water (commercially bottled)",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "bottled": [
+        "Barbecue sauce (bottled)",
+        "Salad dressings (commercial, bottled)",
+        "Water (commercially bottled)",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)",
+        "Nutrition supplement drinks (bottled)"
+    ],
+    "bottled breakfast": [
+        "Instant breakfast drinks (bottled)"
+    ],
+    "bottled instant breakfast": [
+        "Instant breakfast drinks (bottled)"
+    ],
+    "bottled instant breakfast drink": [
+        "Instant breakfast drinks (bottled)"
+    ],
+    "bottles": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "bouillon": [
+        "Soup mixes (dry bouillon)"
+    ],
+    "box": [
+        "Retort pouches or boxes",
+        "Retort pouches or boxes",
+        "Juice, boxes",
+        "Grits (boxed)"
+    ],
+    "boxed": [
+        "Grits (boxed)"
+    ],
+    "boxed grits": [
+        "Grits (boxed)"
+    ],
+    "boxes": [
+        "Retort pouches or boxes",
+        "Retort pouches or boxes",
+        "Juice, boxes"
+    ],
+    "boysenberries": [
+        "Berries (blackberries, boysenberries, currant)"
+    ],
+    "boysenberry": [
+        "Berries (blackberries, boysenberries, currant)"
+    ],
+    "bran": [
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)"
+    ],
+    "brand vacuum packed dinners": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "bratwurst": [
+        "Bratwurst (smoked and processed)"
+    ],
+    "brautwurst": [
+        "Bratwurst (fresh)"
+    ],
+    "bread": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)",
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)",
+        "Cake, brownie, bread mixes",
+        "Dough (commercial (bread or cookie))",
+        "Fish (breaded)",
+        "Whole wheat bread (homemade)",
+        "Bread (homemade)",
+        "Croutons"
+    ],
+    "bread mixes": [
+        "Cake, brownie, bread mixes"
+    ],
+    "bread products": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)"
+    ],
+    "breadcrumb": [
+        "Breadcrumbs (commercial)"
+    ],
+    "breadcrumbs": [
+        "Breadcrumbs (commercial)"
+    ],
+    "breaded": [
+        "Fish (breaded)"
+    ],
+    "breads": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)",
+        "Bread (homemade)"
+    ],
+    "breakfast": [
+        "Frozen entrees (prepared meals)",
+        "Instant breakfast drinks (bottled)",
+        "Cereal or granola bars"
+    ],
+    "breakfast bar": [
+        "Cereal or granola bars"
+    ],
+    "breakfast bars": [
+        "Cereal or granola bars"
+    ],
+    "breast": [
+        "Lamb (breast, rolled)",
+        "Chicken parts (breast halves, bone-in)",
+        "Chicken parts (breast halves, boneless)",
+        "Turkey parts (breast halves, bone-in)",
+        "Turkey parts (breast halves, boneless)",
+        "Stuffed, raw chicken breasts"
+    ],
+    "breast halves": [
+        "Chicken parts (breast halves, bone-in)",
+        "Chicken parts (breast halves, boneless)",
+        "Turkey parts (breast halves, bone-in)"
+    ],
+    "brie": [
+        "Cheese (soft such as brie, bel paese, goat)"
+    ],
+    "brisket": [
+        "Beef (chuck roast, brisket)"
+    ],
+    "broccoli": [
+        "Broccoli and broccoli raab (rapini)"
+    ],
+    "broccoli raab": [
+        "Broccoli and broccoli raab (rapini)"
+    ],
+    "broth": [
+        "Poultry pieces (covered with gravy or broth)",
+        "Meats (covered with gravy or broth)",
+        "Broth (homemade)",
+        "Vegetable stock/broth (commercially produced)"
+    ],
+    "brown": [
+        "Sugar (brown)",
+        "Rice (brown)"
+    ],
+    "brownie": [
+        "Cake, brownie, bread mixes"
+    ],
+    "brussel": [
+        "Brussels sprouts"
+    ],
+    "brussels": [
+        "Brussels sprouts"
+    ],
+    "brussels sprouts": [
+        "Brussels sprouts"
+    ],
+    "buckwheat": [
+        "Buckwheat (whole grain)",
+        "Buckwheat (flour, meal)"
+    ],
+    "bulgur": [
+        "Bulgur"
+    ],
+    "bulk": [
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "bun": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)"
+    ],
+    "buns": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)"
+    ],
+    "butt": [
+        "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)"
+    ],
+    "butt portion": [
+        "Ham (fresh, cook-before-eating, shank or butt portion, bone-in)"
+    ],
+    "butter": [
+        "Butter",
+        "Peanut butter (commercial)",
+        "Almond butter",
+        "Cashew butter",
+        "Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)",
+        "Peanut butter (natural)",
+        "Butter flavor",
+        "Ghee"
+    ],
+    "butter flavor": [
+        "Butter flavor"
+    ],
+    "buttermilk": [
+        "Buttermilk"
+    ],
+    "butterscotch": [
+        "Cream pies (banana cream, coconut cream, butterscotch)"
+    ],
+    "cabbage": [
+        "Cabbage"
+    ],
+    "cajun": [
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "cajun seasoning": [
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "cajun seasoning blend": [
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "cake": [
+        "Commercial cakes and muffins",
+        "Cheesecake",
+        "Fruit cake",
+        "Biscuit or pancake mix",
+        "Cake, brownie, bread mixes"
+    ],
+    "can": [
+        "Whipped cream (aerosol can)",
+        "Whipped topping (aerosol can)",
+        "Ham (shelf-stable cans)",
+        "Canned chicken",
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)",
+        "Gravy (jars and cans)",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Milk (canned evaporated or condensed)",
+        "Nuts (jars or cans)",
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)",
+        "Fruit cocktail (canned)",
+        "Coconut cream (canned)",
+        "Coconut milk (canned)"
+    ],
+    "canadian bacon": [
+        "Canadian bacon (whole)",
+        "Canadian bacon (sliced)"
+    ],
+    "canned": [
+        "Ham (canned (“keep refrigerated” label))",
+        "Ham (fully cooked, canned, boneless (refrigerated))",
+        "Meat products (canned)",
+        "Canned chicken",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Milk (canned evaporated or condensed)",
+        "Fruit cocktail (canned)",
+        "Nutrition supplement drinks (canned)",
+        "Cranberry sauce (canned)",
+        "Coconut cream (canned)",
+        "Coconut milk (canned)",
+        "Tuna (canned)",
+        "Seafood (canned)"
+    ],
+    "canned anchovies": [
+        "Anchovies (canned)"
+    ],
+    "canned chicken": [
+        "Canned chicken"
+    ],
+    "canned goods": [
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "canned seafood": [
+        "Seafood (canned)"
+    ],
+    "canned tuna": [
+        "Tuna (canned)"
+    ],
+    "canola": [
+        "Canola oil"
+    ],
+    "canola oil": [
+        "Canola oil"
+    ],
+    "cans": [
+        "Ham (shelf-stable cans)",
+        "Gravy (jars and cans)",
+        "Nuts (jars or cans)",
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "cantaloupe": [
+        "Cantaloupe"
+    ],
+    "caper": [
+        "Capers (in jar)"
+    ],
+    "capers": [
+        "Capers (in jar)"
+    ],
+    "capon": [
+        "Capon (whole)"
+    ],
+    "carbonated": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "carbonated cola": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "carbonated cola drinks": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "carnation": [
+        "Instant breakfast drinks (bottled)"
+    ],
+    "carrot": [
+        "Carrots, parsnips",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Baby carrots"
+    ],
+    "carrot juice": [
+        "Carrot juice (fresh squeezed)"
+    ],
+    "carrots": [
+        "Carrots, parsnips",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "carton": [
+        "Fruit Juice in cartons, fruit drinks, punch",
+        "Orange juice (commercially packaged carton)"
+    ],
+    "cartons": [
+        "Fruit Juice in cartons, fruit drinks, punch"
+    ],
+    "casaha melon": [
+        "Papaya, mango, feijoa, passionfruit, casaha melon"
+    ],
+    "cashew": [
+        "Cashews (no shell)",
+        "Cashew butter"
+    ],
+    "cashew butter": [
+        "Cashew butter"
+    ],
+    "cashews": [
+        "Cashews (no shell)",
+        "Roasted nuts (peanuts, cashews, almonds)"
+    ],
+    "cassava": [
+        "Yuca/cassava"
+    ],
+    "casserole": [
+        "Casseroles"
+    ],
+    "casseroles": [
+        "Casseroles"
+    ],
+    "cat": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)"
+    ],
+    "catfish": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)"
+    ],
+    "cauliflower": [
+        "Cauliflower"
+    ],
+    "caviar": [
+        "Caviar (fresh, in jar)"
+    ],
+    "celeriac": [
+        "Celery root"
+    ],
+    "celery": [
+        "Celery",
+        "Celery root"
+    ],
+    "celery root": [
+        "Celery root"
+    ],
+    "cereal": [
+        "Cereal, dry mixes",
+        "Cereal (ready-to-eat)",
+        "Cereal (cook before eating (oatmeal, etc.))"
+    ],
+    "cereal bar": [
+        "Cereal or granola bars"
+    ],
+    "cereal bars": [
+        "Cereal or granola bars"
+    ],
+    "chard": [
+        "Swiss chard"
+    ],
+    "cheddar": [
+        "Cheese (hard such as cheddar, swiss, block parmesan)",
+        "Cheese (shredded; cheddar, mozzarella, etc.)",
+        "Vegan Cheddar Cheese"
+    ],
+    "cheese": [
+        "Cheese (hard such as cheddar, swiss, block parmesan)",
+        "Cheese (parmesan; shredded or grated)",
+        "Cheese (shredded; cheddar, mozzarella, etc.)",
+        "Cheese (processed slices)",
+        "Cheese (soft such as brie, bel paese, goat)",
+        "Cottage cheese",
+        "Cheesecake",
+        "Nacho cheese (store bought)",
+        "String Cheese",
+        "Vegan Cheddar Cheese",
+        "Quark (fresh cheese)",
+        "Pimento cheese (packaged)",
+        "Cheese Curds (fresh, unaged)"
+    ],
+    "cheese curd": [
+        "Cheese Curds (fresh, unaged)"
+    ],
+    "cheese curds": [
+        "Cheese Curds (fresh, unaged)"
+    ],
+    "cheesecake": [
+        "Cheesecake"
+    ],
+    "cherimoya": [
+        "Cherimoya"
+    ],
+    "cherries": [
+        "Berries (cherries, goose berries, lychee)",
+        "Cherries"
+    ],
+    "cherry": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Berries (cherries, goose berries, lychee)",
+        "Cherries",
+        "Cherry tomatoes"
+    ],
+    "cherry pie": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)"
+    ],
+    "chia": [
+        "Chia seeds"
+    ],
+    "chia seeds": [
+        "Chia seeds"
+    ],
+    "chicken": [
+        "Chicken (whole)",
+        "Ground turkey or chicken",
+        "Chicken parts (breast halves, bone-in)",
+        "Chicken parts (breast halves, boneless)",
+        "Chicken parts (legs or thighs)",
+        "Stuffed, raw chicken breasts",
+        "Chicken nuggets, patties",
+        "Fried chicken",
+        "Rotisserie chicken",
+        "Canned chicken",
+        "Chicken salad",
+        "Chicken (pre-packaged, luncheon/deli meat)"
+    ],
+    "chicken breasts": [
+        "Stuffed, raw chicken breasts"
+    ],
+    "chicken broth": [
+        "Chicken broth/stock/consommé (commercially produced)"
+    ],
+    "chicken nuggets": [
+        "Chicken nuggets, patties"
+    ],
+    "chicken parts": [
+        "Chicken parts (breast halves, bone-in)",
+        "Chicken parts (breast halves, boneless)",
+        "Chicken parts (legs or thighs)"
+    ],
+    "chicken salad": [
+        "Chicken salad"
+    ],
+    "chicken stock": [
+        "Chicken broth/stock/consommé (commercially produced)"
+    ],
+    "chiffon": [
+        "Chiffon pies (chocolate, lemon)"
+    ],
+    "chili": [
+        "Chili powder",
+        "Ketchup, cocktail, or chili sauce"
+    ],
+    "chili powder": [
+        "Chili powder"
+    ],
+    "chili sauce": [
+        "Ketchup, cocktail, or chili sauce"
+    ],
+    "chip": [
+        "Popcorn (dry kernels in jar)",
+        "Potato chips",
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)"
+    ],
+    "chips": [
+        "Popcorn (dry kernels in jar)",
+        "Potato chips"
+    ],
+    "chitterling": [
+        "Variety meats (liver, tongue, chitterlings, etc.)"
+    ],
+    "chitterlings": [
+        "Variety meats (liver, tongue, chitterlings, etc.)"
+    ],
+    "chives": [
+        "Chives"
+    ],
+    "chocolate": [
+        "Chiffon pies (chocolate, lemon)",
+        "Chocolate (unsweetened and semi-sweet, solid)",
+        "Chocolate syrup",
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)",
+        "Chocolate hazlenut spread"
+    ],
+    "chocolate chip": [
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)"
+    ],
+    "chocolate pie": [
+        "Chiffon pies (chocolate, lemon)"
+    ],
+    "chocolate spread": [
+        "Chocolate hazlenut spread"
+    ],
+    "chocolate syrup": [
+        "Chocolate syrup"
+    ],
+    "chopped": [
+        "Garlic (chopped, commercial jars)",
+        "Pecans (chopped)"
+    ],
+    "chopped pecans": [
+        "Pecans (chopped)"
+    ],
+    "chops": [
+        "Lamb (chops, ribs, or loin)",
+        "Pork (loin chops, bone-in)",
+        "Pork (loin chops, boneless)",
+        "Stuffed, raw pork chops"
+    ],
+    "chorizo": [
+        "Chorizo (fresh)",
+        "Chorizo (smoked and processed, uncooked)",
+        "Chorizo (smoked and processed, cooked)"
+    ],
+    "chuck roast": [
+        "Beef (chuck roast, brisket)"
+    ],
+    "chutney": [
+        "Chutney"
+    ],
+    "cider": [
+        "Apple cider vinegar",
+        "Apple cider (fresh)"
+    ],
+    "cilantro": [
+        "Cilantro"
+    ],
+    "cinnamon": [
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon rolls (unbaked, tube)",
+        "Cinnamon rolls (baked)"
+    ],
+    "cinnamon extract": [
+        "Cinnamon extract"
+    ],
+    "cinnamon roll": [
+        "Cinnamon rolls (unbaked, tube)",
+        "Cinnamon rolls (baked)"
+    ],
+    "cinnamon rolls": [
+        "Cinnamon rolls (unbaked, tube)",
+        "Cinnamon rolls (baked)"
+    ],
+    "citrus": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)"
+    ],
+    "citrus fruit": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)"
+    ],
+    "clam": [
+        "Shucked clams, mussels, and oysters",
+        "Live clams, mussels, crab, and oysters",
+        "Fresh clams, mussels, oysters"
+    ],
+    "clams": [
+        "Shucked clams, mussels, and oysters",
+        "Live clams, mussels, crab, and oysters",
+        "Fresh clams, mussels, oysters"
+    ],
+    "clarified": [
+        "Ghee"
+    ],
+    "clarified butter": [
+        "Ghee"
+    ],
+    "clementine": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)"
+    ],
+    "clementines": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)"
+    ],
+    "cob": [
+        "Corn on the cob"
+    ],
+    "cocktail": [
+        "Ketchup, cocktail, or chili sauce",
+        "Fruit cocktail (canned)"
+    ],
+    "cocoa": [
+        "Cocoa and cocoa mixes",
+        "Chocolate hazlenut spread"
+    ],
+    "cocoa mixes": [
+        "Cocoa and cocoa mixes"
+    ],
+    "cocoa spread": [
+        "Chocolate hazlenut spread"
+    ],
+    "coconut": [
+        "Cream pies (banana cream, coconut cream, butterscotch)",
+        "Coconut (shredded)",
+        "Coconuts (fresh)",
+        "Coconut milk",
+        "Coconut oil",
+        "Coconut flavor",
+        "Coconut cream (canned)",
+        "Coconut milk (canned)",
+        "Coconut flour",
+        "Coconut water"
+    ],
+    "coconut cream": [
+        "Cream pies (banana cream, coconut cream, butterscotch)",
+        "Coconut cream (canned)"
+    ],
+    "coconut flavor": [
+        "Coconut flavor"
+    ],
+    "coconut flour": [
+        "Coconut flour"
+    ],
+    "coconut milk": [
+        "Coconut milk",
+        "Coconut milk (canned)"
+    ],
+    "coconut oil": [
+        "Coconut oil"
+    ],
+    "coconut water": [
+        "Coconut water"
+    ],
+    "coconuts": [
+        "Coconuts (fresh)"
+    ],
+    "cod": [
+        "Lean fish (cod, flounder, haddock, halibut, sole, etc.)"
+    ],
+    "coffee": [
+        "Coffee creamer (liquid refrigerated)",
+        "Coffee (whole beans)",
+        "Coffee (home ground, non-vacuum)",
+        "Coffee (instant)",
+        "Coffee creamer (powdered)",
+        "Coffee (commercial ground, non-vacuum)"
+    ],
+    "coffee creamer": [
+        "Coffee creamer (liquid refrigerated)",
+        "Coffee creamer (powdered)"
+    ],
+    "cola": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "cola drinks": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "cold": [
+        "Fish (cold smoked, air pack)",
+        "Fish (cold smoked, vacuum pack)"
+    ],
+    "cold smoked": [
+        "Fish (cold smoked, air pack)",
+        "Fish (cold smoked, vacuum pack)"
+    ],
+    "coleslaw": [
+        "Coleslaw (homemade, prepared)"
+    ],
+    "commercial": [
+        "Eggnog (commercial)",
+        "Hummus (commercial (pasteurized, with preservatives))",
+        "Dough (commercial (bread or cookie))",
+        "Mayonnaise (commercial)",
+        "Salad dressings (commercial, bottled)",
+        "Applesauce (commercial)",
+        "Peanut butter (commercial)",
+        "Water (commercially bottled)",
+        "Muffin (mix, dry, commercially packaged)",
+        "Orange juice (commercially packaged carton)",
+        "Whole wheat bread (commercially baked & pre-sliced)",
+        "Dry stuffing mix (commercially packaged)",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)",
+        "Vegetable juice (commercial, sold refrigerated)",
+        "Kugel (commercial)"
+    ],
+    "commercial brand vacuum-packed dinners": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "commercial bread products": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)"
+    ],
+    "commercial cakes": [
+        "Commercial cakes and muffins"
+    ],
+    "commercial ground": [
+        "Coffee (commercial ground, non-vacuum)"
+    ],
+    "commercial jars": [
+        "Garlic (chopped, commercial jars)"
+    ],
+    "commercial kugel": [
+        "Kugel (commercial)"
+    ],
+    "commercial peanut butter": [
+        "Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)"
+    ],
+    "commercial vegetable broth": [
+        "Vegetable stock/broth (commercially produced)"
+    ],
+    "commercial vegetable stock": [
+        "Vegetable stock/broth (commercially produced)"
+    ],
+    "commercially": [
+        "Popcorn (commercially popped in bags)",
+        "Water (commercially bottled)",
+        "Muffin (mix, dry, commercially packaged)",
+        "Orange juice (commercially packaged carton)",
+        "Orange juice (commercially frozen concentrate)",
+        "Whole wheat bread (commercially baked & pre-sliced)",
+        "Dry stuffing mix (commercially packaged)",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "commercially baked": [
+        "Whole wheat bread (commercially baked & pre-sliced)"
+    ],
+    "commercially bottled": [
+        "Water (commercially bottled)",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "commercially dried": [
+        "Jerky (commercially dried)"
+    ],
+    "commercially frozen": [
+        "Bagel (commercially frozen)",
+        "Orange juice (commercially frozen concentrate)"
+    ],
+    "commercially frozen concentrate": [
+        "Orange juice (commercially frozen concentrate)"
+    ],
+    "commercially packaged": [
+        "Muffin (commercially packaged)",
+        "Muffin (mix, dry, commercially packaged)",
+        "Orange juice (commercially packaged carton)",
+        "Dry stuffing mix (commercially packaged)"
+    ],
+    "commercially packaged carton": [
+        "Orange juice (commercially packaged carton)"
+    ],
+    "commercially produced": [
+        "Beef broth/stock/consommé (commercially produced)",
+        "Chicken broth/stock/consommé (commercially produced)"
+    ],
+    "concentrate": [
+        "Juice concentrates",
+        "Liquid concentrate or ready-to-feed formula",
+        "Orange juice (commercially frozen concentrate)"
+    ],
+    "condense": [
+        "Milk (canned evaporated or condensed)"
+    ],
+    "condensed": [
+        "Milk (canned evaporated or condensed)"
+    ],
+    "confectioner": [
+        "Sugar (confectioners)"
+    ],
+    "confectioners": [
+        "Sugar (confectioners)"
+    ],
+    "consommé": [
+        "Beef broth/stock/consommé (commercially produced)",
+        "Chicken broth/stock/consommé (commercially produced)"
+    ],
+    "cook": [
+        "Quinoa (uncooked)",
+        "Quinoa (cooked)"
+    ],
+    "cook before eating": [
+        "Cereal (cook before eating (oatmeal, etc.))"
+    ],
+    "cook-before-eating": [
+        "Ham (fresh, cook-before-eating, bone-in, whole)",
+        "Ham (fresh, cook-before-eating, bone-in, half)",
+        "Ham (fresh, cook-before-eating, shank or butt portion, bone-in)",
+        "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)",
+        "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)"
+    ],
+    "cooked": [
+        "Ham (fully cooked, bone-in, whole)",
+        "Ham (fully cooked, bone-in, half)",
+        "Ham (fully cooked, slices, half, or spiral cut)",
+        "Ham (fully cooked, arm picnic shoulder, boneless)",
+        "Ham (fully cooked, canned, boneless (refrigerated))",
+        "Ham (fully cooked, vacuum packed, boneless)",
+        "Ham (fresh, uncooked, whole leg, bone-in)",
+        "Ham (fresh, uncooked, whole leg, boneless)",
+        "Ham (fresh, uncooked, half leg, bone-in)",
+        "Bacon (fully cooked)",
+        "Fresh lobster tails (cooked)",
+        "Cooked shellfish (all)",
+        "Sausages (uncooked)",
+        "Sausages (precooked)",
+        "Quinoa (uncooked)",
+        "Quinoa (cooked)",
+        "Chorizo (smoked and processed, cooked)",
+        "Ham (uncured, fresh, cooked)"
+    ],
+    "cooked fish": [
+        "Cooked fish (all)"
+    ],
+    "cooked pasta": [
+        "Cooked pasta"
+    ],
+    "cooked poultry dishes": [
+        "Cooked poultry dishes"
+    ],
+    "cooked processed chorizo": [
+        "Chorizo (smoked and processed, cooked)"
+    ],
+    "cooked rice": [
+        "Cooked rice"
+    ],
+    "cooked shellfish": [
+        "Cooked shellfish (all)"
+    ],
+    "cooked smoked chorizo": [
+        "Chorizo (smoked and processed, cooked)"
+    ],
+    "cooked vegetables": [
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))"
+    ],
+    "cookie": [
+        "Cookies (soft)",
+        "Cookies (crispy)",
+        "Cookie dough",
+        "Dough (commercial (bread or cookie))"
+    ],
+    "cookie dough": [
+        "Cookie dough"
+    ],
+    "cookies": [
+        "Cookies (soft)",
+        "Cookies (crispy)"
+    ],
+    "cooking": [
+        "Cooking wine"
+    ],
+    "cooking wine": [
+        "Cooking wine"
+    ],
+    "corn": [
+        "Cornmeal (regular, degerminated)",
+        "Cornmeal (stone ground or blue)",
+        "Cornstarch",
+        "Corn on the cob",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)",
+        "Tortillas (corn)",
+        "Corn syrup"
+    ],
+    "corn syrup": [
+        "Corn syrup"
+    ],
+    "corned beef": [
+        "Corned beef (in pouch with pickling juices)"
+    ],
+    "cornish hens": [
+        "Cornish Hens (whole)"
+    ],
+    "cornmeal": [
+        "Cornmeal (regular, degerminated)",
+        "Cornmeal (stone ground or blue)"
+    ],
+    "cornstarch": [
+        "Cornstarch"
+    ],
+    "cottage cheese": [
+        "Cottage cheese"
+    ],
+    "country ham": [
+        "Ham (country ham (whole or half))"
+    ],
+    "crab": [
+        "Crab meat (fresh)",
+        "Crab meat (pasteurized)",
+        "Crab legs (king, dungeness, snow)",
+        "Live clams, mussels, crab, and oysters"
+    ],
+    "crab legs": [
+        "Crab legs (king, dungeness, snow)"
+    ],
+    "crab meat": [
+        "Crab meat (fresh)",
+        "Crab meat (pasteurized)"
+    ],
+    "crack": [
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)"
+    ],
+    "cracked": [
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)"
+    ],
+    "cracker": [
+        "Crackers",
+        "Graham cracker/animal cracker"
+    ],
+    "crackers": [
+        "Crackers"
+    ],
+    "cranberries": [
+        "Cranberries",
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)"
+    ],
+    "cranberry": [
+        "Cranberries",
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)"
+    ],
+    "cranberry sauce": [
+        "Cranberry sauce (canned)",
+        "Cranberry sauce (homemade)"
+    ],
+    "cray": [
+        "Shrimp, crayfish"
+    ],
+    "crayfish": [
+        "Shrimp, crayfish"
+    ],
+    "cream": [
+        "Cream (whipping, ultrapasteurized)",
+        "Cream (whipped, sweetened)",
+        "Cream (half and half)",
+        "Cream (heavy)",
+        "Cream (light)",
+        "Dips (sour cream based)",
+        "Sour cream",
+        "Whipped cream (aerosol can)",
+        "Cream pies (banana cream, coconut cream, butterscotch)",
+        "Ice cream",
+        "Cream sauces, milk solids",
+        "Coffee creamer (powdered)",
+        "Coconut cream (canned)"
+    ],
+    "cream based": [
+        "Dips (sour cream based)"
+    ],
+    "cream liquors": [
+        "Cream liquors (unopened)"
+    ],
+    "cream sauces": [
+        "Cream sauces, milk solids"
+    ],
+    "creamer": [
+        "Coffee creamer (liquid refrigerated)",
+        "Coffee creamer (powdered)"
+    ],
+    "creamy": [
+        "Salad dressing (creamy)"
+    ],
+    "creamy salad dressing": [
+        "Salad dressing (creamy)"
+    ],
+    "crispy": [
+        "Cookies (crispy)"
+    ],
+    "crouton": [
+        "Croutons"
+    ],
+    "croutons": [
+        "Croutons"
+    ],
+    "crown": [
+        "Pork (crown roast - small)",
+        "Pork (crown roast - large)"
+    ],
+    "crown roast": [
+        "Lamb (crown roast)",
+        "Pork (crown roast - small)",
+        "Pork (crown roast - large)"
+    ],
+    "crown roast - large": [
+        "Pork (crown roast - large)"
+    ],
+    "crown roast - small": [
+        "Pork (crown roast - small)"
+    ],
+    "crunchy bar": [
+        "Cereal or granola bars"
+    ],
+    "crunchy bars": [
+        "Cereal or granola bars"
+    ],
+    "crust": [
+        "Ready-to-bake pie crust",
+        "Pie crust (refrigerated)"
+    ],
+    "crème": [
+        "Marshmallow crème"
+    ],
+    "cube": [
+        "Beef (stew, cubes)",
+        "Lamb (cubes for kabobs)",
+        "Pork (tenderloin medallions or loin cubes)",
+        "Pork (loin, cubes)"
+    ],
+    "cubes": [
+        "Beef (stew, cubes)",
+        "Lamb (cubes for kabobs)",
+        "Pork (tenderloin medallions or loin cubes)",
+        "Pork (loin, cubes)"
+    ],
+    "cucumber": [
+        "Cucumbers"
+    ],
+    "cucumbers": [
+        "Cucumbers"
+    ],
+    "cumin": [
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)"
+    ],
+    "curd": [
+        "Cheese Curds (fresh, unaged)"
+    ],
+    "curds": [
+        "Cheese Curds (fresh, unaged)"
+    ],
+    "currant": [
+        "Berries (blackberries, boysenberries, currant)"
+    ],
+    "curry": [
+        "Thai red curry paste"
+    ],
+    "curry paste": [
+        "Thai red curry paste"
+    ],
+    "cut": [
+        "Fruit, cut",
+        "Spaghetti squash (cut)"
+    ],
+    "dairy": [
+        "Dairy filled eclairs",
+        "Sauce mixes (nondairy (spaghetti, taco, etc.))"
+    ],
+    "dairy filled": [
+        "Dairy filled eclairs"
+    ],
+    "dairy filled eclairs": [
+        "Dairy filled eclairs"
+    ],
+    "danish": [
+        "Pastries, danish"
+    ],
+    "dates": [
+        "Dates"
+    ],
+    "degerminated": [
+        "Cornmeal (regular, degerminated)"
+    ],
+    "deli": [
+        "Turkey (pre-packaged, luncheon/deli meat)",
+        "Ham (pre-packaged, luncheon/deli meat)"
+    ],
+    "deli meat": [
+        "Salami (pre-packaged, luncheon/deli meat)",
+        "Chicken (pre-packaged, luncheon/deli meat)"
+    ],
+    "diet": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "diet powder": [
+        "Diet powder mixes and drink mixes"
+    ],
+    "diet powder mixes": [
+        "Diet powder mixes and drink mixes"
+    ],
+    "diet sodas": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "dinner": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)",
+        "Frozen entrees (prepared meals)",
+        "Dinners"
+    ],
+    "dinners": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)",
+        "Frozen entrees (prepared meals)",
+        "Dinners"
+    ],
+    "dip": [
+        "Dips (sour cream based)"
+    ],
+    "dips": [
+        "Dips (sour cream based)"
+    ],
+    "dish": [
+        "Main dishes or meals (hot or refrigerated)"
+    ],
+    "dishes": [
+        "Egg dishes",
+        "Main dishes or meals (hot or refrigerated)"
+    ],
+    "domestic": [
+        "Duckling (domestic or wild, whole)",
+        "Goose (domestic or wild, whole)"
+    ],
+    "dough": [
+        "Doughnuts",
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)",
+        "Cookie dough",
+        "Dough (commercial (bread or cookie))"
+    ],
+    "doughnut": [
+        "Doughnuts"
+    ],
+    "doughnuts": [
+        "Doughnuts"
+    ],
+    "dragon fruit": [
+        "Pitaya/dragon fruit"
+    ],
+    "dressing": [
+        "Salad dressings (commercial, bottled)",
+        "Salad dressing (creamy)",
+        "Salad dressing (vinaigrette,homemade)",
+        "Salad dressing (vinaigrette)",
+        "Salad dressing (dry,packaged)",
+        "Salad dressing (homemade)"
+    ],
+    "dressings": [
+        "Salad dressings (commercial, bottled)"
+    ],
+    "dried": [
+        "Jerky (commercially dried)",
+        "Herbs (dried)",
+        "Beans (dried)",
+        "Lentils (dried)",
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)",
+        "Mushrooms (dried)",
+        "Sun dried tomatoes (jar)",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)",
+        "Basil (dried)"
+    ],
+    "dried ground mustard": [
+        "Mustard (dried, ground)"
+    ],
+    "dried mustard": [
+        "Mustard (dried, ground)"
+    ],
+    "dried split": [
+        "Peas (dried split)"
+    ],
+    "dried tomatoes": [
+        "Sun dried tomatoes (jar)"
+    ],
+    "drink": [
+        "Diet powder mixes and drink mixes",
+        "Fruit Juice in cartons, fruit drinks, punch",
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "drink mixes": [
+        "Diet powder mixes and drink mixes"
+    ],
+    "drinks": [
+        "Fruit Juice in cartons, fruit drinks, punch",
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)",
+        "Nutrition supplement drinks (canned)",
+        "Nutrition supplement drinks (bottled)",
+        "Instant breakfast drinks (bottled)"
+    ],
+    "dry": [
+        "Sausage (hard, dry (pepperoni), sliced)",
+        "Pasta (dry, without eggs)",
+        "Dry egg noodles",
+        "Dry gravy mixes",
+        "Cereal, dry mixes",
+        "Muffin (mix, dry, commercially packaged)",
+        "Dry stuffing mix (commercially packaged)",
+        "Salad dressing (dry,packaged)",
+        "Mung bean (dry, food-grade bags)",
+        "Mung bean (dry, vacuum-sealed)"
+    ],
+    "dry bouillon": [
+        "Soup mixes (dry bouillon)"
+    ],
+    "dry egg noodles": [
+        "Dry egg noodles"
+    ],
+    "dry gravy mixes": [
+        "Dry gravy mixes"
+    ],
+    "dry kernels": [
+        "Popcorn (dry kernels in jar)"
+    ],
+    "dry kernels in jar": [
+        "Popcorn (dry kernels in jar)"
+    ],
+    "dry mixes": [
+        "Cereal, dry mixes"
+    ],
+    "dry mung beans": [
+        "Mung bean (dry, food-grade bags)",
+        "Mung bean (dry, vacuum-sealed)"
+    ],
+    "dry pepperoni": [
+        "Sausage (hard, dry (pepperoni), sliced)"
+    ],
+    "dry roasted": [
+        "Edamame (salted, dry roasted, out of pod)"
+    ],
+    "dry stuffing": [
+        "Dry stuffing mix (commercially packaged)"
+    ],
+    "dry stuffing mix": [
+        "Dry stuffing mix (commercially packaged)"
+    ],
+    "duck": [
+        "Duck fat"
+    ],
+    "duck fat": [
+        "Duck fat"
+    ],
+    "duckling": [
+        "Duckling (domestic or wild, whole)"
+    ],
+    "dungeness": [
+        "Crab legs (king, dungeness, snow)"
+    ],
+    "eat": [
+        "Cereal (ready-to-eat)"
+    ],
+    "eclairs": [
+        "Dairy filled eclairs"
+    ],
+    "edamame": [
+        "Edamame (fresh)",
+        "Edamame (frozen)",
+        "Edamame (salted, dry roasted, out of pod)"
+    ],
+    "egg": [
+        "Egg substitutes (liquid)",
+        "Eggnog (commercial)",
+        "Eggs (in shell)",
+        "Eggs (raw whites, yolks)",
+        "Eggs (hard boiled cooked)",
+        "Egg dishes",
+        "Leftovers (with meat, fish, poultry, or egg)",
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Eggplant",
+        "Egg substitutes",
+        "Pasta (dry, without eggs)",
+        "Dry egg noodles",
+        "Egg salad"
+    ],
+    "egg dishes": [
+        "Egg dishes"
+    ],
+    "egg noodles": [
+        "Dry egg noodles"
+    ],
+    "egg salad": [
+        "Egg salad"
+    ],
+    "egg substitute": [
+        "Egg substitutes"
+    ],
+    "egg substitutes": [
+        "Egg substitutes (liquid)",
+        "Egg substitutes"
+    ],
+    "eggnog": [
+        "Eggnog (commercial)"
+    ],
+    "eggplant": [
+        "Eggplant"
+    ],
+    "eggs": [
+        "Eggs (in shell)",
+        "Eggs (raw whites, yolks)",
+        "Eggs (hard boiled cooked)",
+        "Pasta (dry, without eggs)"
+    ],
+    "energy bar": [
+        "Cereal or granola bars"
+    ],
+    "energy bars": [
+        "Cereal or granola bars"
+    ],
+    "ensure": [
+        "Nutrition supplement drinks (canned)"
+    ],
+    "entrees": [
+        "Frozen entrees (prepared meals)"
+    ],
+    "entry": [
+        "Frozen entrees (prepared meals)"
+    ],
+    "evaporate": [
+        "Milk (canned evaporated or condensed)"
+    ],
+    "evaporated": [
+        "Milk (canned evaporated or condensed)"
+    ],
+    "farro": [
+        "Farro (whole grain)",
+        "Farro (flour, meal)"
+    ],
+    "fat": [
+        "Soy flour (full-fat)",
+        "Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)"
+    ],
+    "fatty": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)"
+    ],
+    "fatty fish": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)"
+    ],
+    "fava": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)"
+    ],
+    "feed": [
+        "Liquid concentrate or ready-to-feed formula"
+    ],
+    "feed formula": [
+        "Liquid concentrate or ready-to-feed formula"
+    ],
+    "feijoa": [
+        "Papaya, mango, feijoa, passionfruit, casaha melon"
+    ],
+    "fermented": [
+        "Kefir (fermented milk)"
+    ],
+    "fermented milk": [
+        "Kefir (fermented milk)"
+    ],
+    "fish": [
+        "Lean fish (cod, flounder, haddock, halibut, sole, etc.)",
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)",
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)",
+        "Cooked fish (all)",
+        "Shrimp, crayfish",
+        "Cooked shellfish (all)",
+        "Fish (hot smoked, air pack)",
+        "Fish (hot smoked, vacuum pack)",
+        "Fish (cold smoked, air pack)",
+        "Fish (cold smoked, vacuum pack)",
+        "Leftovers (with meat, fish, poultry, or egg)",
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Fish (breaded)",
+        "Fish (raw but headed and gutted)",
+        "Shrimp, shellfish",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "flat": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)"
+    ],
+    "flat breads": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)"
+    ],
+    "flavor": [
+        "Milk (plain or flavored)",
+        "Gelatin (flavored)",
+        "Flavored or herb mixes"
+    ],
+    "flavored": [
+        "Milk (plain or flavored)",
+        "Gelatin (flavored)",
+        "Flavored or herb mixes"
+    ],
+    "flaxseed": [
+        "Flaxseed (whole seed)",
+        "Flaxseed (ground)"
+    ],
+    "flounder": [
+        "Lean fish (cod, flounder, haddock, halibut, sole, etc.)"
+    ],
+    "flour": [
+        "Soy flour (full-fat)",
+        "Flour (white)",
+        "Flour (whole wheat)",
+        "Whole wheat flour",
+        "Whole wheat bread (commercially baked & pre-sliced)",
+        "Amaranth (flour, meal)",
+        "Barley (flour, meal)",
+        "Buckwheat (flour, meal)",
+        "Farro (flour, meal)",
+        "Millet (flour, meal)",
+        "Oats (flour, meal)",
+        "Rye (flour, meal)",
+        "Sorghum (flour, meal)",
+        "Spelt (flour, meal)",
+        "Teff (flour, meal)",
+        "Coconut flour"
+    ],
+    "food": [
+        "Surimi seafood",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "foods": [
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "foods in vinegar based sauce": [
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "formula": [
+        "Formula (prepared)",
+        "Liquid concentrate or ready-to-feed formula"
+    ],
+    "french": [
+        "Macaroons (french)"
+    ],
+    "fresh": [
+        "Ham (fresh, cook-before-eating, bone-in, whole)",
+        "Ham (fresh, cook-before-eating, bone-in, half)",
+        "Ham (fresh, cook-before-eating, shank or butt portion, bone-in)",
+        "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)",
+        "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)",
+        "Ham (fresh, uncooked, whole leg, bone-in)",
+        "Ham (fresh, uncooked, whole leg, boneless)",
+        "Ham (fresh, uncooked, half leg, bone-in)",
+        "Caviar (fresh, in jar)",
+        "Crab meat (fresh)",
+        "Coconuts (fresh)",
+        "Orange juice (freshly squeezed)",
+        "Jicama (fresh)",
+        "Basil (fresh)",
+        "Zucchini (fresh, whole)",
+        "Salsa (fresh)",
+        "Rabbit (whole, fresh)",
+        "Bratwurst (fresh)",
+        "Edamame (fresh)",
+        "Ham (uncured, fresh, cooked)",
+        "Ham (uncured, fresh, uncooked)"
+    ],
+    "fresh baked": [
+        "Bagel (fresh baked)"
+    ],
+    "fresh brautwurst": [
+        "Bratwurst (fresh)"
+    ],
+    "fresh cheese": [
+        "Quark (fresh cheese)"
+    ],
+    "fresh chorizo": [
+        "Chorizo (fresh)"
+    ],
+    "fresh clams": [
+        "Fresh clams, mussels, oysters"
+    ],
+    "fresh edamame": [
+        "Edamame (fresh)"
+    ],
+    "fresh lobster tails": [
+        "Fresh lobster tails (cooked)"
+    ],
+    "fresh pasta": [
+        "Fresh pasta"
+    ],
+    "fresh squeezed": [
+        "Lemon juice (fresh squeezed)",
+        "Apple juice (fresh squeezed)",
+        "Carrot juice (fresh squeezed)"
+    ],
+    "fresh whole lobster": [
+        "Fresh whole lobster (live)",
+        "Fresh whole lobster (frozen)"
+    ],
+    "freshly": [
+        "Orange juice (freshly squeezed)"
+    ],
+    "freshly squeezed": [
+        "Orange juice (freshly squeezed)"
+    ],
+    "fried chicken": [
+        "Fried chicken"
+    ],
+    "fries": [
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "frost": [
+        "Frosting or icing"
+    ],
+    "frosting": [
+        "Frosting or icing"
+    ],
+    "frozen": [
+        "Fresh whole lobster (frozen)",
+        "Frozen pretzels",
+        "Bagel (commercially frozen)",
+        "Orange juice (commercially frozen concentrate)",
+        "Pizza (frozen)",
+        "Edamame (frozen)",
+        "Polenta (frozen)"
+    ],
+    "frozen concentrate": [
+        "Orange juice (commercially frozen concentrate)"
+    ],
+    "frozen edamame": [
+        "Edamame (frozen)"
+    ],
+    "frozen polenta": [
+        "Polenta (frozen)"
+    ],
+    "frozen potato": [
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "frozen potato products": [
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "frozen pretzels": [
+        "Frozen pretzels"
+    ],
+    "fruit": [
+        "Fruit, cut",
+        "Fruit cake",
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",
+        "Kiwi fruit",
+        "Papaya, mango, feijoa, passionfruit, casaha melon",
+        "Fruit",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)",
+        "Gummy (fruit) snacks",
+        "Fruit Juice in cartons, fruit drinks, punch",
+        "Fruit cocktail (canned)",
+        "Star fruit",
+        "Pitaya/dragon fruit"
+    ],
+    "fruit bar": [
+        "Cereal or granola bars"
+    ],
+    "fruit bars": [
+        "Cereal or granola bars"
+    ],
+    "fruit cake": [
+        "Fruit cake"
+    ],
+    "fruit cocktail": [
+        "Fruit cocktail (canned)"
+    ],
+    "fruit drinks": [
+        "Fruit Juice in cartons, fruit drinks, punch"
+    ],
+    "fruit juice": [
+        "Fruit Juice in cartons, fruit drinks, punch"
+    ],
+    "fruit juice in cartons": [
+        "Fruit Juice in cartons, fruit drinks, punch"
+    ],
+    "fruit snack": [
+        "Gummy (fruit) snacks"
+    ],
+    "fruit snacks": [
+        "Gummy (fruit) snacks"
+    ],
+    "fruits": [
+        "Fruits (such as berries, melons)",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)",
+        "Star fruit",
+        "Pitaya/dragon fruit"
+    ],
+    "frying oil": [
+        "Frying oil (re-used)"
+    ],
+    "full fat": [
+        "Soy flour (full-fat)"
+    ],
+    "fully cooked": [
+        "Ham (fully cooked, bone-in, whole)",
+        "Ham (fully cooked, bone-in, half)",
+        "Ham (fully cooked, slices, half, or spiral cut)",
+        "Ham (fully cooked, arm picnic shoulder, boneless)",
+        "Ham (fully cooked, canned, boneless (refrigerated))",
+        "Ham (fully cooked, vacuum packed, boneless)",
+        "Sausage (fully cooked smoked links, kielbasa)",
+        "Bacon (fully cooked)",
+        "Ham (uncured, fresh, cooked)"
+    ],
+    "fully cooked smoked links": [
+        "Sausage (fully cooked smoked links, kielbasa)"
+    ],
+    "fully cooked uncured ham": [
+        "Ham (uncured, fresh, cooked)"
+    ],
+    "garam masala": [
+        "Garam masala"
+    ],
+    "garlic": [
+        "Garlic (chopped, commercial jars)",
+        "Garlic",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Aioli (homemade)"
+    ],
+    "garlic aioli": [
+        "Aioli (homemade)"
+    ],
+    "garlic mayo": [
+        "Aioli (homemade)"
+    ],
+    "garlic mayonnaise": [
+        "Aioli (homemade)"
+    ],
+    "garlic powder": [
+        "Garlic powder (dried, commercially bottled or purchased in bulk)"
+    ],
+    "gelatin": [
+        "Gelatin (flavored)",
+        "Gelatin (unflavored)"
+    ],
+    "genuine maple syrup": [
+        "\"Genuine\" Maple syrup (unopened, glass)",
+        "\"Genuine\" Maple syrup (unopened, plastic)"
+    ],
+    "germinate": [
+        "Cornmeal (regular, degerminated)"
+    ],
+    "germinated": [
+        "Cornmeal (regular, degerminated)"
+    ],
+    "ghee": [
+        "Ghee"
+    ],
+    "giblet": [
+        "Giblets"
+    ],
+    "giblets": [
+        "Giblets"
+    ],
+    "ginger": [
+        "Ginger root"
+    ],
+    "ginger root": [
+        "Ginger root"
+    ],
+    "glass": [
+        "Herring (glass packed, in wine sauce)",
+        "\"Genuine\" Maple syrup (unopened, glass)"
+    ],
+    "glass packed": [
+        "Herring (glass packed, in wine sauce)"
+    ],
+    "goat": [
+        "Cheese (soft such as brie, bel paese, goat)",
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))",
+        "Goat (ground)"
+    ],
+    "goods": [
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "goose": [
+        "Goose (domestic or wild, whole)"
+    ],
+    "goose berries": [
+        "Berries (cherries, goose berries, lychee)"
+    ],
+    "goose berry": [
+        "Berries (cherries, goose berries, lychee)"
+    ],
+    "gooseberries": [
+        "Berries (cherries, goose berries, lychee)"
+    ],
+    "graham": [
+        "Graham cracker/animal cracker"
+    ],
+    "graham cracker": [
+        "Graham cracker/animal cracker"
+    ],
+    "grain": [
+        "Amaranth (whole grain)",
+        "Barley (whole grain)",
+        "Buckwheat (whole grain)",
+        "Farro (whole grain)",
+        "Millet (whole grain)",
+        "Oats (whole grain)",
+        "Rye (whole grain)",
+        "Sorghum (whole grain)",
+        "Spelt (whole grain)",
+        "Teff (whole grain)"
+    ],
+    "granola": [
+        "Granola",
+        "Cereal or granola bars"
+    ],
+    "granola bar": [
+        "Cereal or granola bars"
+    ],
+    "granola bars": [
+        "Cereal or granola bars"
+    ],
+    "granulated": [
+        "Sugar (granulated)"
+    ],
+    "grape": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",
+        "Grapes"
+    ],
+    "grapefruit": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)"
+    ],
+    "grapes": [
+        "Grapes"
+    ],
+    "grapeseed": [
+        "Grapeseed oil"
+    ],
+    "grapeseed oil": [
+        "Grapeseed oil"
+    ],
+    "grated": [
+        "Cheese (parmesan; shredded or grated)"
+    ],
+    "gravy": [
+        "Poultry pieces (covered with gravy or broth)",
+        "Meats (covered with gravy or broth)",
+        "Dry gravy mixes",
+        "Gravy (jars and cans)",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "grease": [
+        "Bacon grease"
+    ],
+    "green": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",
+        "Greens",
+        "Onions (spring or green)",
+        "Olives (black and green)",
+        "Bagged greens (leaf, spinach, lettuce, etc.)"
+    ],
+    "greens": [
+        "Greens",
+        "Bagged greens (leaf, spinach, lettuce, etc.)",
+        "Arugula"
+    ],
+    "grits": [
+        "Grits (boxed)"
+    ],
+    "ground": [
+        "Beef (ground)",
+        "Lamb (ground)",
+        "Veal (ground)",
+        "Pork (ground)",
+        "Goat (ground)",
+        "Cornmeal (stone ground or blue)",
+        "Spice/spices (ground)",
+        "Coffee (home ground, non-vacuum)",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)",
+        "Flaxseed (ground)",
+        "Bison (ground)"
+    ],
+    "ground bison": [
+        "Bison (ground)"
+    ],
+    "ground mustard": [
+        "Mustard (dried, ground)"
+    ],
+    "ground turkey": [
+        "Ground turkey or chicken"
+    ],
+    "guacamole": [
+        "Guacamole"
+    ],
+    "guava": [
+        "Guava",
+        "Nectar (papaya, mango, guava, or guavabana)"
+    ],
+    "guavabana": [
+        "Nectar (papaya, mango, guava, or guavabana)"
+    ],
+    "gummy": [
+        "Gummy (fruit) snacks"
+    ],
+    "gummy snack": [
+        "Gummy (fruit) snacks"
+    ],
+    "gummy snacks": [
+        "Gummy (fruit) snacks"
+    ],
+    "gutted": [
+        "Fish (raw but headed and gutted)"
+    ],
+    "haddock": [
+        "Lean fish (cod, flounder, haddock, halibut, sole, etc.)"
+    ],
+    "half": [
+        "Cream (half and half)",
+        "Beef (tenderloin, half)",
+        "Lamb (shoulder roast or shank leg half)",
+        "Ham (fully cooked, bone-in, half)",
+        "Ham (fully cooked, slices, half, or spiral cut)",
+        "Ham (fresh, cook-before-eating, bone-in, half)",
+        "Ham (country ham (whole or half))",
+        "Chicken parts (breast halves, bone-in)",
+        "Chicken parts (breast halves, boneless)",
+        "Turkey parts (breast halves, bone-in)"
+    ],
+    "half leg": [
+        "Ham (fresh, uncooked, half leg, bone-in)"
+    ],
+    "halibut": [
+        "Lean fish (cod, flounder, haddock, halibut, sole, etc.)"
+    ],
+    "halves": [
+        "Chicken parts (breast halves, bone-in)",
+        "Chicken parts (breast halves, boneless)",
+        "Turkey parts (breast halves, bone-in)"
+    ],
+    "ham": [
+        "Ham (canned (“keep refrigerated” label))",
+        "Ham (fully cooked, bone-in, whole)",
+        "Ham (fully cooked, bone-in, half)",
+        "Ham (fully cooked, slices, half, or spiral cut)",
+        "Ham (fully cooked, arm picnic shoulder, boneless)",
+        "Ham (fully cooked, canned, boneless (refrigerated))",
+        "Ham (fully cooked, vacuum packed, boneless)",
+        "Ham (fresh, cook-before-eating, bone-in, whole)",
+        "Ham (fresh, cook-before-eating, bone-in, half)",
+        "Ham (fresh, cook-before-eating, shank or butt portion, bone-in)",
+        "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)",
+        "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)",
+        "Ham (fresh, uncooked, whole leg, bone-in)",
+        "Ham (fresh, uncooked, whole leg, boneless)",
+        "Ham (fresh, uncooked, half leg, bone-in)",
+        "Ham (country ham (whole or half))",
+        "Ham (shelf-stable cans)",
+        "Ham salad",
+        "Ham (pre-packaged, luncheon/deli meat)",
+        "Ham (uncured, fresh, cooked)",
+        "Ham (uncured, fresh, uncooked)"
+    ],
+    "ham salad": [
+        "Ham salad"
+    ],
+    "hard": [
+        "Sausage (hard, dry (pepperoni), sliced)"
+    ],
+    "hard boiled": [
+        "Eggs (hard boiled cooked)"
+    ],
+    "hard boiled cooked": [
+        "Eggs (hard boiled cooked)"
+    ],
+    "hard liquors": [
+        "Hard liquors"
+    ],
+    "hashbrown": [
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "hashbrowns": [
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "hazelnut": [
+        "Chocolate hazlenut spread"
+    ],
+    "hazelnut spread": [
+        "Chocolate hazlenut spread"
+    ],
+    "headed": [
+        "Fish (raw but headed and gutted)"
+    ],
+    "health bar": [
+        "Cereal or granola bars"
+    ],
+    "health bars": [
+        "Cereal or granola bars"
+    ],
+    "heavy": [
+        "Cream (heavy)"
+    ],
+    "hen": [
+        "Cornish Hens (whole)"
+    ],
+    "hens": [
+        "Cornish Hens (whole)"
+    ],
+    "herb": [
+        "Flavored or herb mixes",
+        "Herbs (dried)",
+        "Herbs"
+    ],
+    "herb mixes": [
+        "Flavored or herb mixes"
+    ],
+    "herbs": [
+        "Herbs (dried)",
+        "Herbs"
+    ],
+    "herring": [
+        "Herring (glass packed, in wine sauce)"
+    ],
+    "high": [
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "high acid": [
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "hoisin": [
+        "Hoisin sauce"
+    ],
+    "hoisin sauce": [
+        "Hoisin sauce"
+    ],
+    "home": [
+        "Coffee (home ground, non-vacuum)"
+    ],
+    "home ground": [
+        "Coffee (home ground, non-vacuum)"
+    ],
+    "homemade": [
+        "Jerky (homemade)",
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)",
+        "Whole wheat bread (homemade)",
+        "Broth (homemade)",
+        "Applesauce (homemade)",
+        "Cranberry sauce (homemade)",
+        "Vegetable juice (homemade)",
+        "Bread (homemade)",
+        "Coleslaw (homemade, prepared)",
+        "Salad dressing (vinaigrette,homemade)",
+        "Salsa (homemade, fresh)",
+        "Salsa (homemade, canned)",
+        "Tomato Sauce (homemade, canned)",
+        "Kugel (homemade)",
+        "Salad dressing (homemade)"
+    ],
+    "homemade barbecue sauce": [
+        "Barbecue Sauce (homemade, canned)"
+    ],
+    "homemade bbq sauce": [
+        "Barbecue Sauce (homemade, canned)"
+    ],
+    "homemade coleslaw": [
+        "Coleslaw (homemade, prepared)"
+    ],
+    "homemade including bran": [
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)"
+    ],
+    "homemade kugel": [
+        "Kugel (homemade)"
+    ],
+    "homemade salad dressing": [
+        "Salad dressing (homemade)"
+    ],
+    "homemade salsa": [
+        "Salsa (homemade, fresh)",
+        "Salsa (homemade, canned)"
+    ],
+    "homemade sauce": [
+        "Tomato Sauce (homemade, canned)",
+        "Barbecue Sauce (homemade, canned)"
+    ],
+    "homemade spaghetti sauce": [
+        "Tomato Sauce (homemade, canned)"
+    ],
+    "homemade tomato sauce": [
+        "Tomato Sauce (homemade, canned)"
+    ],
+    "honey": [
+        "Honey"
+    ],
+    "honeydew": [
+        "Honeydew"
+    ],
+    "horseradish": [
+        "Horseradish (in jar)"
+    ],
+    "hot": [
+        "Hot dogs",
+        "Fish (hot smoked, air pack)",
+        "Fish (hot smoked, vacuum pack)",
+        "Main dishes or meals (hot or refrigerated)"
+    ],
+    "hot dog": [
+        "Soy crumbles and hot dogs"
+    ],
+    "hot dogs": [
+        "Hot dogs",
+        "Soy crumbles and hot dogs"
+    ],
+    "hot peppers": [
+        "Hot peppers"
+    ],
+    "hot sauce": [
+        "Hot sauce"
+    ],
+    "hot smoked": [
+        "Fish (hot smoked, air pack)",
+        "Fish (hot smoked, vacuum pack)"
+    ],
+    "hummus": [
+        "Hummus (commercial (pasteurized, with preservatives))",
+        "Hummus (traditional (no preservatives, not pasteurized))"
+    ],
+    "hydrogenated fat": [
+        "Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)"
+    ],
+    "ice": [
+        "Frosting or icing",
+        "Ice cream",
+        "Ice pops"
+    ],
+    "ice cream": [
+        "Ice cream"
+    ],
+    "ice pops": [
+        "Ice pops"
+    ],
+    "iceberg": [
+        "Lettuce (iceberg, romaine)"
+    ],
+    "icing": [
+        "Frosting or icing"
+    ],
+    "imitation": [
+        "Bacon bits (imitation)"
+    ],
+    "in bags": [
+        "Popcorn (commercially popped in bags)"
+    ],
+    "in jar": [
+        "Popcorn (dry kernels in jar)",
+        "Capers (in jar)"
+    ],
+    "in jars": [
+        "Spaghetti sauce (in jars)"
+    ],
+    "in shell": [
+        "Eggs (in shell)"
+    ],
+    "including bran": [
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)"
+    ],
+    "instant": [
+        "Potatoes (instant)",
+        "Coffee (instant)",
+        "Tea (instant)",
+        "Instant breakfast drinks (bottled)"
+    ],
+    "instant breakfast": [
+        "Instant breakfast drinks (bottled)"
+    ],
+    "instant breakfast drinks": [
+        "Instant breakfast drinks (bottled)"
+    ],
+    "instant drink": [
+        "Instant breakfast drinks (bottled)"
+    ],
+    "iodized": [
+        "Salt (table, plain, or iodized)"
+    ],
+    "jam": [
+        "Jams, jellies, and preserves"
+    ],
+    "jams": [
+        "Jams, jellies, and preserves"
+    ],
+    "jar": [
+        "Caviar (fresh, in jar)",
+        "Garlic (chopped, commercial jars)",
+        "Gravy (jars and cans)",
+        "Horseradish (in jar)",
+        "Pesto (jarred)",
+        "Spaghetti sauce (in jars)",
+        "Jars or pouches",
+        "Nuts (jars or cans)",
+        "Popcorn (dry kernels in jar)",
+        "Roasted red peppers (jar)",
+        "Capers (in jar)"
+    ],
+    "jar capers": [
+        "Capers (in jar)"
+    ],
+    "jarred": [
+        "Pesto (jarred)"
+    ],
+    "jars": [
+        "Garlic (chopped, commercial jars)",
+        "Gravy (jars and cans)",
+        "Spaghetti sauce (in jars)",
+        "Jars or pouches",
+        "Nuts (jars or cans)"
+    ],
+    "jellies": [
+        "Jams, jellies, and preserves"
+    ],
+    "jelly": [
+        "Jams, jellies, and preserves"
+    ],
+    "jerky": [
+        "Jerky (commercially dried)",
+        "Jerky (homemade)"
+    ],
+    "jicama": [
+        "Jicama (fresh)"
+    ],
+    "juice": [
+        "Corned beef (in pouch with pickling juices)",
+        "Juice concentrates",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Juice, boxes",
+        "Lime juice",
+        "Lemon juice",
+        "Orange juice (commercially packaged carton)",
+        "Orange juice (commercially frozen concentrate)",
+        "Orange juice (freshly squeezed)",
+        "Lemon juice (fresh squeezed)",
+        "Apple juice (fresh squeezed)",
+        "Carrot juice (fresh squeezed)",
+        "Yuzu juice"
+    ],
+    "juice concentrates": [
+        "Juice concentrates"
+    ],
+    "juice in cartons": [
+        "Fruit Juice in cartons, fruit drinks, punch"
+    ],
+    "juices": [
+        "Corned beef (in pouch with pickling juices)",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Lemon juice (fresh squeezed)",
+        "Apple juice (fresh squeezed)",
+        "Carrot juice (fresh squeezed)",
+        "Vegetable juice (homemade)"
+    ],
+    "kabob": [
+        "Lamb (cubes for kabobs)",
+        "Raw kabobs with vegetables",
+        "Raw kabobs with vegetables"
+    ],
+    "kabobs": [
+        "Lamb (cubes for kabobs)",
+        "Raw kabobs with vegetables",
+        "Raw kabobs with vegetables"
+    ],
+    "kale": [
+        "Kale"
+    ],
+    "keep refrigerated": [
+        "Ham (canned (“keep refrigerated” label))"
+    ],
+    "kefir": [
+        "Kefir (fermented milk)"
+    ],
+    "kernal": [
+        "Sunflower seeds (roasted, no shell)"
+    ],
+    "kernel": [
+        "Popcorn (dry kernels in jar)"
+    ],
+    "kernels": [
+        "Popcorn (dry kernels in jar)"
+    ],
+    "ketchup": [
+        "Ketchup, cocktail, or chili sauce"
+    ],
+    "kielbasa": [
+        "Sausage (fully cooked smoked links, kielbasa)"
+    ],
+    "kimchi": [
+        "Kimchi"
+    ],
+    "king": [
+        "Crab legs (king, dungeness, snow)"
+    ],
+    "kiwi": [
+        "Kiwi fruit"
+    ],
+    "kiwi fruit": [
+        "Kiwi fruit"
+    ],
+    "kohlrabi": [
+        "Kohlrabi"
+    ],
+    "kugel": [
+        "Kugel (commercial)",
+        "Kugel (homemade)"
+    ],
+    "kumquats": [
+        "Kumquats"
+    ],
+    "label": [
+        "Ham (canned (“keep refrigerated” label))"
+    ],
+    "lactose": [
+        "Milk (lactose-free)"
+    ],
+    "lactose-free": [
+        "Milk (lactose-free)"
+    ],
+    "lamb": [
+        "Lamb (leg, bone-in - small)",
+        "Lamb (leg, bone-in - large)",
+        "Lamb (leg; boneless, rolled)",
+        "Lamb (crown roast)",
+        "Lamb (shoulder roast or shank leg half)",
+        "Lamb (cubes for kabobs)",
+        "Lamb (ground)",
+        "Lamb (chops, ribs, or loin)",
+        "Lamb (leg steaks)",
+        "Lamb (stew meat, pieces)",
+        "Lamb (shanks)",
+        "Lamb (breast, rolled)"
+    ],
+    "large": [
+        "Pork (crown roast - large)"
+    ],
+    "leaf": [
+        "Lettuce (leaf, spinach)",
+        "Bagged greens (leaf, spinach, lettuce, etc.)"
+    ],
+    "lean fish": [
+        "Lean fish (cod, flounder, haddock, halibut, sole, etc.)",
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "leek": [
+        "Leeks"
+    ],
+    "leeks": [
+        "Leeks"
+    ],
+    "leftover": [
+        "Leftovers (with meat, fish, poultry, or egg)",
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))"
+    ],
+    "leftovers": [
+        "Leftovers (with meat, fish, poultry, or egg)",
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Leftovers (pizza)"
+    ],
+    "leg": [
+        "Lamb (leg, bone-in - small)",
+        "Lamb (leg, bone-in - large)",
+        "Lamb (leg; boneless, rolled)",
+        "Lamb (shoulder roast or shank leg half)",
+        "Lamb (leg steaks)",
+        "Veal (leg rump or round roast, boneless)",
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Ham (fresh, uncooked, whole leg, bone-in)",
+        "Ham (fresh, uncooked, whole leg, boneless)",
+        "Ham (fresh, uncooked, half leg, bone-in)",
+        "Chicken parts (legs or thighs)",
+        "Turkey parts (legs or thighs)",
+        "Crab legs (king, dungeness, snow)"
+    ],
+    "leg rump": [
+        "Veal (leg rump or round roast, boneless)"
+    ],
+    "leg steaks": [
+        "Lamb (leg steaks)"
+    ],
+    "legs": [
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Chicken parts (legs or thighs)",
+        "Turkey parts (legs or thighs)",
+        "Crab legs (king, dungeness, snow)"
+    ],
+    "lemon": [
+        "Chiffon pies (chocolate, lemon)",
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",
+        "Lemon juice",
+        "Lemon extract"
+    ],
+    "lemon extract": [
+        "Lemon extract"
+    ],
+    "lemon juice": [
+        "Lemon juice",
+        "Lemon juice (fresh squeezed)"
+    ],
+    "lemon pie": [
+        "Chiffon pies (chocolate, lemon)"
+    ],
+    "lemongrass": [
+        "Lemongrass"
+    ],
+    "lentils": [
+        "Lentils (dried)"
+    ],
+    "less tender": [
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))"
+    ],
+    "less tender whole cuts": [
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))"
+    ],
+    "lettuce": [
+        "Lettuce (iceberg, romaine)",
+        "Lettuce (leaf, spinach)",
+        "Bagged greens (leaf, spinach, lettuce, etc.)"
+    ],
+    "light": [
+        "Cream (light)"
+    ],
+    "lima": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)"
+    ],
+    "lime": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",
+        "Lime juice"
+    ],
+    "lime juice": [
+        "Lime juice"
+    ],
+    "link": [
+        "Sausage (fully cooked smoked links, kielbasa)"
+    ],
+    "links": [
+        "Sausage (fully cooked smoked links, kielbasa)"
+    ],
+    "liquid": [
+        "Egg substitutes (liquid)",
+        "Liquid concentrate or ready-to-feed formula"
+    ],
+    "liquid concentrate": [
+        "Liquid concentrate or ready-to-feed formula"
+    ],
+    "liquid refrigerated": [
+        "Coffee creamer (liquid refrigerated)"
+    ],
+    "liquor": [
+        "Hard liquors",
+        "Cream liquors (unopened)"
+    ],
+    "liquors": [
+        "Cream liquors (unopened)"
+    ],
+    "live": [
+        "Fresh whole lobster (live)"
+    ],
+    "live clams": [
+        "Live clams, mussels, crab, and oysters"
+    ],
+    "liver": [
+        "Variety meats (liver, tongue, chitterlings, etc.)"
+    ],
+    "lobster": [
+        "Fresh whole lobster (live)",
+        "Fresh whole lobster (frozen)",
+        "Lobster tails"
+    ],
+    "lobster tail": [
+        "Lobster tails"
+    ],
+    "lobster tails": [
+        "Fresh lobster tails (cooked)",
+        "Lobster tails"
+    ],
+    "loin": [
+        "Lamb (chops, ribs, or loin)",
+        "Veal (loin roast, bone-in)",
+        "Pork (loin roast, bone-in)",
+        "Pork (loin roast, boneless)",
+        "Pork (loin chops, bone-in)",
+        "Pork (loin chops, boneless)",
+        "Pork (tenderloin medallions or loin cubes)",
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Pork (loin, cubes)",
+        "Venison (round, rump, loin, or rib roast)"
+    ],
+    "loin chops": [
+        "Pork (loin chops, bone-in)",
+        "Pork (loin chops, boneless)"
+    ],
+    "loin cube": [
+        "Pork (tenderloin medallions or loin cubes)"
+    ],
+    "loin cubes": [
+        "Pork (tenderloin medallions or loin cubes)"
+    ],
+    "loin roast": [
+        "Veal (loin roast, bone-in)",
+        "Pork (loin roast, bone-in)",
+        "Pork (loin roast, boneless)"
+    ],
+    "loose": [
+        "Tea (loose)"
+    ],
+    "low": [
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "low acid": [
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "luncheon": [
+        "Luncheon meat or poultry (store-sliced)",
+        "Luncheon meat or poultry (pre-packaged)",
+        "Turkey (pre-packaged, luncheon/deli meat)",
+        "Ham (pre-packaged, luncheon/deli meat)"
+    ],
+    "luncheon meat": [
+        "Luncheon meat or poultry (store-sliced)",
+        "Luncheon meat or poultry (pre-packaged)",
+        "Salami (pre-packaged, luncheon/deli meat)",
+        "Chicken (pre-packaged, luncheon/deli meat)"
+    ],
+    "luncheon/deli": [
+        "Salami (pre-packaged, luncheon/deli meat)"
+    ],
+    "luncheon/deli meat": [
+        "Turkey (pre-packaged, luncheon/deli meat)",
+        "Ham (pre-packaged, luncheon/deli meat)"
+    ],
+    "lychee": [
+        "Berries (cherries, goose berries, lychee)"
+    ],
+    "macadamia": [
+        "Macadamias (no shell)"
+    ],
+    "macadamias": [
+        "Macadamias (no shell)"
+    ],
+    "macaroon": [
+        "Macaroons (french)"
+    ],
+    "macaroons": [
+        "Macaroons (french)"
+    ],
+    "mackerel": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)"
+    ],
+    "main dishes": [
+        "Main dishes or meals (hot or refrigerated)"
+    ],
+    "mango": [
+        "Papaya, mango, feijoa, passionfruit, casaha melon",
+        "Nectar (papaya, mango, guava, or guavabana)"
+    ],
+    "mangoe": [
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)"
+    ],
+    "mangoes": [
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)",
+        "Nectar (papaya, mango, guava, or guavabana)"
+    ],
+    "margarine": [
+        "Margarine"
+    ],
+    "marinade": [
+        "Marinades"
+    ],
+    "marinades": [
+        "Marinades"
+    ],
+    "marinated vegetables": [
+        "Marinated vegetables (in oil)"
+    ],
+    "marshmallow": [
+        "Marshmallows",
+        "Marshmallow crème"
+    ],
+    "marshmallow crème": [
+        "Marshmallow crème"
+    ],
+    "marshmallows": [
+        "Marshmallows"
+    ],
+    "mayo": [
+        "Aioli (homemade)",
+        "Aioli (homemade)"
+    ],
+    "mayonnaise": [
+        "Mayonnaise (commercial)",
+        "Aioli (homemade)"
+    ],
+    "meal": [
+        "Main dishes or meals (hot or refrigerated)",
+        "Cornmeal (regular, degerminated)",
+        "Cornmeal (stone ground or blue)",
+        "Cereal (cook before eating (oatmeal, etc.))",
+        "Amaranth (flour, meal)",
+        "Barley (flour, meal)",
+        "Buckwheat (flour, meal)",
+        "Buckwheat (flour, meal)",
+        "Farro (flour, meal)",
+        "Millet (flour, meal)",
+        "Oats (flour, meal)",
+        "Rye (flour, meal)",
+        "Sorghum (flour, meal)",
+        "Spelt (flour, meal)",
+        "Teff (flour, meal)"
+    ],
+    "meals": [
+        "Main dishes or meals (hot or refrigerated)"
+    ],
+    "meat": [
+        "Lamb (stew meat, pieces)",
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))",
+        "Variety meats (liver, tongue, chitterlings, etc.)",
+        "Meat products (canned)",
+        "Crab meat (fresh)",
+        "Crab meat (pasteurized)",
+        "Leftovers (with meat, fish, poultry, or egg)",
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Luncheon meat or poultry (store-sliced)",
+        "Meats (covered with gravy or broth)",
+        "Luncheon meat or poultry (pre-packaged)",
+        "Pies (mincemeat)",
+        "Soy meat substitutes",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Pate (meat)"
+    ],
+    "meat products": [
+        "Meat products (canned)"
+    ],
+    "meat substitutes": [
+        "Soy meat substitutes"
+    ],
+    "meats": [
+        "Variety meats (liver, tongue, chitterlings, etc.)",
+        "Meats (covered with gravy or broth)"
+    ],
+    "medallion": [
+        "Pork (tenderloin medallions or loin cubes)"
+    ],
+    "medallions": [
+        "Pork (tenderloin medallions or loin cubes)"
+    ],
+    "melon": [
+        "Melons",
+        "Papaya, mango, feijoa, passionfruit, casaha melon",
+        "Fruits (such as berries, melons)"
+    ],
+    "melons": [
+        "Melons",
+        "Fruits (such as berries, melons)"
+    ],
+    "microwave": [
+        "Popcorn (microwave packets)"
+    ],
+    "microwave packets": [
+        "Popcorn (microwave packets)"
+    ],
+    "milk": [
+        "Kefir (fermented milk)",
+        "Milk (plain or flavored)",
+        "Cream sauces, milk solids",
+        "Milk (canned evaporated or condensed)",
+        "Soy milk",
+        "Almond milk",
+        "Rice milk",
+        "Coconut milk",
+        "Powdered milk",
+        "Milk (lactose-free)",
+        "Coconut milk (canned)",
+        "Milk (shelf-stable)",
+        "Milk (ultra-pasteurized)"
+    ],
+    "milk solids": [
+        "Cream sauces, milk solids"
+    ],
+    "millet": [
+        "Millet (whole grain)",
+        "Millet (flour, meal)"
+    ],
+    "mince": [
+        "Pies (mincemeat)"
+    ],
+    "mincemeat": [
+        "Pies (mincemeat)"
+    ],
+    "mint": [
+        "Mint"
+    ],
+    "miso": [
+        "Miso"
+    ],
+    "mix": [
+        "Biscuit or pancake mix",
+        "Cake, brownie, bread mixes",
+        "Cocoa and cocoa mixes",
+        "Flavored or herb mixes",
+        "Dry gravy mixes",
+        "Sauce mixes (nondairy (spaghetti, taco, etc.))",
+        "Cereal, dry mixes",
+        "Pudding mixes",
+        "Soup mixes (dry bouillon)",
+        "Diet powder mixes and drink mixes",
+        "Muffin (mix, dry, commercially packaged)",
+        "Dry stuffing mix (commercially packaged)"
+    ],
+    "mixed": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "mixed seafood": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "mixed seafood salad": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "mixer": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "mixers": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "mixes": [
+        "Cake, brownie, bread mixes",
+        "Cocoa and cocoa mixes",
+        "Flavored or herb mixes",
+        "Dry gravy mixes",
+        "Sauce mixes (nondairy (spaghetti, taco, etc.))",
+        "Cereal, dry mixes",
+        "Pudding mixes",
+        "Soup mixes (dry bouillon)",
+        "Diet powder mixes and drink mixes"
+    ],
+    "molasses": [
+        "Molasses"
+    ],
+    "mozzarella": [
+        "Cheese (shredded; cheddar, mozzarella, etc.)"
+    ],
+    "muffin": [
+        "Commercial cakes and muffins",
+        "Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)",
+        "Muffin (commercially packaged)",
+        "Muffin (mix, dry, commercially packaged)"
+    ],
+    "muffins": [
+        "Commercial cakes and muffins"
+    ],
+    "mullet": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)"
+    ],
+    "mung": [
+        "Mung bean (sprouts)",
+        "Mung bean (dry, food-grade bags)",
+        "Mung bean (dry, vacuum-sealed)"
+    ],
+    "mung bean": [
+        "Mung bean (sprouts)",
+        "Mung bean (dry, food-grade bags)",
+        "Mung bean (dry, vacuum-sealed)"
+    ],
+    "mung beans": [
+        "Mung bean (sprouts)",
+        "Mung bean (dry, food-grade bags)",
+        "Mung bean (dry, vacuum-sealed)"
+    ],
+    "mungbean": [
+        "Mung bean (sprouts)"
+    ],
+    "mushroom": [
+        "Mushrooms",
+        "Mushrooms (dried)"
+    ],
+    "mushrooms": [
+        "Mushrooms",
+        "Mushrooms (dried)"
+    ],
+    "mussel": [
+        "Shucked clams, mussels, and oysters",
+        "Live clams, mussels, crab, and oysters",
+        "Fresh clams, mussels, oysters"
+    ],
+    "mussels": [
+        "Shucked clams, mussels, and oysters",
+        "Shucked clams, mussels, and oysters",
+        "Live clams, mussels, crab, and oysters",
+        "Fresh clams, mussels, oysters"
+    ],
+    "mustard": [
+        "Mustard",
+        "Mustard (dried, ground)"
+    ],
+    "nacho": [
+        "Nacho cheese (store bought)"
+    ],
+    "nacho cheese": [
+        "Nacho cheese (store bought)"
+    ],
+    "natural": [
+        "Peanut butter (natural)",
+        "Bacon (uncured)"
+    ],
+    "natural bacon": [
+        "Bacon (uncured)"
+    ],
+    "nectar": [
+        "Nectar (papaya, mango, guava, or guavabana)"
+    ],
+    "nectarine": [
+        "Peaches, nectarines, plums, pears, sapote"
+    ],
+    "nectarines": [
+        "Peaches, nectarines, plums, pears, sapote"
+    ],
+    "nitrite": [
+        "Bacon (uncured)"
+    ],
+    "nitrite-free": [
+        "Bacon (uncured)"
+    ],
+    "nitrite-free bacon": [
+        "Bacon (uncured)"
+    ],
+    "no preservative": [
+        "Hummus (traditional (no preservatives, not pasteurized))"
+    ],
+    "no preservatives": [
+        "Hummus (traditional (no preservatives, not pasteurized))"
+    ],
+    "no shell": [
+        "Almonds (no shell)",
+        "Cashews (no shell)",
+        "Macadamias (no shell)",
+        "Peanuts (no shell)",
+        "Pecans (no shell)",
+        "Pistachios (shell or no shell)",
+        "Walnuts (shell or no shell)"
+    ],
+    "nog": [
+        "Eggnog (commercial)"
+    ],
+    "non vacuum": [
+        "Coffee (home ground, non-vacuum)"
+    ],
+    "non-vacuum": [
+        "Coffee (commercial ground, non-vacuum)"
+    ],
+    "nondairy": [
+        "Sauce mixes (nondairy (spaghetti, taco, etc.))"
+    ],
+    "noodle": [
+        "Dry egg noodles"
+    ],
+    "noodles": [
+        "Dry egg noodles"
+    ],
+    "not pasteurized": [
+        "Hummus (traditional (no preservatives, not pasteurized))"
+    ],
+    "nugget": [
+        "Chicken nuggets, patties"
+    ],
+    "nuggets": [
+        "Chicken nuggets, patties"
+    ],
+    "nut": [
+        "Doughnuts",
+        "Nut oils",
+        "Nuts (jars or cans)",
+        "Peanuts (shell)",
+        "Peanuts (no shell)",
+        "Pine nuts"
+    ],
+    "nut bar": [
+        "Cereal or granola bars"
+    ],
+    "nut bars": [
+        "Cereal or granola bars"
+    ],
+    "nut oils": [
+        "Nut oils"
+    ],
+    "nutella": [
+        "Chocolate hazlenut spread"
+    ],
+    "nutmeg": [
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "nutrition bar": [
+        "Cereal or granola bars"
+    ],
+    "nutrition bars": [
+        "Cereal or granola bars"
+    ],
+    "nutrition supplement drinks": [
+        "Nutrition supplement drinks (canned)",
+        "Nutrition supplement drinks (bottled)"
+    ],
+    "nuts": [
+        "Nuts (jars or cans)",
+        "Roasted nuts (peanuts, cashews, almonds)",
+        "Pine nuts"
+    ],
+    "oat": [
+        "Cereal (cook before eating (oatmeal, etc.))",
+        "Oats (whole grain)",
+        "Oats (flour, meal)"
+    ],
+    "oatmeal": [
+        "Cereal (cook before eating (oatmeal, etc.))"
+    ],
+    "oats": [
+        "Cereal (cook before eating (oatmeal, etc.))",
+        "Oats (whole grain)",
+        "Oats (flour, meal)"
+    ],
+    "ocean": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "ocean perch": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "oil": [
+        "Oils (olive or vegetable)",
+        "Nut oils",
+        "Vegetable oil sprays",
+        "Coconut oil",
+        "Sunflower oil",
+        "Grapeseed oil",
+        "Frying oil (re-used)",
+        "Marinated vegetables (in oil)",
+        "Sesame oil",
+        "Avocado Oil"
+    ],
+    "oils": [
+        "Oils (olive or vegetable)",
+        "Nut oils"
+    ],
+    "okra": [
+        "Okra"
+    ],
+    "olive": [
+        "Olives (from olive bar)",
+        "Oils (olive or vegetable)",
+        "Olives (black and green)"
+    ],
+    "olives": [
+        "Olives (from olive bar)",
+        "Olives (black and green)"
+    ],
+    "onion": [
+        "Onions (yellow, white, red, etc.)",
+        "Onions (spring or green)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)"
+    ],
+    "onion powder": [
+        "Onion powder (dried, commercially bottled or purchased in bulk)"
+    ],
+    "onions": [
+        "Onions (yellow, white, red, etc.)",
+        "Onions (spring or green)"
+    ],
+    "open": [
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)"
+    ],
+    "opened": [
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)"
+    ],
+    "orange": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",
+        "Orange juice (commercially packaged carton)",
+        "Orange juice (commercially frozen concentrate)",
+        "Orange juice (freshly squeezed)"
+    ],
+    "orange juice": [
+        "Orange juice (commercially packaged carton)",
+        "Orange juice (commercially frozen concentrate)",
+        "Orange juice (freshly squeezed)"
+    ],
+    "oregano": [
+        "Oregano"
+    ],
+    "oyster": [
+        "Shucked clams, mussels, and oysters",
+        "Live clams, mussels, crab, and oysters",
+        "Fresh clams, mussels, oysters",
+        "Oyster sauce"
+    ],
+    "oyster sauce": [
+        "Oyster sauce"
+    ],
+    "oysters": [
+        "Shucked clams, mussels, and oysters",
+        "Live clams, mussels, crab, and oysters",
+        "Fresh clams, mussels, oysters"
+    ],
+    "pack": [
+        "Fish (hot smoked, air pack)",
+        "Fish (hot smoked, vacuum pack)",
+        "Fish (cold smoked, air pack)",
+        "Fish (cold smoked, vacuum pack)",
+        "Dry stuffing mix (commercially packaged)"
+    ],
+    "package": [
+        "Salad dressing (dry,packaged)"
+    ],
+    "packaged": [
+        "Luncheon meat or poultry (pre-packaged)",
+        "Muffin (commercially packaged)",
+        "Muffin (mix, dry, commercially packaged)",
+        "Orange juice (commercially packaged carton)",
+        "Dry stuffing mix (commercially packaged)",
+        "Turkey (pre-packaged, luncheon/deli meat)",
+        "Ham (pre-packaged, luncheon/deli meat)",
+        "Salami (pre-packaged, luncheon/deli meat)",
+        "Chicken (pre-packaged, luncheon/deli meat)",
+        "Yeast (packaged)",
+        "Salad dressing (dry,packaged)"
+    ],
+    "packaged carton": [
+        "Orange juice (commercially packaged carton)"
+    ],
+    "packed": [
+        "Herring (glass packed, in wine sauce)",
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "packed dinner": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "packet": [
+        "Popcorn (microwave packets)",
+        "Tuna (packet)"
+    ],
+    "packets": [
+        "Popcorn (microwave packets)"
+    ],
+    "pan": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)"
+    ],
+    "pan breads": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)"
+    ],
+    "pancake": [
+        "Biscuit or pancake mix",
+        "Pancakes, waffles"
+    ],
+    "pancake mix": [
+        "Biscuit or pancake mix"
+    ],
+    "pancakes": [
+        "Pancakes, waffles"
+    ],
+    "papaya": [
+        "Papaya, mango, feijoa, passionfruit, casaha melon",
+        "Nectar (papaya, mango, guava, or guavabana)"
+    ],
+    "parmesan": [
+        "Cheese (hard such as cheddar, swiss, block parmesan)",
+        "Cheese (parmesan; shredded or grated)"
+    ],
+    "parsley": [
+        "Parsley (fresh)"
+    ],
+    "parsnip": [
+        "Carrots, parsnips"
+    ],
+    "parsnips": [
+        "Carrots, parsnips"
+    ],
+    "passion": [
+        "Papaya, mango, feijoa, passionfruit, casaha melon"
+    ],
+    "passionfruit": [
+        "Papaya, mango, feijoa, passionfruit, casaha melon"
+    ],
+    "pasta": [
+        "Cooked pasta",
+        "Fresh pasta",
+        "Pasta (dry, without eggs)",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Pasta salad"
+    ],
+    "pasta salad": [
+        "Pasta salad"
+    ],
+    "paste": [
+        "Tamarind paste",
+        "Thai red curry paste"
+    ],
+    "pasteurized": [
+        "Crab meat (pasteurized)",
+        "Hummus (commercial (pasteurized, with preservatives))",
+        "Hummus (traditional (no preservatives, not pasteurized))",
+        "Milk (ultra-pasteurized)"
+    ],
+    "pastrami": [
+        "Pastrami"
+    ],
+    "pastries": [
+        "Pastries, danish",
+        "Toaster pastries",
+        "Puff pastry"
+    ],
+    "pastry": [
+        "Pastries, danish",
+        "Toaster pastries",
+        "Puff pastry"
+    ],
+    "pate": [
+        "Pate",
+        "Pate (meat)",
+        "Pate (poultry)"
+    ],
+    "patties": [
+        "Sausage (raw bulk type or patties)",
+        "Chicken nuggets, patties"
+    ],
+    "patty": [
+        "Sausage (raw bulk type or patties)",
+        "Chicken nuggets, patties"
+    ],
+    "pea": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",
+        "Peas (dried split)",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "peach": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Peaches, nectarines, plums, pears, sapote"
+    ],
+    "peach pie": [
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)"
+    ],
+    "peaches": [
+        "Peaches, nectarines, plums, pears, sapote"
+    ],
+    "peanut": [
+        "Peanut butter (commercial)",
+        "Peanuts (shell)",
+        "Peanuts (no shell)",
+        "Peanuts (boiled, shelled)"
+    ],
+    "peanut butter": [
+        "Peanut butter (commercial)",
+        "Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)",
+        "Peanut butter (natural)"
+    ],
+    "peanuts": [
+        "Peanuts (shell)",
+        "Peanuts (no shell)",
+        "Peanuts (boiled, shelled)",
+        "Roasted nuts (peanuts, cashews, almonds)"
+    ],
+    "pear": [
+        "Peaches, nectarines, plums, pears, sapote",
+        "Prickly pear"
+    ],
+    "pears": [
+        "Peaches, nectarines, plums, pears, sapote"
+    ],
+    "peas": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",
+        "Peas (dried split)",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "pecan": [
+        "Pies (pecan)",
+        "Pecans (shell)",
+        "Pecans (no shell)",
+        "Pecans (chopped)"
+    ],
+    "pecans": [
+        "Pecans (shell)",
+        "Pecans (no shell)",
+        "Pecans (chopped)"
+    ],
+    "pectin": [
+        "Pectin"
+    ],
+    "pepper": [
+        "Peppers",
+        "Roasted red peppers (jar)",
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Hot peppers"
+    ],
+    "pepperoni": [
+        "Sausage (hard, dry (pepperoni), sliced)"
+    ],
+    "peppers": [
+        "Peppers",
+        "Roasted red peppers (jar)"
+    ],
+    "perch": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "pesto": [
+        "Pesto (jarred)"
+    ],
+    "pheasant": [
+        "Pheasant (young, whole)"
+    ],
+    "picante": [
+        "Salsa (picante and taco sauces)"
+    ],
+    "pickle": [
+        "Pickles",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Prickly pear"
+    ],
+    "pickled": [
+        "Beets (pickled)"
+    ],
+    "pickled beets": [
+        "Beets (pickled)"
+    ],
+    "pickles": [
+        "Pickles",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "pickling juices": [
+        "Corned beef (in pouch with pickling juices)"
+    ],
+    "pie": [
+        "Cream pies (banana cream, coconut cream, butterscotch)",
+        "Chiffon pies (chocolate, lemon)",
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Pies (mincemeat)",
+        "Pies (pecan)",
+        "Pies (pumpkin)",
+        "Ready-to-bake pie crust",
+        "Pie crust (refrigerated)"
+    ],
+    "pie crust": [
+        "Pie crust (refrigerated)"
+    ],
+    "piece": [
+        "Lamb (stew meat, pieces)",
+        "Poultry pieces (covered with gravy or broth)"
+    ],
+    "pieces": [
+        "Lamb (stew meat, pieces)",
+        "Poultry pieces (covered with gravy or broth)"
+    ],
+    "pies": [
+        "Cream pies (banana cream, coconut cream, butterscotch)",
+        "Chiffon pies (chocolate, lemon)",
+        "Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)",
+        "Pies (mincemeat)",
+        "Pies (pecan)",
+        "Pies (pumpkin)"
+    ],
+    "pimento": [
+        "Pimento cheese (packaged)"
+    ],
+    "pimento cheese": [
+        "Pimento cheese (packaged)"
+    ],
+    "pine": [
+        "Pine nuts"
+    ],
+    "pine nut": [
+        "Pine nuts"
+    ],
+    "pine nuts": [
+        "Pine nuts"
+    ],
+    "pineapple": [
+        "Pineapple"
+    ],
+    "pista": [
+        "Pistachios (shell or no shell)"
+    ],
+    "pistachio": [
+        "Pistachios (shell or no shell)"
+    ],
+    "pistachios": [
+        "Pistachios (shell or no shell)"
+    ],
+    "pitaya": [
+        "Pitaya/dragon fruit"
+    ],
+    "pizza": [
+        "Leftovers (pizza)",
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)",
+        "Pizza (frozen)",
+        "Tomato sauce (spaghetti, pizza)"
+    ],
+    "pizza dough": [
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)"
+    ],
+    "plain": [
+        "Milk (plain or flavored)",
+        "Salt (table, plain, or iodized)"
+    ],
+    "plantain": [
+        "Plantains"
+    ],
+    "plantains": [
+        "Plantains"
+    ],
+    "plastic": [
+        "\"Genuine\" Maple syrup (unopened, plastic)"
+    ],
+    "plum": [
+        "Peaches, nectarines, plums, pears, sapote"
+    ],
+    "plums": [
+        "Peaches, nectarines, plums, pears, sapote"
+    ],
+    "polenta": [
+        "Polenta (shelf-stable)",
+        "Polenta (frozen)"
+    ],
+    "pollock": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "pomegranate": [
+        "Pomegranate"
+    ],
+    "pop": [
+        "Ice pops"
+    ],
+    "popcorn": [
+        "Popcorn (dry kernels in jar)",
+        "Popcorn (commercially popped in bags)",
+        "Popcorn (microwave packets)"
+    ],
+    "popped in bags": [
+        "Popcorn (commercially popped in bags)"
+    ],
+    "pops": [
+        "Ice pops"
+    ],
+    "pork": [
+        "Pork (loin roast, bone-in)",
+        "Pork (loin roast, boneless)",
+        "Pork (loin chops, bone-in)",
+        "Pork (loin chops, boneless)",
+        "Pork (crown roast - small)",
+        "Pork (crown roast - large)",
+        "Pork (tenderloin)",
+        "Pork (tenderloin medallions or loin cubes)",
+        "Pork (ribs)",
+        "Pork (ground)",
+        "Pork (shoulder)",
+        "Pork (loin, cubes)",
+        "Stuffed, raw pork chops",
+        "Pork roll",
+        "Pork rinds"
+    ],
+    "pork rinds": [
+        "Pork rinds"
+    ],
+    "pork roll": [
+        "Pork roll"
+    ],
+    "potato": [
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Potatoes",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Potato chips",
+        "Potatoes (instant)",
+        "Potato salad",
+        "Yams/sweet potatoes"
+    ],
+    "potato chips": [
+        "Potato chips"
+    ],
+    "potato products": [
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "potato salad": [
+        "Potato salad"
+    ],
+    "potatoes": [
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Potatoes",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Potato chips",
+        "Potatoes (instant)",
+        "Yams/sweet potatoes"
+    ],
+    "pouch": [
+        "Corned beef (in pouch with pickling juices)",
+        "Retort pouches or boxes",
+        "Retort pouches or boxes",
+        "Jars or pouches"
+    ],
+    "pouches": [
+        "Jars or pouches"
+    ],
+    "poultry": [
+        "Cooked poultry dishes",
+        "Poultry pieces (covered with gravy or broth)",
+        "Leftovers (with meat, fish, poultry, or egg)",
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Luncheon meat or poultry (store-sliced)",
+        "Luncheon meat or poultry (pre-packaged)",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Pate (poultry)"
+    ],
+    "poultry dishes": [
+        "Cooked poultry dishes"
+    ],
+    "poultry pieces": [
+        "Poultry pieces (covered with gravy or broth)"
+    ],
+    "powder": [
+        "Baking powder",
+        "Chili powder",
+        "Coffee creamer (powdered)",
+        "Powdered milk",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Salad dressing (dry,packaged)"
+    ],
+    "powder mixes": [
+        "Diet powder mixes and drink mixes"
+    ],
+    "powdered": [
+        "Coffee creamer (powdered)",
+        "Powdered milk",
+        "Salad dressing (dry,packaged)"
+    ],
+    "powdered milk": [
+        "Powdered milk"
+    ],
+    "pre": [
+        "Salami (pre-packaged, luncheon/deli meat)"
+    ],
+    "pre packaged": [
+        "Luncheon meat or poultry (pre-packaged)"
+    ],
+    "pre sliced": [
+        "Whole wheat bread (commercially baked & pre-sliced)"
+    ],
+    "pre-packaged": [
+        "Turkey (pre-packaged, luncheon/deli meat)",
+        "Ham (pre-packaged, luncheon/deli meat)",
+        "Salami (pre-packaged, luncheon/deli meat)",
+        "Chicken (pre-packaged, luncheon/deli meat)"
+    ],
+    "precooked": [
+        "Sausages (precooked)"
+    ],
+    "prepare": [
+        "Formula (prepared)"
+    ],
+    "prepared": [
+        "Formula (prepared)",
+        "Coleslaw (homemade, prepared)"
+    ],
+    "prepared coleslaw": [
+        "Coleslaw (homemade, prepared)"
+    ],
+    "preservative": [
+        "Hummus (commercial (pasteurized, with preservatives))",
+        "Hummus (traditional (no preservatives, not pasteurized))"
+    ],
+    "preservatives": [
+        "Hummus (commercial (pasteurized, with preservatives))",
+        "Hummus (traditional (no preservatives, not pasteurized))"
+    ],
+    "preserve": [
+        "Jams, jellies, and preserves"
+    ],
+    "preserves": [
+        "Jams, jellies, and preserves"
+    ],
+    "pretzel": [
+        "Frozen pretzels",
+        "Pretzels"
+    ],
+    "pretzels": [
+        "Frozen pretzels",
+        "Pretzels"
+    ],
+    "prickly pear": [
+        "Prickly pear"
+    ],
+    "processed": [
+        "Chorizo (smoked and processed, uncooked)",
+        "Chorizo (smoked and processed, cooked)",
+        "Bratwurst (smoked and processed)"
+    ],
+    "processed brautwurst": [
+        "Bratwurst (smoked and processed)"
+    ],
+    "processed chorizo": [
+        "Chorizo (smoked and processed, uncooked)",
+        "Chorizo (smoked and processed, cooked)"
+    ],
+    "processed slices": [
+        "Cheese (processed slices)"
+    ],
+    "product": [
+        "Meat products (canned)",
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)",
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "products": [
+        "Meat products (canned)",
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)",
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "prosciutto": [
+        "Prosciutto"
+    ],
+    "protein": [
+        "Textured soy protein ((TSP))",
+        "Re-hydrated textured soy protein ((TSP))"
+    ],
+    "pudding": [
+        "Pudding",
+        "Pudding mixes"
+    ],
+    "pudding mixes": [
+        "Pudding mixes"
+    ],
+    "puff": [
+        "Puff pastry"
+    ],
+    "puff pastry": [
+        "Puff pastry"
+    ],
+    "pumpkin": [
+        "Pies (pumpkin)",
+        "Pumpkins",
+        "Pumpkin seeds (raw, no shell)",
+        "Pumpkin seeds (raw, in-shell)",
+        "Pumpkin seeds (roasted, no-shell)",
+        "Pumpkin seeds (roasted, in-shell)"
+    ],
+    "pumpkin seed": [
+        "Pumpkin seeds (raw, no shell)",
+        "Pumpkin seeds (raw, in-shell)",
+        "Pumpkin seeds (roasted, no-shell)",
+        "Pumpkin seeds (roasted, in-shell)"
+    ],
+    "pumpkin seeds": [
+        "Pumpkin seeds (raw, no shell)",
+        "Pumpkin seeds (raw, in-shell)",
+        "Pumpkin seeds (roasted, no-shell)",
+        "Pumpkin seeds (roasted, in-shell)"
+    ],
+    "pumpkins": [
+        "Pumpkins"
+    ],
+    "punch": [
+        "Fruit Juice in cartons, fruit drinks, punch"
+    ],
+    "purchase": [
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "purchased": [
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "purchased in bulk": [
+        "Black pepper (ground, dried, commercially bottled or purchased in bulk)",
+        "Black pepper (cracked, dried, commercially bottled or purchased in bulk)",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)",
+        "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "Garlic powder (dried, commercially bottled or purchased in bulk)",
+        "Onion powder (dried, commercially bottled or purchased in bulk)",
+        "Nutmeg (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "quail": [
+        "Quail (whole)"
+    ],
+    "quark": [
+        "Quark (fresh cheese)"
+    ],
+    "quiche": [
+        "Quiche"
+    ],
+    "quinoa": [
+        "Quinoa (uncooked)",
+        "Quinoa (cooked)"
+    ],
+    "raab": [
+        "Broccoli and broccoli raab (rapini)"
+    ],
+    "rabbit": [
+        "Rabbit (whole, fresh)"
+    ],
+    "radicchio": [
+        "Radicchio"
+    ],
+    "radish": [
+        "Radishes"
+    ],
+    "radishes": [
+        "Radishes"
+    ],
+    "raisin": [
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)"
+    ],
+    "raisins": [
+        "Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)"
+    ],
+    "rapini": [
+        "Broccoli and broccoli raab (rapini)"
+    ],
+    "raspberries": [
+        "Raspberries"
+    ],
+    "raspberry": [
+        "Raspberries"
+    ],
+    "raw": [
+        "Sausage (raw bulk type or patties)",
+        "Fish (raw but headed and gutted)"
+    ],
+    "raw bulk type": [
+        "Sausage (raw bulk type or patties)"
+    ],
+    "raw chicken breasts": [
+        "Stuffed, raw chicken breasts"
+    ],
+    "raw kabobs": [
+        "Raw kabobs with vegetables",
+        "Raw kabobs with vegetables"
+    ],
+    "raw pork": [
+        "Stuffed, raw pork chops"
+    ],
+    "raw pork chops": [
+        "Stuffed, raw pork chops"
+    ],
+    "raw whites": [
+        "Eggs (raw whites, yolks)"
+    ],
+    "re hydrated": [
+        "Re-hydrated textured soy protein ((TSP))"
+    ],
+    "re hydrated textured soy protein": [
+        "Re-hydrated textured soy protein ((TSP))"
+    ],
+    "re-used oil": [
+        "Frying oil (re-used)"
+    ],
+    "ready": [
+        "Ready-to-bake pie crust",
+        "Cereal (ready-to-eat)"
+    ],
+    "ready to bake pie crust": [
+        "Ready-to-bake pie crust"
+    ],
+    "ready to feed": [
+        "Liquid concentrate or ready-to-feed formula"
+    ],
+    "ready to feed formula": [
+        "Liquid concentrate or ready-to-feed formula"
+    ],
+    "red": [
+        "Onions (yellow, white, red, etc.)",
+        "Roasted red peppers (jar)",
+        "Red wine"
+    ],
+    "red curry paste": [
+        "Thai red curry paste"
+    ],
+    "red peppers": [
+        "Roasted red peppers (jar)"
+    ],
+    "red wine": [
+        "Red wine"
+    ],
+    "refried bean": [
+        "Refried beans"
+    ],
+    "refried beans": [
+        "Refried beans"
+    ],
+    "refrigerated": [
+        "Ham (canned (“keep refrigerated” label))",
+        "Ham (fully cooked, canned, boneless (refrigerated))",
+        "Main dishes or meals (hot or refrigerated)",
+        "Biscuits (refrigerated)",
+        "Pie crust (refrigerated)",
+        "Vegetable juice (commercial, sold refrigerated)"
+    ],
+    "regular": [
+        "Cornmeal (regular, degerminated)"
+    ],
+    "relish": [
+        "Relish"
+    ],
+    "retort": [
+        "Retort pouches or boxes",
+        "Retort pouches or boxes",
+        "Tuna (packet)"
+    ],
+    "retort packaging": [
+        "Tuna (packet)"
+    ],
+    "retort pouches": [
+        "Retort pouches or boxes",
+        "Retort pouches or boxes"
+    ],
+    "rhubarb": [
+        "Rhubarb"
+    ],
+    "rib": [
+        "Beef (rib roast, bone-in)",
+        "Beef (rib roast; boneless, rolled)",
+        "Beef (short ribs)",
+        "Lamb (chops, ribs, or loin)",
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Pork (ribs)",
+        "Venison (round, rump, loin, or rib roast)"
+    ],
+    "rib roast": [
+        "Beef (rib roast, bone-in)",
+        "Beef (rib roast; boneless, rolled)",
+        "Venison (round, rump, loin, or rib roast)"
+    ],
+    "riblets": [
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))"
+    ],
+    "ribs": [
+        "Beef (short ribs)",
+        "Lamb (chops, ribs, or loin)",
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Pork (ribs)"
+    ],
+    "rice": [
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Cooked rice",
+        "Rice (white or wild)",
+        "Rice (brown)",
+        "Soy or rice beverage",
+        "Rice milk"
+    ],
+    "rice beverage": [
+        "Soy or rice beverage"
+    ],
+    "rice milk": [
+        "Rice milk"
+    ],
+    "ricotta": [
+        "Ricotta"
+    ],
+    "rinds": [
+        "Pork rinds"
+    ],
+    "roast": [
+        "Beef (rib roast, bone-in)",
+        "Beef (rib roast; boneless, rolled)",
+        "Beef (round or rump roast)",
+        "Beef (chuck roast, brisket)",
+        "Lamb (crown roast)",
+        "Lamb (shoulder roast or shank leg half)",
+        "Veal (shoulder roast, boneless)",
+        "Veal (leg rump or round roast, boneless)",
+        "Veal (loin roast, bone-in)",
+        "Pork (loin roast, bone-in)",
+        "Pork (loin roast, boneless)",
+        "Pork (crown roast - small)",
+        "Pork (crown roast - large)",
+        "Venison (round, rump, loin, or rib roast)"
+    ],
+    "roasted": [
+        "Roasted red peppers (jar)",
+        "Roasted nuts (peanuts, cashews, almonds)",
+        "Edamame (salted, dry roasted, out of pod)"
+    ],
+    "roasted almonds": [
+        "Roasted nuts (peanuts, cashews, almonds)"
+    ],
+    "roasted cashews": [
+        "Roasted nuts (peanuts, cashews, almonds)"
+    ],
+    "roasted nuts": [
+        "Roasted nuts (peanuts, cashews, almonds)"
+    ],
+    "roasted peanuts": [
+        "Roasted nuts (peanuts, cashews, almonds)"
+    ],
+    "roasted red": [
+        "Roasted red peppers (jar)"
+    ],
+    "roasted red peppers": [
+        "Roasted red peppers (jar)"
+    ],
+    "rock": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "rockfish": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "roll": [
+        "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)",
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)",
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)",
+        "Pork roll",
+        "Cinnamon rolls (unbaked, tube)",
+        "Cinnamon rolls (baked)"
+    ],
+    "rolled": [
+        "Beef (rib roast; boneless, rolled)",
+        "Lamb (leg; boneless, rolled)",
+        "Lamb (breast, rolled)"
+    ],
+    "rolls": [
+        "Commercial bread products (including pan breads, flat breads, rolls, and buns)",
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)",
+        "Cinnamon rolls (unbaked, tube)",
+        "Cinnamon rolls (baked)"
+    ],
+    "romaine": [
+        "Lettuce (iceberg, romaine)"
+    ],
+    "root": [
+        "Ginger root"
+    ],
+    "rosemary": [
+        "Rosemary"
+    ],
+    "rotisserie": [
+        "Rotisserie chicken"
+    ],
+    "rotisserie chicken": [
+        "Rotisserie chicken"
+    ],
+    "round": [
+        "Beef (round or rump roast)",
+        "Veal (leg rump or round roast, boneless)",
+        "Venison (round, rump, loin, or rib roast)"
+    ],
+    "round roast": [
+        "Veal (leg rump or round roast, boneless)"
+    ],
+    "rump": [
+        "Veal (leg rump or round roast, boneless)",
+        "Venison (round, rump, loin, or rib roast)"
+    ],
+    "rump roast": [
+        "Beef (round or rump roast)"
+    ],
+    "rutabagas": [
+        "Rutabagas"
+    ],
+    "rye": [
+        "Rye (whole grain)",
+        "Rye (flour, meal)"
+    ],
+    "salad": [
+        "Salad dressings (commercial, bottled)",
+        "Egg salad",
+        "Potato salad",
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))",
+        "Chicken salad",
+        "Ham salad",
+        "Pasta salad",
+        "Salad dressing (creamy)",
+        "Salad dressing (vinaigrette,homemade)",
+        "Salad dressing (vinaigrette)",
+        "Salad dressing (dry,packaged)",
+        "Salad dressing (homemade)",
+        "Arugula"
+    ],
+    "salad dressing": [
+        "Salad dressing (creamy)",
+        "Salad dressing (vinaigrette,homemade)",
+        "Salad dressing (vinaigrette)",
+        "Salad dressing (dry,packaged)",
+        "Salad dressing (homemade)"
+    ],
+    "salad dressings": [
+        "Salad dressings (commercial, bottled)"
+    ],
+    "salad greens": [
+        "Arugula"
+    ],
+    "salads": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "salami": [
+        "Salami (pre-packaged, luncheon/deli meat)"
+    ],
+    "salmon": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)",
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "salmon salad": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "salsa": [
+        "Salsa (picante and taco sauces)",
+        "Salsa (fresh)",
+        "Salsa (homemade, fresh)",
+        "Salsa (homemade, canned)"
+    ],
+    "salt": [
+        "Salt (table, plain, or iodized)"
+    ],
+    "salted": [
+        "Edamame (salted, dry roasted, out of pod)"
+    ],
+    "sapote": [
+        "Peaches, nectarines, plums, pears, sapote"
+    ],
+    "sauce": [
+        "Herring (glass packed, in wine sauce)",
+        "Barbecue sauce (bottled)",
+        "Cream sauces, milk solids",
+        "Ketchup, cocktail, or chili sauce",
+        "Salsa (picante and taco sauces)",
+        "Sauce mixes (nondairy (spaghetti, taco, etc.))",
+        "Spaghetti sauce (in jars)",
+        "Soy sauce or teriyaki sauce",
+        "Worcestershire sauce",
+        "Applesauce (commercial)",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Black bean sauce",
+        "Oyster sauce",
+        "Hoisin sauce",
+        "Hot sauce",
+        "Cranberry sauce (canned)",
+        "Cranberry sauce (homemade)",
+        "Tomato sauce (spaghetti, pizza)"
+    ],
+    "sauce mixes": [
+        "Sauce mixes (nondairy (spaghetti, taco, etc.))"
+    ],
+    "sauces": [
+        "Cream sauces, milk solids",
+        "Salsa (picante and taco sauces)"
+    ],
+    "sauerkraut": [
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "sausage": [
+        "Sausage (raw bulk type or patties)",
+        "Sausage (fully cooked smoked links, kielbasa)",
+        "Sausage (hard, dry (pepperoni), sliced)",
+        "Sausages (uncooked)",
+        "Sausages (precooked)"
+    ],
+    "sausages": [
+        "Sausages (uncooked)",
+        "Sausages (precooked)"
+    ],
+    "scallop": [
+        "Scallops"
+    ],
+    "scallops": [
+        "Scallops"
+    ],
+    "sea": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)",
+        "Surimi seafood"
+    ],
+    "sea trout": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "seafood": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))",
+        "Seafood (canned)"
+    ],
+    "seafood salad": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "seafood salads": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "seal": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "seasoning": [
+        "Seasoning blends",
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "seasoning blend": [
+        "Cajun seasoning blend (ground, dried, commercially bottled or purchased in bulk)"
+    ],
+    "seasoning blends": [
+        "Seasoning blends"
+    ],
+    "seed": [
+        "Flaxseed (whole seed)",
+        "Chia seeds",
+        "Pumpkin seeds (raw, no shell)",
+        "Pumpkin seeds (raw, in-shell)",
+        "Pumpkin seeds (roasted, no-shell)",
+        "Pumpkin seeds (roasted, in-shell)",
+        "Sunflower seeds (raw, unsalted, no shell)",
+        "Sunflower seeds (roasted, no shell)",
+        "Sunflower seeds (roasted, salted, in shell)",
+        "Sesame seeds"
+    ],
+    "seed bar": [
+        "Cereal or granola bars"
+    ],
+    "seed bars": [
+        "Cereal or granola bars"
+    ],
+    "seeds": [
+        "Chia seeds",
+        "Pumpkin seeds (raw, no shell)",
+        "Pumpkin seeds (raw, in-shell)",
+        "Pumpkin seeds (roasted, no-shell)",
+        "Pumpkin seeds (roasted, in-shell)",
+        "Sunflower seeds (raw, unsalted, no shell)",
+        "Sunflower seeds (roasted, no shell)",
+        "Sunflower seeds (roasted, salted, in shell)",
+        "Sesame seeds"
+    ],
+    "semi sweet": [
+        "Chocolate (unsweetened and semi-sweet, solid)"
+    ],
+    "sesame": [
+        "Sesame oil",
+        "Sesame seeds"
+    ],
+    "sesame oil": [
+        "Sesame oil"
+    ],
+    "sesame seeds": [
+        "Sesame seeds"
+    ],
+    "shank": [
+        "Lamb (shoulder roast or shank leg half)",
+        "Lamb (shanks)",
+        "Ham (fresh, cook-before-eating, shank or butt portion, bone-in)"
+    ],
+    "shank leg": [
+        "Lamb (shoulder roast or shank leg half)"
+    ],
+    "shank leg half": [
+        "Lamb (shoulder roast or shank leg half)"
+    ],
+    "shanks": [
+        "Lamb (shanks)",
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))"
+    ],
+    "shelf": [
+        "Ham (shelf-stable cans)",
+        "Vegetable juice (shelf-stable)",
+        "Milk (shelf-stable)"
+    ],
+    "shelf stable": [
+        "Ham (shelf-stable cans)",
+        "Polenta (shelf-stable)"
+    ],
+    "shelf stable cans": [
+        "Ham (shelf-stable cans)"
+    ],
+    "shelf stable milk": [
+        "Milk (shelf-stable)"
+    ],
+    "shelf stable polenta": [
+        "Polenta (shelf-stable)"
+    ],
+    "shelf-stable": [
+        "Vegetable juice (shelf-stable)"
+    ],
+    "shell": [
+        "Eggs (in shell)",
+        "Almonds (shell)",
+        "Almonds (no shell)",
+        "Cashews (no shell)",
+        "Macadamias (no shell)",
+        "Peanuts (shell)",
+        "Peanuts (no shell)",
+        "Pecans (shell)",
+        "Pecans (no shell)",
+        "Pistachios (shell or no shell)",
+        "Walnuts (shell or no shell)",
+        "Sunflower seeds (roasted, no shell)"
+    ],
+    "shelled": [
+        "Peanuts (boiled, shelled)"
+    ],
+    "shellfish": [
+        "Cooked shellfish (all)",
+        "Shrimp, shellfish"
+    ],
+    "sherbet": [
+        "Sherbet, sorbet"
+    ],
+    "shoot": [
+        "Bamboo shoots"
+    ],
+    "shoots": [
+        "Bamboo shoots"
+    ],
+    "short ribs": [
+        "Beef (short ribs)"
+    ],
+    "shortening": [
+        "Shortening (solid)"
+    ],
+    "shoulder": [
+        "Lamb (shoulder roast or shank leg half)",
+        "Veal (shoulder roast, boneless)",
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Pork (shoulder)",
+        "Ham (fully cooked, arm picnic shoulder, boneless)",
+        "Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)"
+    ],
+    "shoulder roast": [
+        "Lamb (shoulder roast or shank leg half)",
+        "Veal (shoulder roast, boneless)"
+    ],
+    "shoulder roll": [
+        "Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)"
+    ],
+    "shredded": [
+        "Cheese (parmesan; shredded or grated)",
+        "Cheese (shredded; cheddar, mozzarella, etc.)",
+        "Coconut (shredded)"
+    ],
+    "shrimp": [
+        "Shrimp, crayfish",
+        "Shrimp, shellfish",
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "shrimp salad": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "shucked clams": [
+        "Shucked clams, mussels, and oysters"
+    ],
+    "slice": [
+        "Cheese (processed slices)",
+        "Ham (fully cooked, slices, half, or spiral cut)",
+        "Sausage (hard, dry (pepperoni), sliced)",
+        "Whole wheat bread (commercially baked & pre-sliced)"
+    ],
+    "sliced": [
+        "Sausage (hard, dry (pepperoni), sliced)",
+        "Luncheon meat or poultry (store-sliced)",
+        "Whole wheat bread (commercially baked & pre-sliced)",
+        "Canadian bacon (sliced)"
+    ],
+    "slices": [
+        "Cheese (processed slices)",
+        "Ham (fully cooked, slices, half, or spiral cut)"
+    ],
+    "small": [
+        "Pork (crown roast - small)"
+    ],
+    "smoked": [
+        "Fish (hot smoked, air pack)",
+        "Fish (hot smoked, vacuum pack)",
+        "Fish (cold smoked, air pack)",
+        "Fish (cold smoked, vacuum pack)",
+        "Chorizo (smoked and processed, uncooked)",
+        "Chorizo (smoked and processed, cooked)",
+        "Bratwurst (smoked and processed)"
+    ],
+    "smoked brautwurst": [
+        "Bratwurst (smoked and processed)"
+    ],
+    "smoked chorizo": [
+        "Chorizo (smoked and processed, uncooked)",
+        "Chorizo (smoked and processed, cooked)"
+    ],
+    "smoked links": [
+        "Sausage (fully cooked smoked links, kielbasa)"
+    ],
+    "snack": [
+        "Gummy (fruit) snacks"
+    ],
+    "snack bars": [
+        "Cereal or granola bars"
+    ],
+    "snack barsnack": [
+        "Cereal or granola bars"
+    ],
+    "snacks": [
+        "Gummy (fruit) snacks"
+    ],
+    "snow": [
+        "Crab legs (king, dungeness, snow)",
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)"
+    ],
+    "soda": [
+        "Baking soda",
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "sodas": [
+        "Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)"
+    ],
+    "soft": [
+        "Cookies (soft)"
+    ],
+    "sole": [
+        "Lean fish (cod, flounder, haddock, halibut, sole, etc.)"
+    ],
+    "solid": [
+        "Chocolate (unsweetened and semi-sweet, solid)",
+        "Shortening (solid)",
+        "Cream sauces, milk solids"
+    ],
+    "solids": [
+        "Cream sauces, milk solids"
+    ],
+    "sorbet": [
+        "Sherbet, sorbet"
+    ],
+    "sorghum": [
+        "Sorghum (whole grain)",
+        "Sorghum (flour, meal)"
+    ],
+    "soup": [
+        "Soup, stews",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Soup mixes (dry bouillon)",
+        "Vegetable soup (homemade)"
+    ],
+    "soup mixes": [
+        "Soup mixes (dry bouillon)"
+    ],
+    "soups": [
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "sour": [
+        "Dips (sour cream based)",
+        "Sour cream"
+    ],
+    "sour cream": [
+        "Sour cream"
+    ],
+    "sour cream based": [
+        "Dips (sour cream based)"
+    ],
+    "soy": [
+        "Soy flour (full-fat)",
+        "Textured soy protein ((TSP))",
+        "Re-hydrated textured soy protein ((TSP))",
+        "Soy crumbles and hot dogs",
+        "Soy meat substitutes",
+        "Soy sauce or teriyaki sauce",
+        "Soy or rice beverage",
+        "Soy milk"
+    ],
+    "soy crumble": [
+        "Soy crumbles and hot dogs"
+    ],
+    "soy crumbles": [
+        "Soy crumbles and hot dogs"
+    ],
+    "soy flour": [
+        "Soy flour (full-fat)"
+    ],
+    "soy meat": [
+        "Soy meat substitutes"
+    ],
+    "soy meat substitutes": [
+        "Soy meat substitutes"
+    ],
+    "soy milk": [
+        "Soy milk"
+    ],
+    "soy protein": [
+        "Textured soy protein ((TSP))",
+        "Re-hydrated textured soy protein ((TSP))"
+    ],
+    "soy sauce": [
+        "Soy sauce or teriyaki sauce"
+    ],
+    "soya": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)"
+    ],
+    "soybean": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",
+        "Edamame (fresh)",
+        "Edamame (frozen)",
+        "Edamame (salted, dry roasted, out of pod)"
+    ],
+    "soybeans": [
+        "Edamame (fresh)",
+        "Edamame (frozen)",
+        "Edamame (salted, dry roasted, out of pod)"
+    ],
+    "spaghetti": [
+        "Sauce mixes (nondairy (spaghetti, taco, etc.))",
+        "Spaghetti sauce (in jars)",
+        "Tomato sauce (spaghetti, pizza)"
+    ],
+    "spaghetti sauce": [
+        "Spaghetti sauce (in jars)",
+        "Tomato Sauce (homemade, canned)"
+    ],
+    "spaghetti squash": [
+        "Spaghetti squash (whole)",
+        "Spaghetti squash (cut)"
+    ],
+    "spelt": [
+        "Spelt (whole grain)",
+        "Spelt (flour, meal)"
+    ],
+    "spice": [
+        "Spice/spices (whole)",
+        "Spice/spices (ground)"
+    ],
+    "spices": [
+        "Spice/spices (whole)",
+        "Spice/spices (ground)"
+    ],
+    "spinach": [
+        "Lettuce (leaf, spinach)",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",
+        "Bagged greens (leaf, spinach, lettuce, etc.)"
+    ],
+    "spiral cut": [
+        "Ham (fully cooked, slices, half, or spiral cut)"
+    ],
+    "split": [
+        "Peas (dried split)"
+    ],
+    "sprays": [
+        "Vegetable oil sprays"
+    ],
+    "spread": [
+        "Chocolate hazlenut spread"
+    ],
+    "spring": [
+        "Onions (spring or green)"
+    ],
+    "sprout": [
+        "Brussels sprouts",
+        "Mung bean (sprouts)"
+    ],
+    "sprouted mung bean": [
+        "Mung bean (sprouts)"
+    ],
+    "sprouted mung beans": [
+        "Mung bean (sprouts)"
+    ],
+    "sprouts": [
+        "Brussels sprouts",
+        "Bean sprouts",
+        "Mung bean (sprouts)"
+    ],
+    "sqeeze": [
+        "Orange juice (freshly squeezed)"
+    ],
+    "squash": [
+        "Squash (summer and zucchini)",
+        "Squash (winter)",
+        "Spaghetti squash (whole)",
+        "Spaghetti squash (cut)"
+    ],
+    "squeezed": [
+        "Orange juice (freshly squeezed)",
+        "Lemon juice (fresh squeezed)",
+        "Apple juice (fresh squeezed)",
+        "Carrot juice (fresh squeezed)"
+    ],
+    "squid": [
+        "Squid"
+    ],
+    "stabilizer": [
+        "Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)"
+    ],
+    "stabilizers": [
+        "Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)"
+    ],
+    "stable": [
+        "Ham (shelf-stable cans)",
+        "Vegetable juice (shelf-stable)",
+        "Milk (shelf-stable)"
+    ],
+    "star fruit": [
+        "Star fruit"
+    ],
+    "starch": [
+        "Cornstarch"
+    ],
+    "steak": [
+        "Beef (steaks)",
+        "Lamb (leg steaks)"
+    ],
+    "steaks": [
+        "Beef (steaks)",
+        "Lamb (leg steaks)"
+    ],
+    "stew": [
+        "Beef (stew, cubes)",
+        "Lamb (stew meat, pieces)",
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))",
+        "Soup, stews",
+        "Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))"
+    ],
+    "stew meat": [
+        "Lamb (stew meat, pieces)",
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))"
+    ],
+    "stews": [
+        "Soup, stews"
+    ],
+    "stone": [
+        "Cornmeal (stone ground or blue)"
+    ],
+    "stone ground": [
+        "Cornmeal (stone ground or blue)"
+    ],
+    "store": [
+        "Luncheon meat or poultry (store-sliced)",
+        "Nacho cheese (store bought)"
+    ],
+    "store bought": [
+        "Nacho cheese (store bought)"
+    ],
+    "store sliced": [
+        "Luncheon meat or poultry (store-sliced)"
+    ],
+    "strawberries": [
+        "Strawberries"
+    ],
+    "strawberry": [
+        "Strawberries"
+    ],
+    "string cheese": [
+        "String Cheese"
+    ],
+    "stuffed": [
+        "Stuffed, raw pork chops",
+        "Stuffed, raw chicken breasts"
+    ],
+    "stuffing": [
+        "Dry stuffing mix (commercially packaged)"
+    ],
+    "stuffing mix": [
+        "Dry stuffing mix (commercially packaged)"
+    ],
+    "substitute": [
+        "Egg substitutes (liquid)",
+        "Sugar substitutes",
+        "Egg substitutes",
+        "Soy meat substitutes"
+    ],
+    "substitutes": [
+        "Egg substitutes (liquid)",
+        "Sugar substitutes",
+        "Soy meat substitutes"
+    ],
+    "sugar": [
+        "Sugar (brown)",
+        "Sugar (granulated)",
+        "Sugar (confectioners)",
+        "Sugar substitutes",
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)"
+    ],
+    "sugar snap": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)"
+    ],
+    "sugar substitutes": [
+        "Sugar substitutes"
+    ],
+    "summer": [
+        "Squash (summer and zucchini)"
+    ],
+    "sun": [
+        "Sun dried tomatoes (jar)"
+    ],
+    "sun dried": [
+        "Sun dried tomatoes (jar)"
+    ],
+    "sun dried tomatoes": [
+        "Sun dried tomatoes (jar)"
+    ],
+    "sunflower": [
+        "Sunflower oil",
+        "Sunflower seeds (raw, unsalted, no shell)",
+        "Sunflower seeds (roasted, no shell)",
+        "Sunflower seeds (roasted, salted, in shell)"
+    ],
+    "sunflower oil": [
+        "Sunflower oil"
+    ],
+    "sunflower seed": [
+        "Sunflower seeds (raw, unsalted, no shell)",
+        "Sunflower seeds (roasted, no shell)",
+        "Sunflower seeds (roasted, salted, in shell)"
+    ],
+    "sunflower seeds": [
+        "Sunflower seeds (raw, unsalted, no shell)",
+        "Sunflower seeds (roasted, no shell)",
+        "Sunflower seeds (roasted, salted, in shell)"
+    ],
+    "supplement": [
+        "Nutrition supplement drinks (canned)",
+        "Nutrition supplement drinks (bottled)"
+    ],
+    "surimi": [
+        "Surimi seafood"
+    ],
+    "surimi seafood": [
+        "Surimi seafood"
+    ],
+    "sweet": [
+        "Chocolate (unsweetened and semi-sweet, solid)"
+    ],
+    "sweet potatoes": [
+        "Yams/sweet potatoes"
+    ],
+    "sweetened": [
+        "Cream (whipped, sweetened)"
+    ],
+    "swiss": [
+        "Cheese (hard such as cheddar, swiss, block parmesan)"
+    ],
+    "swiss chard": [
+        "Swiss chard"
+    ],
+    "syrup": [
+        "Chocolate syrup",
+        "Syrup",
+        "\"Genuine\" Maple syrup (unopened, glass)",
+        "\"Genuine\" Maple syrup (unopened, plastic)",
+        "Corn syrup"
+    ],
+    "table": [
+        "Salt (table, plain, or iodized)"
+    ],
+    "taco": [
+        "Salsa (picante and taco sauces)",
+        "Sauce mixes (nondairy (spaghetti, taco, etc.))"
+    ],
+    "taco sauces": [
+        "Salsa (picante and taco sauces)"
+    ],
+    "tahini": [
+        "Tahini"
+    ],
+    "tail": [
+        "Fresh lobster tails (cooked)",
+        "Lobster tails"
+    ],
+    "tails": [
+        "Fresh lobster tails (cooked)"
+    ],
+    "tamarind": [
+        "Tamarind paste",
+        "Tamarind"
+    ],
+    "tamarind paste": [
+        "Tamarind paste"
+    ],
+    "tangerine": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)"
+    ],
+    "tangerines": [
+        "Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)"
+    ],
+    "tapenade": [
+        "Tapenade"
+    ],
+    "tapioca": [
+        "Tapiocas"
+    ],
+    "tapiocas": [
+        "Tapiocas"
+    ],
+    "taro": [
+        "Taro"
+    ],
+    "tater tot": [
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "tater tots": [
+        "Frozen potato products (fries, hashbrowns, tater tots)"
+    ],
+    "tea": [
+        "Tea (bags)",
+        "Tea (instant)",
+        "Tea (loose)"
+    ],
+    "teff": [
+        "Teff (whole grain)",
+        "Teff (flour, meal)"
+    ],
+    "tempeh": [
+        "Tempeh"
+    ],
+    "tender": [
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))"
+    ],
+    "tender whole cuts": [
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))"
+    ],
+    "tenderloin": [
+        "Beef (tenderloin, whole)",
+        "Beef (tenderloin, half)",
+        "Pork (tenderloin)",
+        "Pork (tenderloin medallions or loin cubes)"
+    ],
+    "tenderloin medallions": [
+        "Pork (tenderloin medallions or loin cubes)"
+    ],
+    "teriyaki": [
+        "Soy sauce or teriyaki sauce"
+    ],
+    "teriyaki sauce": [
+        "Soy sauce or teriyaki sauce"
+    ],
+    "textured soy protein": [
+        "Textured soy protein ((TSP))",
+        "Re-hydrated textured soy protein ((TSP))"
+    ],
+    "thai red curry paste": [
+        "Thai red curry paste"
+    ],
+    "thigh": [
+        "Chicken parts (legs or thighs)",
+        "Turkey parts (legs or thighs)"
+    ],
+    "thighs": [
+        "Chicken parts (legs or thighs)",
+        "Turkey parts (legs or thighs)"
+    ],
+    "thyme": [
+        "Thyme"
+    ],
+    "toaster": [
+        "Toaster pastries"
+    ],
+    "toaster pastries": [
+        "Toaster pastries"
+    ],
+    "tofu": [
+        "Tofu"
+    ],
+    "tomato": [
+        "Tomatoes",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Sun dried tomatoes (jar)",
+        "Cherry tomatoes"
+    ],
+    "tomato paste": [
+        "Tomato paste"
+    ],
+    "tomato sauce": [
+        "Tomato sauce (spaghetti, pizza)",
+        "Tomato Sauce (homemade, canned)"
+    ],
+    "tomato soup": [
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "tomatoes": [
+        "Tomatoes",
+        "Sun dried tomatoes (jar)",
+        "Cherry tomatoes"
+    ],
+    "tongue": [
+        "Variety meats (liver, tongue, chitterlings, etc.)"
+    ],
+    "topping": [
+        "Whipped topping (aerosol can)",
+        "Whipped topping (tub)"
+    ],
+    "tortilla": [
+        "Tortillas (flour)"
+    ],
+    "tortillas": [
+        "Tortillas (flour)",
+        "Tortillas (corn)"
+    ],
+    "traditional": [
+        "Hummus (traditional (no preservatives, not pasteurized))"
+    ],
+    "trout": [
+        "Lean fish (pollock, ocean perch, rockfish, sea trout.)"
+    ],
+    "tsp": [
+        "Textured soy protein ((TSP))",
+        "Re-hydrated textured soy protein ((TSP))"
+    ],
+    "tub": [
+        "Whipped topping (tub)"
+    ],
+    "tube": [
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)"
+    ],
+    "tube can": [
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)"
+    ],
+    "tube cans": [
+        "Tube cans (of biscuits, rolls, pizza dough, etc.)"
+    ],
+    "tuna": [
+        "Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)",
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))",
+        "Tuna (packet)",
+        "Tuna (canned)"
+    ],
+    "tuna packet": [
+        "Tuna (packet)"
+    ],
+    "tuna salad": [
+        "Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))"
+    ],
+    "turducken": [
+        "Turducken"
+    ],
+    "turkey": [
+        "Turkey (whole)",
+        "Ground turkey or chicken",
+        "Turkey parts (breast halves, bone-in)",
+        "Turkey parts (breast halves, boneless)",
+        "Turkey parts (legs or thighs)",
+        "Turkey bacon",
+        "Turkey (pre-packaged, luncheon/deli meat)"
+    ],
+    "turkey bacon": [
+        "Turkey bacon"
+    ],
+    "turkey parts": [
+        "Turkey parts (breast halves, bone-in)",
+        "Turkey parts (breast halves, boneless)",
+        "Turkey parts (legs or thighs)"
+    ],
+    "turnip": [
+        "Turnips"
+    ],
+    "turnips": [
+        "Turnips"
+    ],
+    "tv": [
+        "Frozen entrees (prepared meals)"
+    ],
+    "tv dinners": [
+        "Frozen entrees (prepared meals)"
+    ],
+    "uht": [
+        "Milk (shelf-stable)"
+    ],
+    "ultra": [
+        "Milk (ultra-pasteurized)"
+    ],
+    "ultra pasteurized milk": [
+        "Milk (ultra-pasteurized)"
+    ],
+    "ultrapasteurized": [
+        "Cream (whipping, ultrapasteurized)",
+        "Milk (shelf-stable)"
+    ],
+    "uncooked": [
+        "Ham (fresh, uncooked, whole leg, bone-in)",
+        "Ham (fresh, uncooked, whole leg, boneless)",
+        "Ham (fresh, uncooked, half leg, bone-in)",
+        "Sausages (uncooked)",
+        "Quinoa (uncooked)",
+        "Chorizo (smoked and processed, uncooked)",
+        "Ham (uncured, fresh, uncooked)"
+    ],
+    "uncooked processed chorizo": [
+        "Chorizo (smoked and processed, uncooked)"
+    ],
+    "uncooked smoked chorizo": [
+        "Chorizo (smoked and processed, uncooked)"
+    ],
+    "uncured": [
+        "Ham (uncured, fresh, cooked)",
+        "Ham (uncured, fresh, uncooked)",
+        "Bacon (uncured)"
+    ],
+    "uncured bacon": [
+        "Bacon (uncured)"
+    ],
+    "uncured ham": [
+        "Ham (uncured, fresh, cooked)",
+        "Ham (uncured, fresh, uncooked)"
+    ],
+    "uncured ham uncooked": [
+        "Ham (uncured, fresh, uncooked)"
+    ],
+    "unflavor": [
+        "Gelatin (unflavored)"
+    ],
+    "unflavored": [
+        "Gelatin (unflavored)"
+    ],
+    "unopen": [
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)"
+    ],
+    "unopened": [
+        "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+        "\"Genuine\" Maple syrup (unopened, glass)",
+        "\"Genuine\" Maple syrup (unopened, plastic)",
+        "Cream liquors (unopened)"
+    ],
+    "unsweetened": [
+        "Chocolate (unsweetened and semi-sweet, solid)"
+    ],
+    "usda": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "usda seal": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "vacuum": [
+        "Fish (hot smoked, vacuum pack)",
+        "Fish (cold smoked, vacuum pack)",
+        "Coffee (home ground, non-vacuum)"
+    ],
+    "vacuum pack": [
+        "Fish (hot smoked, vacuum pack)",
+        "Fish (cold smoked, vacuum pack)"
+    ],
+    "vacuum packed": [
+        "Ham (fully cooked, vacuum packed, boneless)",
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "vacuum packed dinner": [
+        "Commercial brand vacuum-packed dinners (with USDA seal)"
+    ],
+    "vacuum sealed": [
+        "Mung bean (dry, vacuum-sealed)"
+    ],
+    "vacuum sealed mung beans": [
+        "Mung bean (dry, vacuum-sealed)"
+    ],
+    "vanila extract": [
+        "Pure vanilla extract"
+    ],
+    "vanilla": [
+        "Pure vanilla extract"
+    ],
+    "variety meats": [
+        "Variety meats (liver, tongue, chitterlings, etc.)"
+    ],
+    "veal": [
+        "Veal (shoulder roast, boneless)",
+        "Veal (leg rump or round roast, boneless)",
+        "Veal (loin roast, bone-in)",
+        "Veal (ground)"
+    ],
+    "vegan cheddar cheese": [
+        "Vegan Cheddar Cheese"
+    ],
+    "vegetable": [
+        "Raw kabobs with vegetables",
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Oils (olive or vegetable)",
+        "Vegetable oil sprays",
+        "Vegetables",
+        "Vegetables",
+        "Vegetable stock/broth (commercially produced)",
+        "Vegetable juice (commercial, sold refrigerated)",
+        "Vegetable juice (homemade)",
+        "Marinated vegetables (in oil)",
+        "Vegetable soup (homemade)",
+        "Base (beef, vegetable)"
+    ],
+    "vegetable base": [
+        "Base (beef, vegetable)"
+    ],
+    "vegetable broth": [
+        "Vegetable stock/broth (commercially produced)"
+    ],
+    "vegetable juice": [
+        "Vegetable juice (shelf-stable)",
+        "Vegetable juice (commercial, sold refrigerated)",
+        "Vegetable juice (homemade)"
+    ],
+    "vegetable oil": [
+        "Vegetable oil sprays"
+    ],
+    "vegetable oil sprays": [
+        "Vegetable oil sprays"
+    ],
+    "vegetable soup": [
+        "Vegetable soup (homemade)"
+    ],
+    "vegetable stock": [
+        "Vegetable stock/broth (commercially produced)"
+    ],
+    "vegetables": [
+        "Raw kabobs with vegetables",
+        "Raw kabobs with vegetables",
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",
+        "Vegetables",
+        "Vegetables",
+        "Marinated vegetables (in oil)"
+    ],
+    "venison": [
+        "Venison (round, rump, loin, or rib roast)"
+    ],
+    "vinaigrette": [
+        "Salad dressing (vinaigrette,homemade)",
+        "Salad dressing (vinaigrette)"
+    ],
+    "vinegar": [
+        "Vinegar",
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",
+        "Apple cider vinegar",
+        "Balsamic vinegar"
+    ],
+    "vinegar based": [
+        "Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))"
+    ],
+    "waffles": [
+        "Pancakes, waffles"
+    ],
+    "walnut": [
+        "Walnuts (shell or no shell)"
+    ],
+    "walnuts": [
+        "Walnuts (shell or no shell)"
+    ],
+    "water": [
+        "Water (commercially bottled)",
+        "Coconut water"
+    ],
+    "watermelon": [
+        "Watermelon"
+    ],
+    "wax": [
+        "Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)"
+    ],
+    "wheat": [
+        "Flour (whole wheat)",
+        "Whole wheat flour",
+        "Whole wheat bread (homemade)",
+        "Whole wheat bread (commercially baked & pre-sliced)"
+    ],
+    "wheat bread": [
+        "Whole wheat bread (homemade)"
+    ],
+    "wheat flour": [
+        "Whole wheat flour",
+        "Whole wheat bread (commercially baked & pre-sliced)"
+    ],
+    "whipped": [
+        "Cream (whipped, sweetened)",
+        "Whipped topping (aerosol can)",
+        "Whipped topping (tub)"
+    ],
+    "whipped cream": [
+        "Whipped cream (aerosol can)"
+    ],
+    "whipped topping": [
+        "Whipped topping (aerosol can)",
+        "Whipped topping (tub)"
+    ],
+    "whipping": [
+        "Cream (whipping, ultrapasteurized)"
+    ],
+    "white": [
+        "Flour (white)",
+        "Onions (yellow, white, red, etc.)",
+        "Rice (white or wild)",
+        "White wine"
+    ],
+    "white wine": [
+        "White wine"
+    ],
+    "whites": [
+        "Eggs (raw whites, yolks)"
+    ],
+    "whole": [
+        "Beef (tenderloin, whole)",
+        "Ham (fully cooked, bone-in, whole)",
+        "Ham (fresh, cook-before-eating, bone-in, whole)",
+        "Ham (country ham (whole or half))",
+        "Chicken (whole)",
+        "Turkey (whole)",
+        "Duckling (domestic or wild, whole)",
+        "Goose (domestic or wild, whole)",
+        "Pheasant (young, whole)",
+        "Quail (whole)",
+        "Capon (whole)",
+        "Cornish Hens (whole)",
+        "Spice/spices (whole)",
+        "Artichokes, whole",
+        "Coffee (whole beans)",
+        "Whole wheat flour",
+        "Whole wheat bread (homemade)",
+        "Whole wheat bread (commercially baked & pre-sliced)",
+        "Canadian bacon (whole)",
+        "Zucchini (fresh, whole)",
+        "Rabbit (whole, fresh)",
+        "Spaghetti squash (whole)",
+        "Bison (whole)"
+    ],
+    "whole beans": [
+        "Coffee (whole beans)"
+    ],
+    "whole cuts": [
+        "Goat (tender whole cuts (legs, ribs, shoulder, loin))",
+        "Goat (less tender whole cuts (stew meat, riblets, shanks))"
+    ],
+    "whole grain": [
+        "Amaranth (whole grain)",
+        "Barley (whole grain)",
+        "Buckwheat (whole grain)",
+        "Farro (whole grain)",
+        "Millet (whole grain)",
+        "Oats (whole grain)",
+        "Rye (whole grain)",
+        "Sorghum (whole grain)",
+        "Spelt (whole grain)",
+        "Teff (whole grain)"
+    ],
+    "whole leg": [
+        "Ham (fresh, uncooked, whole leg, bone-in)",
+        "Ham (fresh, uncooked, whole leg, boneless)"
+    ],
+    "whole lobster": [
+        "Fresh whole lobster (live)",
+        "Fresh whole lobster (frozen)"
+    ],
+    "whole seed": [
+        "Flaxseed (whole seed)"
+    ],
+    "whole wheat": [
+        "Flour (whole wheat)",
+        "Whole wheat flour",
+        "Whole wheat bread (homemade)",
+        "Whole wheat bread (commercially baked & pre-sliced)"
+    ],
+    "whole wheat bread": [
+        "Whole wheat bread (homemade)"
+    ],
+    "whole wheat flour": [
+        "Whole wheat flour",
+        "Whole wheat bread (commercially baked & pre-sliced)"
+    ],
+    "wild": [
+        "Duckling (domestic or wild, whole)",
+        "Goose (domestic or wild, whole)",
+        "Rice (white or wild)"
+    ],
+    "wine": [
+        "Herring (glass packed, in wine sauce)",
+        "Red wine",
+        "White wine",
+        "Cooking wine"
+    ],
+    "wine sauce": [
+        "Herring (glass packed, in wine sauce)"
+    ],
+    "winter": [
+        "Squash (winter)"
+    ],
+    "without egg": [
+        "Pasta (dry, without eggs)"
+    ],
+    "without eggs": [
+        "Pasta (dry, without eggs)"
+    ],
+    "without meat": [
+        "Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))"
+    ],
+    "worcestershire": [
+        "Worcestershire sauce"
+    ],
+    "worcestershire sauce": [
+        "Worcestershire sauce"
+    ],
+    "yam": [
+        "Yams/sweet potatoes"
+    ],
+    "yams": [
+        "Yams/sweet potatoes"
+    ],
+    "yeast": [
+        "Yeast (packaged)"
+    ],
+    "yellow": [
+        "Onions (yellow, white, red, etc.)"
+    ],
+    "yogurt": [
+        "Yogurt"
+    ],
+    "yolks": [
+        "Eggs (raw whites, yolks)"
+    ],
+    "young": [
+        "Pheasant (young, whole)"
+    ],
+    "yuca": [
+        "Yuca/cassava"
+    ],
+    "yuzu": [
+        "Yuzu juice",
+        "Yuzu (fruit, fresh)"
+    ],
+    "yuzu fruit": [
+        "Yuzu (fruit, fresh)"
+    ],
+    "yuzu juice": [
+        "Yuzu juice"
+    ],
+    "zucchini": [
+        "Squash (summer and zucchini)",
+        "Zucchini (fresh, whole)"
+    ],
+    "éclair": [
+        "Dairy filled eclairs"
+    ]
+}
