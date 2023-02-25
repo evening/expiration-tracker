@@ -3,6 +3,7 @@ import { FoodLocations } from '../enums/FoodLocations'
 import { type Entries } from '../types/Entry'
 import DatePicker from 'react-date-picker'
 import dayjs from 'dayjs'
+import { v4 as uuidv4 } from 'uuid'
 
 interface AddFoodProps {
   entries: Entries
@@ -18,7 +19,7 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
   const [newLocation, setNewLocation] = React.useState<string>('Fridge')
 
   const addEntry = (foodName: string, location: string, expiration: Date): void => {
-    setEntries([...entries, { foodName, location, expiration }])
+    setEntries([...entries, { foodName, location, expiration, id: uuidv4() }])
     setNewExpiration(defaultDate)
   }
   const handleSubmit = (e: any): void => {
