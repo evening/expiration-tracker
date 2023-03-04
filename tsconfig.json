@@ -22,8 +22,5 @@
   },
   "include": [
     "src"
-  ],
-  "types": [
-    "react-beautiful-dnd"
-]
+  ]
 }

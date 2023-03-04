@@ -11,21 +11,7 @@ interface FoodListProps {
   searchTerm: string
 };
 
-const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
-  const [colOrder, setColOrder] = useState<FoodLocations[]>(Object.values(FoodLocations))
-
-  const onDragEnd = (result: any) => {
-    if (result.destination === null) return
-    const sourceIndex = result.source.index
-    const destinationIndex = result.destination.index
-    setColOrder((locations) => {
-      const newOrder = Array.from(locations)
-      newOrder.splice(sourceIndex, 1)
-      newOrder.splice(destinationIndex, 0, locations[sourceIndex])
-      return newOrder
-    })
-  }
-
+const FoodList = ({ location, entries, searchTerm, setEntries }: FoodListProps) => {
   return (
       <div className='border-2 border-gray-100 bg-white'>
         <h3 className="underline decoration-gray-400 inline font-bold">

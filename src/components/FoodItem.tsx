@@ -12,11 +12,12 @@ dayjs.extend(relativeTime)
 
 interface FoodItemProps {
   food: Entry
+  index: number
   entries: Entry[]
   setEntries: (entries: any) => void
 }
 
-const FoodItem = ({ food, entries, setEntries }: FoodItemProps) => {
+const FoodItem = ({ food, index, entries, setEntries }: FoodItemProps) => {
   const [status, setStatus] = React.useState<string>(FoodStatus.good)
   const [warning, setWarning] = React.useState<string>('')
 
@@ -53,6 +54,7 @@ const FoodItem = ({ food, entries, setEntries }: FoodItemProps) => {
       <span className={warningStyle}> {warning} </span>
       <EditFoodButton
         food={food}
+        index={index}
         entries={entries}
         setEntries={setEntries}
         />
