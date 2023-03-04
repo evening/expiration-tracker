@@ -1,6 +1,6 @@
 import React from 'react'
 
-import type { Entries, Entry } from '../types/Entry'
+import type { Entries, Entry } from '../types/types'
 
 interface DeleteFoodButtonProps {
   food: Entry

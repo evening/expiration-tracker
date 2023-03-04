@@ -1,5 +1,5 @@
 import React from 'react'
-import type { Entries, EntryFromStorage } from './../types/Entry'
+import type { Entries, EntryFromStorage } from './../types/types'
 
 function useStickyState (key: string) {
   const [entries, setEntries] = React.useState<Entries>(() => {

@@ -1,5 +1,5 @@
 import React, { Fragment, type ReactElement, type SyntheticEvent } from 'react'
-import { type Entries, type Entry } from '../types/Entry'
+import { type Entries, type Entry } from '../types/types'
 import { FoodLocations } from '../enums/FoodLocations'
 import DatePicker from 'react-date-picker'
 
@@ -14,7 +14,7 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
   const [showModal, setShowModal] = React.useState<boolean>(false)
   const [editedFood, setEditedFood] = React.useState<string>(food.foodName)
   const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(food.expiration)
-  const [editedLocation, setEditedLocation] = React.useState<string>(food.location)
+  const [editedLocation, setEditedLocation] = React.useState<string>(food.location.name)
 
   const handleEdit = (e: SyntheticEvent): void => {
     e.preventDefault()
@@ -29,7 +29,7 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
   }
   const handleClose = (): void => {
     setEditedFood(food.foodName)
-    setEditedLocation(food.location)
+    setEditedLocation(food.location.name)
     setEditedExpiration(food.expiration)
     setShowModal(false)
   }

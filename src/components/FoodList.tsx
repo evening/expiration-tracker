@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import { type Entries } from '../types/Entry'
+import { type Entries } from '../types/types'
 
 import FoodItem from './FoodItem'
 

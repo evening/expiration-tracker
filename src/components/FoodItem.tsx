@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { type Entry } from '../types/Entry'
+import { type Entry } from '../types/types'
 import { FoodStatus } from '../enums/FoodStatuses'
 import EditFoodButton from './EditFoodButton'
 import DeleteFoodButton from './DeleteFoodButton'

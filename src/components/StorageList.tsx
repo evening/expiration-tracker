@@ -5,7 +5,7 @@ import { Draggable, DragDropContext } from 'react-beautiful-dnd'
 import StrictModeDroppable from './StrictModeDroppable'
 
 import { FoodLocations } from '../enums/FoodLocations'
-import { type Entries } from '../types/Entry'
+import { type Entries } from '../types/types'
 
 interface StorageListProps {
   entries: Entries

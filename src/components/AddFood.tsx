@@ -1,6 +1,6 @@
 import React from 'react'
 import { FoodLocations } from '../enums/FoodLocations'
-import { type Entries } from '../types/Entry'
+import { type Entries } from '../types/types'
 import DatePicker from 'react-date-picker'
 import dayjs from 'dayjs'
 
