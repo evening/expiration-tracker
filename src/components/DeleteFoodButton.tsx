@@ -15,7 +15,7 @@ const DeleteFoodButton = ({ food, entries, setEntries }: DeleteFoodButtonProps) 
 
   return (
       <small
-        className="bg-red-600 text-white active:bg-red-700 font-bold text-sm px-1 py-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 cursor-pointer"
+        className="bg-red-600 text-white active:bg-red-700 font-bold text-sm px-1 py-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 cursor-pointer my-auto"
         onClick={() => { removeEntry(food) }}
       >
         [delete]
