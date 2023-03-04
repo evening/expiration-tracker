@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react'
 import { Droppable, type DroppableProps } from 'react-beautiful-dnd'
 
-export const StrictModeDroppable = ({ children, ...props }: DroppableProps) => {
+const StrictModeDroppable = ({ children, ...props }: DroppableProps) => {
   const [enabled, setEnabled] = useState(false)
 
   useEffect(() => {
@@ -22,3 +22,5 @@ export const StrictModeDroppable = ({ children, ...props }: DroppableProps) => {
   {children}
    </Droppable>
 }
+
+export default StrictModeDroppable
