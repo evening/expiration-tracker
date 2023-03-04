@@ -27,6 +27,7 @@ const FoodSublist = ({ location, entries, searchTerm, setEntries }: FoodSublistP
               <Fragment key={index}>
                 <FoodItem
                 food={food}
+                index = {index}
                 entries={entries}
                 setEntries={setEntries}
                 />
