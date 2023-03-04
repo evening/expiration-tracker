@@ -1,65 +1,40 @@
-import React, { useState } from 'react'
-
-import FoodSublist from './FoodSublist'
-import { Draggable, DragDropContext } from 'react-beautiful-dnd'
-import { StrictModeDroppable } from './StrictModeDroppable'
-
-import { FoodLocations } from '../enums/FoodLocations'
+import React, { Fragment } from 'react'
 import { type Entries } from '../types/Entry'
 
+import FoodItem from './FoodItem'
+
 interface FoodListProps {
+  location: string
   entries: Entries
+  index: number
   setEntries: (entries: any) => void
   searchTerm: string
-  setSearchTerm: (entries: any) => void
 };
 
-const FoodList = ({ entries, setEntries, searchTerm }: FoodListProps) => {
-  const [colOrder, setColOrder] = useState<FoodLocations[]>(Object.values(FoodLocations))
-
-  const onDragEnd = (result: any) => {
-    if (result.destination === null) return
-    const sourceIndex = result.source.index
-    const destinationIndex = result.destination.index
-    setColOrder((locations) => {
-      const newOrder = Array.from(locations)
-      newOrder.splice(sourceIndex, 1)
-      newOrder.splice(destinationIndex, 0, locations[sourceIndex])
-      return newOrder
-    })
-  }
-
+const FoodList = ({ location, entries, searchTerm, setEntries }: FoodListProps) => {
   return (
-    <DragDropContext onDragEnd={onDragEnd}>
-      <StrictModeDroppable droppableId="all-columns" direction="horizontal" type="location">
-        {(provided) => (
-          <div {...provided.droppableProps} ref={provided.innerRef} className="grid grid-rows-3 lg:grid-cols-3 gap-4 pt-2">
-            {colOrder.map((location, index) => (
-              <Draggable
-              draggableId={location}
-              index={index}
-              key={location}
-              >
-                {(provided) => (
-                  <div ref={provided.innerRef} {...provided.draggableProps} {...provided.dragHandleProps} >
-                    <FoodSublist
-                      key={location}
-                      index={index}
-                      location={location}
-                      entries={entries}
-                      searchTerm={searchTerm}
-                      setEntries={setEntries}
-                    />
-                  </div>
-                )}
-              </Draggable>
-            ))}
-            {provided.placeholder}
-          </div>
-        )}
-      </StrictModeDroppable>
-    </DragDropContext>
+      <div className='border-2 border-gray-100 bg-white'>
+        <h3 className="underline decoration-gray-400 inline font-bold">
+          {location}
+        </h3>
+        <div className="grid grid-cols-5">
+          <div className='col-span-1 font-semibold mx-auto'> Item </div>
+          <div className='col-span-1 font-semibold mx-auto'> Expiration </div>
+          <div className='col-span-1 font-semibold mx-auto'> Status </div>
+          <div className='col-span-2 font-semibold mx-auto'> Action </div>
+          {entries.filter(entry => entry.location === location && entry.foodName.includes(searchTerm))
+            .map((food, index) =>
+              <Fragment key={index}>
+                <FoodItem
+                food={food}
+                index = {index}
+                entries={entries}
+                setEntries={setEntries}
+                />
+              </Fragment>
+            )}
+        </div>
+    </div>
   )
 }
-
 export default FoodList

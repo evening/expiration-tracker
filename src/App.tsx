@@ -6,7 +6,7 @@ import useStickyState from './utils/useStickyState'
 // Components
 import AddFood from './components/AddFood'
 import SearchBar from './components/SearchBar'
-import FoodList from './components/FoodList'
+import FoodList from './components/StorageList'
 
 function App () {
   const [searchTerm, setSearchTerm] = React.useState<string>('')
