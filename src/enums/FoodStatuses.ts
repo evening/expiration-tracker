@@ -1,5 +1,5 @@
 export enum FoodStatus {
   expired = 'Expired',
-  nearExpiration = 'NearExpiration',
+  nearExpiration = 'Near Expiration',
   good = 'Good'
 }
