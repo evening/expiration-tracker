@@ -52,6 +52,16 @@ const FoodItem = ({ entry, entries, isDragging, provided, setEntries, index }: F
     true && 'col-span-1 my-auto'
   )
 
+  const containerStyle = clsx(
+    true && 'focus:outline-none focus:border-blue-600 focus:box-shadow-none  hover: text-amber-900 rounded-md border-2 border-transparent flex',
+    (isDragging === true) ? 'border-lime-600 shadow-md shadow-emerald-500' : 'border-transparent shadow-none'
+  )
+
+  const contentStyle = clsx(
+    true && 'flex grow-0 flex-col basis-11/12',
+    (isDragging === true) ? 'bg-lime-100' : 'bg-white'
+  )
+
   return (
     <>
       <span className='col-span-1 my-auto'> {food.foodName} </span>
