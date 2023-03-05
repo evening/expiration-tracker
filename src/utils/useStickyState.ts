@@ -11,7 +11,10 @@ function useStickyState (key: string) {
       return {
         foodName: entry.foodName,
         expiration: (entry?.expiration != null) ? new Date(entry.expiration) : null,
-        location: entry.location
+        location: {
+          id: entry.location.id,
+          name: entry.location.name
+        }
       }
     })
   })

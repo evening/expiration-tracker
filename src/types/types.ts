@@ -14,7 +14,7 @@ export interface EntryFromStorage {
   id: Id
   foodName: string
   expiration: string | null
-  location: string
+  location: Location
 }
 
 export type Entries = Entry[]
@@ -23,6 +23,8 @@ export interface Location {
   id: Id
   name: string
 }
+
+export type Locations = Location[]
 
 export interface LocationColors {
   soft: string
