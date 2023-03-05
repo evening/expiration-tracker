@@ -6,7 +6,7 @@ import useStickyState from './utils/useStickyState'
 // Components
 import AddFood from './components/AddFood'
 import SearchBar from './components/SearchBar'
-import FoodList from './components/StorageList'
+import Board from './components/Board'
 
 function App () {
   const [searchTerm, setSearchTerm] = React.useState<string>('')
@@ -28,11 +28,10 @@ function App () {
         setSearchTerm={setSearchTerm}
       />
       <hr />
-      <FoodList
+      <Board
         entries={entries}
         setEntries={setEntries}
         searchTerm={searchTerm}
-        setSearchTerm={setSearchTerm}
       />
     </div>
   )
