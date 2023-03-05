@@ -4,17 +4,17 @@ import { FoodLocations } from '../enums/FoodLocations'
 import DatePicker from 'react-date-picker'
 
 interface EditFoodButtonProps {
-  food: Entry
+  entry: Entry
   index: number
   entries: Entries
   setEntries: (entries: any) => void
 };
 
-function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): ReactElement {
+function EditFoodButton ({ entry, entries, index, setEntries }: EditFoodButtonProps): ReactElement {
   const [showModal, setShowModal] = React.useState<boolean>(false)
-  const [editedFood, setEditedFood] = React.useState<string>(food.foodName)
-  const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(food.expiration)
-  const [editedLocation, setEditedLocation] = React.useState<string>(food.location.name)
+  const [editedFood, setEditedFood] = React.useState<string>(entry.foodName)
+  const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(entry.expiration)
+  const [editedLocation, setEditedLocation] = React.useState<string>(entry.location.name)
 
   const handleEdit = (e: SyntheticEvent): void => {
     e.preventDefault()
@@ -22,15 +22,15 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
       // TODO: replace obnoxious alert with something more elegant
       alert('Do not leave food name or expiration date blank')
     } else {
-      const newEntries = entries.map((entry) => entry === food ? { foodName: editedFood, location: editedLocation, expiration: editedExpiration } : entry)
+      const newEntries = entries.map((currentEntry, currentIndex) => currentIndex === index ? { foodName: editedFood, location: editedLocation, expiration: editedExpiration } : entry)
       setEntries(newEntries)
       setShowModal(false)
     }
   }
   const handleClose = (): void => {
-    setEditedFood(food.foodName)
-    setEditedLocation(food.location.name)
-    setEditedExpiration(food.expiration)
+    setEditedFood(entry.foodName)
+    setEditedLocation(entry.location.name)
+    setEditedExpiration(entry.expiration)
     setShowModal(false)
   }
 
@@ -65,11 +65,11 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
                   </div>
                   <div>
                     <input
-                      name="food-name"
+                      name="entry-name"
                       type="text"
-                      id="foodName"
+                      id="entryName"
                       className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-                      placeholder={food.foodName}
+                      placeholder={entry.foodName}
                       value={editedFood}
                       onChange={e => { setEditedFood(e.target.value) }}
                       required />

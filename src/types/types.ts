@@ -26,7 +26,8 @@ export interface Location {
 
 export interface LocationColors {
   soft: string
-  hard: Id
+  hard: string
+  default: string
 }
 
 export interface Dragging {
