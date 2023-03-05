@@ -63,23 +63,31 @@ const FoodItem = ({ entry, entries, isDragging, provided, setEntries, index }: F
   )
 
   return (
-    <>
-      <span className='col-span-1 my-auto'> {food.foodName} </span>
-      <span className='col-span-1 my-auto'> {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''} </span>
-      <span className={warningStyle}> {warning} </span>
-      <EditFoodButton
-        food={food}
-        index={index}
-        entries={entries}
-        setEntries={setEntries}
-        />
-        <DeleteFoodButton
-        food={food}
-        entries={entries}
-        setEntries={setEntries}
-        />
-    </>
+    <div className={containerStyle}
+    ref={provided?.innerRef} {...provided?.draggableProps} {...provided?.dragHandleProps}
+    data-is-dragging={isDragging}
+    data-testid={entry.id}
+    data-index={index}
+    aria-label={entry.foodName}
+    >
+      <div className={contentStyle}>
+        <span className='col-span-1 my-auto'> {entry.foodName} </span>
+        <span className='col-span-1 my-auto'> {(entry.expiration != null) ? new Date(entry?.expiration).toLocaleDateString() : ''} </span>
+        <span className={warningStyle}> {warning} </span>
+        <EditFoodButton
+          entry={entry}
+          index={index}
+          entries={entries}
+          setEntries={setEntries}
+          />
+          <DeleteFoodButton
+          entry={entry}
+          entries={entries}
+          setEntries={setEntries}
+          />
+        </div>
+    </div>
   )
 }
 
-export default FoodItem
+export default React.memo<FoodItemProps>(FoodItem)
