@@ -1,6 +1,9 @@
 import React, { useEffect } from 'react'
-import { type Entry } from '../types/types'
+import type { Entry, Entries } from '../types/types'
+import { type DraggableProvided } from 'react-beautiful-dnd'
+
 import { FoodStatus } from '../enums/FoodStatuses'
+
 import EditFoodButton from './EditFoodButton'
 import DeleteFoodButton from './DeleteFoodButton'
 
@@ -11,13 +14,15 @@ import { clsx } from 'clsx'
 dayjs.extend(relativeTime)
 
 interface FoodItemProps {
-  food: Entry
-  index: number
-  entries: Entry[]
+  entry: Entry
+  entries: Entries
+  isDragging?: boolean
+  provided?: DraggableProvided
   setEntries: (entries: any) => void
+  index: number
 }
 
-const FoodItem = ({ food, index, entries, setEntries }: FoodItemProps) => {
+const FoodItem = ({ entry, entries, isDragging, provided, setEntries, index }: FoodItemProps) => {
   const [status, setStatus] = React.useState<string>(FoodStatus.good)
   const [warning, setWarning] = React.useState<string>('')
 
@@ -25,20 +30,20 @@ const FoodItem = ({ food, index, entries, setEntries }: FoodItemProps) => {
   const DaysToWarning = 3
 
   useEffect(() => {
-    if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration), 'days')) {
+    if (entry.expiration !== null && dayjs(today).isAfter(dayjs(entry.expiration), 'days')) {
       setStatus(FoodStatus.expired)
       setWarning('Expired')
-    } else if (food.expiration !== null && dayjs(today).isSame(dayjs(food.expiration), 'days')) {
+    } else if (entry.expiration !== null && dayjs(today).isSame(dayjs(entry.expiration), 'days')) {
       setStatus(FoodStatus.expired)
       setWarning('Expires today!')
-    } else if (food.expiration !== null && dayjs(today).isAfter(dayjs(food.expiration).subtract(DaysToWarning, 'days'), 'days')) {
+    } else if (entry.expiration !== null && dayjs(today).isAfter(dayjs(entry.expiration).subtract(DaysToWarning, 'days'), 'days')) {
       setStatus(FoodStatus.nearExpiration)
-      setWarning(`Expires ${dayjs(food.expiration).from(today)}`)
+      setWarning(`Expires ${dayjs(entry.expiration).from(today)}`)
     } else {
       setStatus(FoodStatus.good)
       setWarning('Good')
     }
-  }, [food.expiration])
+  }, [entry.expiration])
 
   const warningStyle = clsx(
     (status === FoodStatus.expired) && 'text-red-500 font-semibold',
