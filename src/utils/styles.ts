@@ -10,3 +10,12 @@ export const getDraggingBackgroundColor = (
   }
   return 'bg-white'
 }
+
+export const getLocationDraggingBackgroundColor = (
+  isDragging: boolean
+): string => {
+  if (isDragging) {
+    return 'bg-red-100'
+  }
+  return 'bg-white'
+}
