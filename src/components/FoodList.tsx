@@ -107,7 +107,7 @@ function InnerList (props: InnerListProps) {
 
 interface Props {
   locationId: string
-  locationType?: string
+  listType?: string
   location: Location
   entries: Entries
   setEntries: (entries: any) => void
@@ -121,11 +121,11 @@ interface Props {
 
 const FoodList = (props: Props) => {
   // destructure props
-  const { locationId = 'LOCATION', locationType, location, entries, setEntries, searchTerm, internalScroll, isDropDisabled, ignoreContainerClipping, useClone } = props
+  const { locationId = 'LOCATION', listType, location, entries, setEntries, searchTerm, internalScroll, isDropDisabled, ignoreContainerClipping, useClone } = props
   return (
     <StrictModeDroppable
       droppableId={locationId}
-      type={locationType}
+      type={listType}
       ignoreContainerClipping={ignoreContainerClipping}
       isDropDisabled={isDropDisabled}
       renderClone={
