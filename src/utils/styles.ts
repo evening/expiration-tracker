@@ -1,4 +1,4 @@
-export const getBackgroundColor = (
+export const getDraggingBackgroundColor = (
   isDraggingOver: boolean,
   isDraggingFrom: boolean
 ): string => {
