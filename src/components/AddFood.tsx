@@ -1,5 +1,5 @@
 import React from 'react'
-import { FoodLocations } from '../enums/FoodLocations'
+
 import { type Entries } from '../types/types'
 import DatePicker from 'react-date-picker'
 import dayjs from 'dayjs'
@@ -56,9 +56,9 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
         id="location"
         onChange={(e) => { setNewLocation(e.target.value) }}
         >
-          <option value={FoodLocations.fridge}> Fridge </option>
-          <option value={FoodLocations.freezer}> Freezer </option>
-          <option value={FoodLocations.pantry}> Pantry </option>
+          <option value={'fridge'}> Fridge </option>
+          <option value={'freezer'}> Freezer </option>
+          <option value={'pantry'}> Pantry </option>
         </select>
       </div>
       <div className='row-span-1 lg:col-span-1 my-auto'>

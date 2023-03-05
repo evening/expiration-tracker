@@ -1,6 +1,5 @@
 import React, { Fragment, type ReactElement, type SyntheticEvent } from 'react'
 import { type Entries, type Entry } from '../types/types'
-import { FoodLocations } from '../enums/FoodLocations'
 import DatePicker from 'react-date-picker'
 
 interface EditFoodButtonProps {
@@ -80,9 +79,9 @@ function EditFoodButton ({ entry, entries, index, setEntries }: EditFoodButtonPr
                       value={editedLocation}
                       onChange={(e) => { setEditedLocation(e.target.value) }}
                     >
-                      <option value={FoodLocations.fridge}> Fridge </option>
-                      <option value={FoodLocations.freezer}> Freezer </option>
-                      <option value={FoodLocations.pantry}> Pantry </option>
+                      <option value={'fridge'}> Fridge </option>
+                      <option value={'freezer'}> Freezer </option>
+                      <option value={'pantry'}> Pantry </option>
                     </select>
                     <DatePicker
                       name="editedExpiration"
