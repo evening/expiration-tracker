@@ -40,6 +40,7 @@ export interface EntryMap {
   [key: string]: Entry[]
 }
 
+// https://github.com/atlassian/react-beautiful-dnd/blob/master/stories/src/types.js
 // @flow
 // import type { DraggableId, DraggableLocation } from '../../src/types';
 
