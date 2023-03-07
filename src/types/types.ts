@@ -37,10 +37,11 @@ export interface Dragging {
   location: DraggableLocation
 }
 
-// eslint-disable-next-line @typescript-eslint/consistent-indexed-object-style
-export interface EntryMap {
-  [key: string]: Entry[]
-}
+export type EntryMap = Record<string, Entry[]>
+// equivalent to:
+// export interface EntryMap {
+//   [key: string]: Entry[]
+// }
 
 // https://github.com/atlassian/react-beautiful-dnd/blob/master/stories/src/types.js
 // @flow
