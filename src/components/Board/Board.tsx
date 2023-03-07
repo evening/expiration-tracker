@@ -72,7 +72,7 @@ const Board = (props: BoardProps) => {
       <DragDropContext onDragEnd={onDragEnd}>
         <StrictModeDroppable droppableId='board' type='COLUMN' direction='horizontal'>
           {(provided: DroppableProvided) => (
-            <div className='grid grid-flow-col' ref={provided.innerRef} {...provided.droppableProps}>
+            <div className='grid grid-flow-row lg:grid-flow-col' ref={provided.innerRef} {...provided.droppableProps}>
               {locations.map((location: Location, index: number) => (
                 <Fragment key={location.id}>
                 <Column
