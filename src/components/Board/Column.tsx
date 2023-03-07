@@ -6,19 +6,6 @@ import FoodList from '../FoodList'
 import type { Entries, Location } from '../../types/types'
 import { getLocationDraggingBackgroundColor } from '../../utils/styles'
 
-interface HeaderProps {
-  isDragging: boolean
-  children: any
-}
-
-const Header = ({ isDragging, children }: HeaderProps) => {
-  return (
-      <div className={`border-4 border-gray-100 bg-white ${getLocationDraggingBackgroundColor(isDragging)} transition ease-linear hover:bg-blue-600 mx-auto col-span-5`}>
-        {children}
-      </div>
-  )
-}
-
 interface ColumnProps {
   entries: Entries
   setEntries: (entries: any) => void
@@ -35,10 +22,10 @@ const Column = (props: ColumnProps) => {
   return (
       <Draggable draggableId={location.name} index={index}>
       {(provided: DraggableProvided, snapshot: DraggableStateSnapshot) => (
-        <div id='container' className='grid grid-cols-5' ref={provided.innerRef} {...provided.draggableProps} {...provided.dragHandleProps}>
-          <Header isDragging={snapshot.isDragging}>
+        <div id='container' className={`grid grid-cols-5 border-4 border-gray-200 ${getLocationDraggingBackgroundColor(snapshot.isDragging)} `} ref={provided.innerRef} {...provided.draggableProps} {...provided.dragHandleProps}>
+          <span className={`border-4 border-gray-100 ${getLocationDraggingBackgroundColor(snapshot.isDragging)} transition ease-linear hover:bg-blue-600 mx-auto col-span-5 font-semibold underline`}>
             {location.name}
-          </Header>
+          </span>
           <FoodList
             locationId={location.id}
             location={location}
@@ -48,6 +35,7 @@ const Column = (props: ColumnProps) => {
             useClone={Boolean(useClone)}
             setEntries={setEntries}
             searchTerm={searchTerm}
+            isDragging={snapshot.isDragging}
           />
         </div>
       )}
