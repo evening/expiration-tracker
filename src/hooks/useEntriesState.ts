@@ -1,7 +1,7 @@
 import React from 'react'
-import type { Entries, EntryFromStorage } from './../types/types'
+import type { Entries, EntryFromStorage } from '../types/types'
 
-function useStickyState (key: string) {
+function useEntriesState (key: string) {
   const [entries, setEntries] = React.useState<Entries>(() => {
     const stickyValue = window.localStorage.getItem(key)
     if (stickyValue === null) {
@@ -23,4 +23,4 @@ function useStickyState (key: string) {
   }, [key, entries])
   return { entries, setEntries }
 }
-export default useStickyState
+export default useEntriesState
