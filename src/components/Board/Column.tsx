@@ -3,12 +3,10 @@ import React from 'react'
 import { Draggable } from 'react-beautiful-dnd'
 import type { DraggableProvided, DraggableStateSnapshot } from 'react-beautiful-dnd'
 import FoodList from '../FoodList'
-import type { Entries, Location } from '../../types/types'
+
 import { getLocationDraggingBackgroundColor } from '../../utils/styles'
 
 interface ColumnProps {
-  entries: Entries
-  setEntries: (entries: any) => void
   searchTerm: string
   location: Location
   index: number
@@ -18,7 +16,7 @@ interface ColumnProps {
 }
 
 const Column = (props: ColumnProps) => {
-  const { entries, setEntries, location, isScrollable, useClone, searchTerm, index } = props
+  const { location, isScrollable, useClone, searchTerm, index } = props
   return (
       <Draggable draggableId={location.name} index={index}>
       {(provided: DraggableProvided, snapshot: DraggableStateSnapshot) => (
@@ -30,10 +28,8 @@ const Column = (props: ColumnProps) => {
             locationId={location.id}
             location={location}
             listType='ENTRY'
-            entries={entries}
             internalScroll={isScrollable}
             useClone={Boolean(useClone)}
-            setEntries={setEntries}
             searchTerm={searchTerm}
             isDragging={snapshot.isDragging}
           />

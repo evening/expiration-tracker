@@ -1,24 +1,29 @@
 import React from 'react'
 
-import { type Entries } from '../types/types'
 import DatePicker from 'react-date-picker'
 import dayjs from 'dayjs'
+import { v4 as uuidv4 } from 'uuid'
 
-interface AddFoodProps {
-  entries: Entries
-  setEntries: (entries: any) => void
-};
+import useEntriesState from '../hooks/useEntriesState'
+import useLocationsState from '../hooks/useLocationsState'
 
-const AddFood = ({ entries, setEntries }: AddFoodProps) => {
+import { type Location } from '../types/types'
+
+const AddFood = () => {
+  const { locations } = useLocationsState('locations')
+
   const todayDate = dayjs()
   const defaultDate = todayDate.add(7, 'day').toDate()
 
+  const { entries, setEntries } = useEntriesState('foods')
   const [newFoodName, setNewFoodName] = React.useState<string>('')
   const [newExpiration, setNewExpiration] = React.useState<Date>(defaultDate)
-  const [newLocation, setNewLocation] = React.useState<string>('Fridge')
+  // set default new location as the fridge location object
+  // TODO: set up locations object in local storage
+  const [newLocation, setNewLocation] = React.useState<Location>(locations[0])
 
-  const addEntry = (foodName: string, location: string, expiration: Date): void => {
-    setEntries([...entries, { foodName, location, expiration }])
+  const addEntry = (foodName: string, location: Location, expiration: Date, id: string): void => {
+    setEntries([...entries, { foodName, location, expiration, id: uuidv4() }])
     setNewExpiration(defaultDate)
   }
   const handleSubmit = (e: any): void => {
@@ -30,7 +35,7 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
       // TODO: replace obnoxious alert with something more elegant
       alert('Item is already in the list!')
     } else {
-      addEntry(newFoodName, newLocation, newExpiration)
+      addEntry(newFoodName, newLocation, newExpiration, uuidv4())
       setNewFoodName('')
     };
   }
@@ -54,7 +59,7 @@ const AddFood = ({ entries, setEntries }: AddFoodProps) => {
         className='py-1 border my-auto border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-emerald-500 focus:border-emerald-500'
         name="location"
         id="location"
-        onChange={(e) => { setNewLocation(e.target.value) }}
+        onChange={(e) => { setNewLocation({ id: e.target.value, name: e.target.value }) }}
         >
           <option value={'fridge'}> Fridge </option>
           <option value={'freezer'}> Freezer </option>

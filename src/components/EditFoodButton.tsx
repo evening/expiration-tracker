@@ -1,19 +1,20 @@
 import React, { Fragment, type ReactElement, type SyntheticEvent } from 'react'
-import { type Entries, type Entry } from '../types/types'
+import { type Entries, type Entry, type Location } from '../types/types'
 import DatePicker from 'react-date-picker'
+
+import useEntriesState from '../hooks/useEntriesState'
 
 interface EditFoodButtonProps {
   entry: Entry
   index: number
-  entries: Entries
-  setEntries: (entries: any) => void
 };
 
-function EditFoodButton ({ entry, entries, index, setEntries }: EditFoodButtonProps): ReactElement {
+function EditFoodButton ({ entry, index }: EditFoodButtonProps): ReactElement {
+  const { entries, setEntries } = useEntriesState('foods')
   const [showModal, setShowModal] = React.useState<boolean>(false)
   const [editedFood, setEditedFood] = React.useState<string>(entry.foodName)
   const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(entry.expiration)
-  const [editedLocation, setEditedLocation] = React.useState<string>(entry.location.name)
+  const [editedLocation, setEditedLocation] = React.useState<Location>(entry.location)
 
   const handleEdit = (e: SyntheticEvent): void => {
     e.preventDefault()
@@ -21,14 +22,16 @@ function EditFoodButton ({ entry, entries, index, setEntries }: EditFoodButtonPr
       // TODO: replace obnoxious alert with something more elegant
       alert('Do not leave food name or expiration date blank')
     } else {
-      const newEntries = entries.map((currentEntry, currentIndex) => currentIndex === index ? { foodName: editedFood, location: editedLocation, expiration: editedExpiration } : entry)
+      const newEntries: Entries = entries.map((currentEntry, currentIndex) => currentIndex === index
+        ? { foodName: editedFood, location: editedLocation, expiration: editedExpiration, id: entry.id }
+        : entry)
       setEntries(newEntries)
       setShowModal(false)
     }
   }
   const handleClose = (): void => {
     setEditedFood(entry.foodName)
-    setEditedLocation(entry.location.name)
+    setEditedLocation(entry.location)
     setEditedExpiration(entry.expiration)
     setShowModal(false)
   }
@@ -76,8 +79,8 @@ function EditFoodButton ({ entry, entries, index, setEntries }: EditFoodButtonPr
                       className='py-1 border my-auto border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-emerald-500 focus:border-emerald-500'
                       name="location"
                       id="location"
-                      value={editedLocation}
-                      onChange={(e) => { setEditedLocation(e.target.value) }}
+                      value={editedLocation.name}
+                      onChange={(e) => { setEditedLocation({ ...editedLocation, name: e.target.value }) }}
                     >
                       <option value={'fridge'}> Fridge </option>
                       <option value={'freezer'}> Freezer </option>

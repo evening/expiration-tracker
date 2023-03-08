@@ -1,14 +1,15 @@
 import React from 'react'
 
-import type { Entries, Entry } from '../types/types'
+import type { Entry } from '../types/types'
+
+import useEntriesState from '../hooks/useEntriesState'
 
 interface DeleteFoodButtonProps {
   entry: Entry
-  entries: Entries
-  setEntries: (entries: any) => void
 };
 
-const DeleteFoodButton = ({ entry, entries, setEntries }: DeleteFoodButtonProps) => {
+const DeleteFoodButton = ({ entry }: DeleteFoodButtonProps) => {
+  const { entries, setEntries } = useEntriesState('foods')
   const removeEntry = (entry: Entry): void => {
     setEntries(entries.filter((v, i) => v !== entry))
   }

@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import type { Entry, Entries } from '../types/types'
+import type { Entry } from '../types/types'
 import { type DraggableProvided } from 'react-beautiful-dnd'
 
 import { FoodStatus } from '../enums/FoodStatuses'
@@ -15,14 +15,12 @@ dayjs.extend(relativeTime)
 
 interface FoodItemProps {
   entry: Entry
-  entries: Entries
   isDragging?: boolean
   provided?: DraggableProvided
-  setEntries: (entries: any) => void
   index: number
 }
 
-const FoodItem = ({ entry, entries, isDragging, provided, setEntries, index }: FoodItemProps) => {
+const FoodItem = ({ entry, isDragging, provided, index }: FoodItemProps) => {
   const [status, setStatus] = React.useState<string>(FoodStatus.good)
   const [warning, setWarning] = React.useState<string>('')
 
@@ -77,13 +75,9 @@ const FoodItem = ({ entry, entries, isDragging, provided, setEntries, index }: F
         <EditFoodButton
           entry={entry}
           index={index}
-          entries={entries}
-          setEntries={setEntries}
           />
           <DeleteFoodButton
           entry={entry}
-          entries={entries}
-          setEntries={setEntries}
           />
         </div>
     </div>

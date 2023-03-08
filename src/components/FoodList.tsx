@@ -1,7 +1,7 @@
 
 import React, { forwardRef, Fragment } from 'react'
 
-import type { Entries, Location } from '../types/types'
+import type { Location } from '../types/types'
 import type { DraggableProvided, DraggableStateSnapshot, DroppableProvided, DroppableStateSnapshot } from 'react-beautiful-dnd'
 
 import { Draggable } from 'react-beautiful-dnd'
@@ -21,6 +21,7 @@ const Wrapper = ({ isDraggingOver, isDraggingFrom, isDropDisabled, children }:
     </div>
   )
 }
+import useEntriesState from '../hooks/useEntriesState'
 
 interface DropZoneProps {
   children?: React.ReactNode
@@ -36,15 +37,14 @@ const DropZone = forwardRef<HTMLDivElement, DropZoneProps>((props, ref) => {
 })
 
 interface InnerFoodListProps {
-  entries: Entries
   location: Location
   searchTerm: string
-  setEntries: (entries: any) => void
 }
 
 const InnerFoodList = React.memo(
   function InnerFoodList (props: InnerFoodListProps) {
-    const { entries, setEntries, location, searchTerm } = props
+    const { entries } = useEntriesState('foods')
+    const { location, searchTerm } = props
     return (
       <div>
         {entries.filter(entry => entry.location.name === location.name && entry.foodName.includes(searchTerm))
@@ -56,13 +56,11 @@ const InnerFoodList = React.memo(
             ) => (
             <Fragment>
                 <FoodItem
-                key={entry.id}
-                entry={entry}
-                entries={entries}
-                setEntries={setEntries}
-                index={index}
-                isDragging={dragSnapshot.isDragging}
-                provided={dragProvided}
+                  key={entry.id}
+                  entry={entry}
+                  index={index}
+                  isDragging={dragSnapshot.isDragging}
+                  provided={dragProvided}
                 />
                 </Fragment>
             )}
@@ -109,8 +107,6 @@ interface Props {
   locationId: string
   listType?: string
   location: Location
-  entries: Entries
-  setEntries: (entries: any) => void
   internalScroll?: boolean
   scrollContainerStyle?: any
   isDropDisabled?: boolean
@@ -120,8 +116,8 @@ interface Props {
 };
 
 const FoodList = (props: Props) => {
-  // destructure props
-  const { locationId = 'LOCATION', listType, location, entries, setEntries, searchTerm, internalScroll, isDropDisabled, ignoreContainerClipping, useClone } = props
+  const { entries } = useEntriesState('foods')
+  const { locationId = 'LOCATION', listType, location, searchTerm, internalScroll, isDropDisabled, ignoreContainerClipping, useClone, isDragging } = props
   return (
     <StrictModeDroppable
       droppableId={locationId}
@@ -129,18 +125,17 @@ const FoodList = (props: Props) => {
       ignoreContainerClipping={ignoreContainerClipping}
       isDropDisabled={isDropDisabled}
       renderClone={
-        (useClone === true)
-          ? (provided, snapshot, rubric) => (
-        <FoodItem
-          entry={entries[rubric.source.index]}
-          entries={entries}
-          setEntries={setEntries}
-          index={rubric.source.index}
-          isDragging={snapshot.isDragging}
-          provided={provided}
-          />
-            )
-          : undefined}
+                    (useClone === true)
+                      ? (provided, snapshot, rubric) => (
+                    <FoodItem
+                      entry={entries[rubric.source.index]}
+                      index={rubric.source.index}
+                      isDragging={snapshot.isDragging}
+                      provided={provided}
+                      />
+                        )
+                      : undefined
+                  }
     >
       {(dropProvided: DroppableProvided,
         dropSnapshot: DroppableStateSnapshot
@@ -155,18 +150,12 @@ const FoodList = (props: Props) => {
           ? (
           <div className='max-h-** overflow-y-250'>
             <InnerList
-                  entries={entries}
-                  setEntries={setEntries}
-                  searchTerm={searchTerm}
-                  location={location}
-                  dropProvided={dropProvided}
-                  />
-          </div>
-            )
-          : (
-          <InnerList
-            entries={entries}
-            setEntries={setEntries}
+              searchTerm={searchTerm}
+              location={location}
+              dropProvided={dropProvided}
+              />
+          </div>)
+          : (<InnerList
             searchTerm={searchTerm}
             location={location}
             dropProvided={dropProvided}
