@@ -23,7 +23,7 @@ const AddFood = () => {
   const [newLocation, setNewLocation] = React.useState<Location>(locations[0])
 
   const addEntry = (foodName: string, location: Location, expiration: Date, id: string): void => {
-    setEntries([...entries, { foodName, location, expiration, id: uuidv4() }])
+    setEntries([...entries, { foodName, location, expiration, id }])
     setNewExpiration(defaultDate)
   }
   const handleSubmit = (e: any): void => {
