@@ -4,6 +4,6 @@ import App from './App'
 
 test('home page loads', () => {
   render(<App />)
-  const linkElement = screen.getByText(/Food List/i)
+  const linkElement = screen.getByText(/Food Tracker/i)
   expect(linkElement).toBeInTheDocument()
 })
