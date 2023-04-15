@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react'
-import { type Entry } from '../types/Entry'
+import React, { Fragment, useEffect } from 'react'
+import { type Locations, type Entry } from '../types/types'
 import { FoodStatus } from '../enums/FoodStatuses'
 import EditFoodButton from './EditFoodButton'
 import DeleteFoodButton from './DeleteFoodButton'
@@ -12,16 +12,16 @@ dayjs.extend(relativeTime)
 
 interface FoodItemProps {
   food: Entry
-  index: number
-  entries: Entry[]
-  setEntries: (entries: any) => void
+  locations: Locations
+  setLocations: (locations: Locations) => void
 }
 
-const FoodItem = ({ food, index, entries, setEntries }: FoodItemProps) => {
+const FoodItem = ({ food, locations, setLocations }: FoodItemProps) => {
   const [status, setStatus] = React.useState<string>(FoodStatus.good)
   const [warning, setWarning] = React.useState<string>('')
 
   const today = dayjs().startOf('day')
+  // TODO: move this to a config file or make it a user setting
   const DaysToWarning = 3
 
   useEffect(() => {
@@ -48,22 +48,21 @@ const FoodItem = ({ food, index, entries, setEntries }: FoodItemProps) => {
   )
 
   return (
-    <>
-      <span className='col-span-1 my-auto'> {food.foodName} </span>
+    <Fragment>
+      <span className='col-span-1 my-auto'> {food.name} </span>
       <span className='col-span-1 my-auto'> {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''} </span>
       <span className={warningStyle}> {warning} </span>
       <EditFoodButton
-        food={food}
-        index={index}
-        entries={entries}
-        setEntries={setEntries}
-        />
-        <DeleteFoodButton
-        food={food}
-        entries={entries}
-        setEntries={setEntries}
-        />
-    </>
+        entry={food}
+        locations={locations}
+        setLocations={setLocations}
+      />
+      <DeleteFoodButton
+        entry={food}
+        locations={locations}
+        setLocations={setLocations}
+      />
+    </Fragment>
   )
 }
 

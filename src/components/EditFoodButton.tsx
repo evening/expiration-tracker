@@ -1,36 +1,67 @@
 import React, { Fragment, type ReactElement, type SyntheticEvent } from 'react'
-import { type Entries, type Entry } from '../types/Entry'
-import { FoodLocations } from '../enums/FoodLocations'
+import { type Locations, type Entry } from '../types/types'
 import DatePicker from 'react-date-picker'
 
 interface EditFoodButtonProps {
-  food: Entry
-  index: number
-  entries: Entries
-  setEntries: (entries: any) => void
+  entry: Entry
+  locations: Locations
+  setLocations: (locations: Locations) => void
 };
 
-function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): ReactElement {
+function EditFoodButton ({ entry, locations, setLocations }: EditFoodButtonProps): ReactElement {
+  const editEntry = (entry: Entry, editedName: string, editedExpiration: Date, editedLocationName: string): void => {
+    if (editedExpiration === null || editedName === '') {
+      // TODO: replace obnoxious alert with something more elegant
+      // form validation message would be nicer
+      alert('Do not leave food name or expiration date blank')
+    } else if (editedLocationName === entry.locationName) {
+      // TODO: add the case where the location is changed
+      const locationToUpdate = locations.get(entry.locationName)
+      if (locationToUpdate == null) return undefined
+      else {
+        const editedIndex = locationToUpdate.entries.findIndex((e) => e.id === entry.id)
+        const newEntries = [...locationToUpdate.entries]
+        newEntries[editedIndex] = { ...entry, name: editedName, expiration: editedExpiration }
+        const newLocation = { ...locationToUpdate, entries: newEntries }
+        const updatedLocations = new Map(locations)
+        updatedLocations.set(entry.locationName, newLocation)
+        setLocations(updatedLocations)
+      }
+    } else if (editedLocationName !== entry.locationName) {
+      const locationToUpdate = locations.get(entry.locationName)
+      if (locationToUpdate == null) return undefined
+      else {
+        const editedIndex = locationToUpdate.entries.findIndex((e) => e.id === entry.id)
+        const newEntries = [...locationToUpdate.entries]
+        newEntries[editedIndex] = { ...entry, name: editedName, expiration: editedExpiration }
+        const newLocation = { ...locationToUpdate, entries: newEntries }
+        const updatedLocations = new Map(locations)
+        updatedLocations.set(entry.locationName, newLocation)
+        setLocations(updatedLocations)
+      }
+    }
+  }
+
   const [showModal, setShowModal] = React.useState<boolean>(false)
-  const [editedFood, setEditedFood] = React.useState<string>(food.foodName)
-  const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(food.expiration)
-  const [editedLocation, setEditedLocation] = React.useState<string>(food.location)
+  const [editedName, setEditedName] = React.useState<string>(entry.name)
+  const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(entry.expiration)
+  const [editedLocationName, setEditedLocationName] = React.useState<string>(entry.locationName)
 
   const handleEdit = (e: SyntheticEvent): void => {
     e.preventDefault()
-    if (editedExpiration === null || editedFood === '') {
+
+    if (editedExpiration === null || editedName === '') {
       // TODO: replace obnoxious alert with something more elegant
       alert('Do not leave food name or expiration date blank')
     } else {
-      const newEntries = entries.map((entry) => entry === food ? { foodName: editedFood, location: editedLocation, expiration: editedExpiration } : entry)
-      setEntries(newEntries)
+      editEntry(entry, editedName, editedExpiration, editedLocationName)
       setShowModal(false)
     }
   }
   const handleClose = (): void => {
-    setEditedFood(food.foodName)
-    setEditedLocation(food.location)
-    setEditedExpiration(food.expiration)
+    setEditedName(entry.name)
+    setEditedLocationName(entry.locationName)
+    setEditedExpiration(entry.expiration)
     setShowModal(false)
   }
 
@@ -67,22 +98,23 @@ function EditFoodButton ({ food, entries, setEntries }: EditFoodButtonProps): Re
                     <input
                       name="food-name"
                       type="text"
-                      id="foodName"
+                      id="name"
                       className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-                      placeholder={food.foodName}
-                      value={editedFood}
-                      onChange={e => { setEditedFood(e.target.value) }}
+                      placeholder={entry.name}
+                      value={editedName}
+                      onChange={e => { setEditedName(e.target.value) }}
                       required />
                     <select
                       className='py-1 border my-auto border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-emerald-500 focus:border-emerald-500'
                       name="location"
                       id="location"
-                      value={editedLocation}
-                      onChange={(e) => { setEditedLocation(e.target.value) }}
+                      placeholder='location'
+                      value={editedLocationName}
+                      onChange={(e) => { setEditedLocationName(e.target.value) }}
                     >
-                      <option value={FoodLocations.fridge}> Fridge </option>
-                      <option value={FoodLocations.freezer}> Freezer </option>
-                      <option value={FoodLocations.pantry}> Pantry </option>
+                      {Array.from(locations.keys()).map((locationName) => {
+                        return <option key={locationName} value={locationName}> {locationName} </option>
+                      })}
                     </select>
                     <DatePicker
                       name="editedExpiration"
