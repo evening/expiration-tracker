@@ -1,6 +1,9 @@
-import React, { useEffect } from 'react'
-import { type Entry } from '../types/Entry'
-import { FoodStatus } from '../constants/FoodStatus'
+import React, { Fragment, useEffect } from 'react'
+import { type Locations, type Entry } from '../types/types'
+import { FoodStatus } from '../enums/FoodStatuses'
+import EditFoodButton from './EditFoodButton'
+import DeleteFoodButton from './DeleteFoodButton'
+
 import dayjs from 'dayjs'
 import relativeTime from 'dayjs/plugin/relativeTime'
 import { clsx } from 'clsx'
@@ -9,13 +12,16 @@ dayjs.extend(relativeTime)
 
 interface FoodItemProps {
   food: Entry
+  locations: Locations
+  setLocations: (locations: Locations) => void
 }
 
-const FoodItem = ({ food }: FoodItemProps) => {
+const FoodItem = ({ food, locations, setLocations }: FoodItemProps) => {
   const [status, setStatus] = React.useState<string>(FoodStatus.good)
   const [warning, setWarning] = React.useState<string>('')
 
   const today = dayjs().startOf('day')
+  // TODO: move this to a config file or make it a user setting
   const DaysToWarning = 3
 
   useEffect(() => {
@@ -34,7 +40,7 @@ const FoodItem = ({ food }: FoodItemProps) => {
     }
   }, [food.expiration])
 
-  const itemStyle = clsx(
+  const warningStyle = clsx(
     (status === FoodStatus.expired) && 'text-red-500 font-semibold',
     (status === FoodStatus.nearExpiration) && 'text-yellow-500 semibold',
     (status === FoodStatus.good) && 'text-green-700 font-semibold',
@@ -42,11 +48,21 @@ const FoodItem = ({ food }: FoodItemProps) => {
   )
 
   return (
-    <>
-      <span className='col-span-1 my-auto'> {food.foodName} </span>
+    <Fragment>
+      <span className='col-span-1 my-auto'> {food.name} </span>
       <span className='col-span-1 my-auto'> {(food.expiration != null) ? new Date(food?.expiration).toLocaleDateString() : ''} </span>
-      <span className={itemStyle}> {warning} </span>
-    </>
+      <span className={warningStyle}> {warning} </span>
+      <EditFoodButton
+        entry={food}
+        locations={locations}
+        setLocations={setLocations}
+      />
+      <DeleteFoodButton
+        entry={food}
+        locations={locations}
+        setLocations={setLocations}
+      />
+    </Fragment>
   )
 }
 
