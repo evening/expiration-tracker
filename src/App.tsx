@@ -13,6 +13,8 @@ function App () {
   // TODO useStickyState should be an object and not a string
   const { entries, setEntries } = useStickyState('foods')
 
+  const [isModalOpen, setIsModalOpen] = React.useState<boolean>(false)
+
   return (
     <div className="App">
       <h1 className='underline decoration-gray-500 font-extrabold'>
@@ -21,6 +23,8 @@ function App () {
       <AddFood
         entries={entries}
         setEntries={setEntries}
+        isModalOpen={isModalOpen}
+        setIsModalOpen={setIsModalOpen}
       />
       <hr />
       <SearchBar
