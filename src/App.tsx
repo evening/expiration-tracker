@@ -1,17 +1,16 @@
 import React from 'react'
 
 import './App.css'
-import useStickyState from './utils/useStickyState'
 
 // Components
 import AddFood from './components/AddFood'
 import SearchBar from './components/SearchBar'
-import FoodList from './components/FoodList'
+import Board from './components/Board/Board'
+import useLocationsState from './hooks/useLocationsState'
 
 function App () {
   const [searchTerm, setSearchTerm] = React.useState<string>('')
-  // TODO useStickyState should be an object and not a string
-  const { entries, setEntries } = useStickyState('foods')
+  const { locations, setLocations } = useLocationsState({ storageKey: 'locations' })
 
   const [isModalOpen, setIsModalOpen] = React.useState<boolean>(false)
 
@@ -21,22 +20,21 @@ function App () {
         Food Tracker
       </h1>
       <AddFood
-        entries={entries}
-        setEntries={setEntries}
         isModalOpen={isModalOpen}
         setIsModalOpen={setIsModalOpen}
+        locations={locations}
+        setLocations={setLocations}
       />
-      <hr />
+      <hr className='w-5/6 mx-auto' />
       <SearchBar
         searchTerm={searchTerm}
         setSearchTerm={setSearchTerm}
       />
-      <hr />
-      <FoodList
-        entries={entries}
-        setEntries={setEntries}
+      <hr className='w-5/6 mx-auto' />
+      <Board
         searchTerm={searchTerm}
-        setSearchTerm={setSearchTerm}
+        locations={locations}
+        setLocations={setLocations}
       />
     </div>
   )
