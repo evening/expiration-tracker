@@ -12,12 +12,16 @@ function App () {
   const [searchTerm, setSearchTerm] = React.useState<string>('')
   const { locations, setLocations } = useLocationsState({ storageKey: 'locations' })
 
+  const [isModalOpen, setIsModalOpen] = React.useState<boolean>(false)
+
   return (
     <div className="App">
       <h1 className='underline decoration-gray-500 font-extrabold'>
         Food Tracker
       </h1>
       <AddFood
+        isModalOpen={isModalOpen}
+        setIsModalOpen={setIsModalOpen}
         locations={locations}
         setLocations={setLocations}
       />
