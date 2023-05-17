@@ -17,8 +17,6 @@ interface BoardProps {
 
 const Board = ({ searchTerm, locations, setLocations }: BoardProps) => {
   const onDragEnd = (result: DropResult, locations: Locations, setLocations: { (locations: Locations): void, (arg0: Map<string, Location>): void }) => {
-    console.log('result: ', result)
-    console.log('locations: ', locations)
     if (result.destination === null) return
     const { source, destination } = result
 
@@ -31,12 +29,10 @@ const Board = ({ searchTerm, locations, setLocations }: BoardProps) => {
     } else if (source.droppableId !== destination.droppableId) {
       const sourceLocation = locations.get(source.droppableId)
       if (sourceLocation == null) {
-        console.log('sourceLocation is null')
         return undefined
       }
       const destLocation = locations.get(destination.droppableId)
       if (destLocation == null) {
-        console.log('destLocation is null')
         return undefined
       }
       const sourceEntries = sourceLocation.entries
@@ -52,10 +48,8 @@ const Board = ({ searchTerm, locations, setLocations }: BoardProps) => {
       updatedLocations.set(destination.droppableId, { ...destLocation, entries: destEntries })
       setLocations(updatedLocations)
     } else if (source.droppableId === destination.droppableId) {
-      console.log('locations: ', locations)
       const location = locations.get(source.droppableId)
       if (location == null) {
-        console.log('location is null')
         return undefined
       }
       const copiedEntries = [...location.entries]
@@ -73,10 +67,10 @@ const Board = ({ searchTerm, locations, setLocations }: BoardProps) => {
     <DragDropContext
       onDragEnd={(result) => { onDragEnd(result, locations, setLocations) }}
     >
-      <div className='grid grid-rows-3 gap-y-20'>
+      <div className='grid grid-rows-3 gap-y-10 pt-1'>
         {locationsArray.map((location) => (
-          <div key={location.id} className='border-2 border-gray-100 bg-white w-5/6 mx-auto'>
-            <h3 className="underline decoration-gray-400 inline font-bold">
+          <div key={location.id} className='border-2 border-neutral-100 bg-white w-5/6 mx-auto rounded-lg py-3 h-fit'>
+            <h3 className="underline text-primary-300 inline font-bold">
               {location.name}
             </h3>
             <StrictModeDroppable droppableId={location.id} key={location.id}>
@@ -84,12 +78,10 @@ const Board = ({ searchTerm, locations, setLocations }: BoardProps) => {
                 <div
                   {...provided.droppableProps }
                   ref={provided.innerRef}
-                  className="grid grid-cols-5 mx-auto"
+                  className="grid grid-cols-3 mx-auto"
                 >
-                  <div className='col-span-2 font-semibold mx-auto'> Item </div>
-                  <div className='col-span-1 font-semibold mx-auto'> Expiration </div>
-                  <div className='col-span-1 font-semibold mx-auto'> Status </div>
-                  <div className='col-span-1 font-semibold mx-auto'> Action </div>
+                  <div className='col-span-1 font-medium mx-auto text-primary-300'> Item </div>
+                  <div className='col-span-1 font-medium mx-auto text-primary-300'> Expiration </div>
                   {location.entries.filter((entry: Entry) => entry.name.toLowerCase().includes(searchTerm.toLowerCase()))
                     .map((entry: Entry, index: number) => (
                     <Draggable key={entry.id} draggableId={entry.id} index={index}>
@@ -98,7 +90,7 @@ const Board = ({ searchTerm, locations, setLocations }: BoardProps) => {
                           ref={provided.innerRef}
                           {...provided.draggableProps}
                           {...provided.dragHandleProps}
-                          className={snapshot.isDragging ? 'col-span-5 bg-gray-600' : 'col-span-5'}
+                          className={snapshot.isDragging ? 'col-span-3 bg-base2-100 z-30 border-l-8 border-accent-100' : 'col-span-3'}
                         >
                           <FoodItem
                           food={entry}
