@@ -1,6 +1,12 @@
 import React, { Fragment, type ReactElement, type SyntheticEvent } from 'react'
 import { type Locations, type Entry } from '../types/types'
 import DatePicker from 'react-date-picker'
+import CreateIcon from '@mui/icons-material/Create'
+import CancelIcon from '@mui/icons-material/Cancel'
+import LockIcon from '@mui/icons-material/Lock'
+import CheckIcon from '@mui/icons-material/Check'
+import HighlightOffIcon from '@mui/icons-material/HighlightOff'
+import Tooltip from '@mui/material/Tooltip'
 
 interface EditFoodButtonProps {
   entry: Entry
@@ -9,30 +15,17 @@ interface EditFoodButtonProps {
 };
 
 function EditFoodButton ({ entry, locations, setLocations }: EditFoodButtonProps): ReactElement {
-  const editEntry = (entry: Entry, editedName: string, editedExpiration: Date, editedLocationName: string): void => {
+  const editEntry = (entry: Entry, editedName: string, editedExpiration: Date): void => {
     if (editedExpiration === null || editedName === '') {
       // TODO: replace obnoxious alert with something more elegant
-      // form validation message would be nicer
+      // disable confirm if either field is empty
       alert('Do not leave food name or expiration date blank')
-    } else if (editedLocationName === entry.locationName) {
-      // TODO: add the case where the location is changed
+    } else {
       const locationToUpdate = locations.get(entry.locationName)
       if (locationToUpdate == null) return undefined
       else {
-        const editedIndex = locationToUpdate.entries.findIndex((e) => e.id === entry.id)
         const newEntries = [...locationToUpdate.entries]
-        newEntries[editedIndex] = { ...entry, name: editedName, expiration: editedExpiration }
-        const newLocation = { ...locationToUpdate, entries: newEntries }
-        const updatedLocations = new Map(locations)
-        updatedLocations.set(entry.locationName, newLocation)
-        setLocations(updatedLocations)
-      }
-    } else if (editedLocationName !== entry.locationName) {
-      const locationToUpdate = locations.get(entry.locationName)
-      if (locationToUpdate == null) return undefined
-      else {
-        const editedIndex = locationToUpdate.entries.findIndex((e) => e.id === entry.id)
-        const newEntries = [...locationToUpdate.entries]
+        const editedIndex = newEntries.indexOf(entry)
         newEntries[editedIndex] = { ...entry, name: editedName, expiration: editedExpiration }
         const newLocation = { ...locationToUpdate, entries: newEntries }
         const updatedLocations = new Map(locations)
@@ -45,105 +38,110 @@ function EditFoodButton ({ entry, locations, setLocations }: EditFoodButtonProps
   const [showModal, setShowModal] = React.useState<boolean>(false)
   const [editedName, setEditedName] = React.useState<string>(entry.name)
   const [editedExpiration, setEditedExpiration] = React.useState<Date | null>(entry.expiration)
-  const [editedLocationName, setEditedLocationName] = React.useState<string>(entry.locationName)
 
   const handleEdit = (e: SyntheticEvent): void => {
     e.preventDefault()
 
     if (editedExpiration === null || editedName === '') {
-      // TODO: replace obnoxious alert with something more elegant
       alert('Do not leave food name or expiration date blank')
     } else {
-      editEntry(entry, editedName, editedExpiration, editedLocationName)
+      editEntry(entry, editedName, editedExpiration)
       setShowModal(false)
     }
   }
   const handleClose = (): void => {
     setEditedName(entry.name)
-    setEditedLocationName(entry.locationName)
     setEditedExpiration(entry.expiration)
     setShowModal(false)
   }
 
+  // TODO: disable dragging while modal is open
   return (
     <>
       <button
-        className="bg-amber-500 text-white active:bg-amber-600 font-bold text-sm px-1 py-1 mx-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 cursor-pointer"
+        className="text-secondary-300 hover:text-neutral font-bold text-sm px-1 py-1 mx-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 cursor-pointer"
         type="button"
         onClick={() => { setShowModal(true) }}
       >
-        [edit]
+        <CreateIcon />
       </button>
       {showModal
         ? (
           <Fragment>
-            <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">
+            <div className="justify-center items-center flex absolute inset-0 z-10 outline-none focus:outline-none" >
               <div className="relative w-auto my-6 mx-auto max-w-3xl">
-                <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
-                  <div className="flex items-start justify-between p-5 border-b border-solid border-slate-200 rounded-t">
-                    <h3 className="text-3xl font-semibold">
+                <div className="border-2 border-secondary-300 rounded-lg shadow-lg relative p-3 flex flex-col w-full bg-white">
+                  <div className='flex items-start justify-between p-2 border-secondary-300'>
+                    <span className="pb-2 pl-2 underline underline-offset-2 decoration-secondary-300 text-lg text-secondary-300 text-center">
                       Edit Food
-                    </h3>
+                    </span>
                     <button
-                      className="p-1 ml-auto bg-transparent border-0 text-black float-right text-3xl leading-none font-semibold outline-none focus:outline-none"
+                      className="p-1 ml-auto bg-transparent border-0 text-primary-300 float-right leading-none outline-none focus:ring-secondary-300 focus:outline-none"
                       onClick={() => { setShowModal(false) }}
                     >
-                      <span
-                        className="text-black opacity-30 h-2 w-2 text-2xl">
-                        &times;
-                      </span>
+                      <CancelIcon />
                     </button>
                   </div>
-                  <div>
+                  <div className='flex flex-col justify-between pt-3' >
+                    <div className='flex flex-row'>
+                    <label htmlFor='name' className='my-auto pr-2 text-sm text-secondary-300'> Name: </label>
                     <input
                       name="food-name"
                       type="text"
                       id="name"
-                      className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                      className="bg-base3-300 border border-gray-300 text-primary-300 !rounded-lg focus:ring-primary-300 focus:border-primary-300 block w-full px-3 invalid:[&:not(:placeholder-shown):not(:focus)]:border-danger-500 h-9"
+                      formNoValidate
                       placeholder={entry.name}
                       value={editedName}
                       onChange={e => { setEditedName(e.target.value) }}
                       required />
-                    <select
-                      className='py-1 border my-auto border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-emerald-500 focus:border-emerald-500'
-                      name="location"
-                      id="location"
-                      placeholder='location'
-                      value={editedLocationName}
-                      onChange={(e) => { setEditedLocationName(e.target.value) }}
-                    >
-                      {Array.from(locations.keys()).map((locationName) => {
-                        return <option key={locationName} value={locationName}> {locationName} </option>
-                      })}
-                    </select>
-                    <DatePicker
-                      name="editedExpiration"
-                      className={'bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500'}
-                      format="y-MM-dd"
-                      yearPlaceholder="yyyy"
-                      monthPlaceholder="mm"
-                      dayPlaceholder="dd"
-                      clearIcon={null}
-                      value={editedExpiration}
-                      locale="en-US"
-                      onChange={(date: Date) => { setEditedExpiration(date) }}
-                    />
+                    </div>
+                    <Tooltip title="To change an item's location, drag it on the board" placement='top-start'>
+                      <div className='flex flex-row'>
+                        <span className='my-auto pr-2 text-sm text-secondary-300'>
+                        Location:
+                        </span>
+                        <span className='my-auto pl-2 py-1 text-primary-300 justify-self-end rounded-md focus:outline-none cursor-not-allowed w-3/4'>
+                          <LockIcon/>
+                          {entry.locationName}
+                        </span>
+                      </div>
+                    </Tooltip>
+                    <div className='flex flex-row p-0 rounded-lg '>
+                    <span className='my-auto pr-2 text-sm text-secondary-300'> Expires: </span>
+                      <DatePicker
+                        name="editedExpiration"
+                        className={'text-primary-300 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5'}
+                        format="y-MM-dd"
+                        yearPlaceholder="yyyy"
+                        monthPlaceholder="mm"
+                        dayPlaceholder="dd"
+                        clearIcon={null}
+                        value={(editedExpiration != null) ? new Date(editedExpiration) : new Date()}
+                        locale="en-US"
+                        onChange={(date: Date) => { setEditedExpiration(date) }}
+                      />
+                    </div>
                   </div>
-                  <div className="flex items-center justify-end p-6 border-t border-solid border-slate-200 rounded-b">
-                    <button
-                      className="bg-amber-500 text-white active:bg-amber-600 font-bold uppercase text-sm px-6 py-1 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
-                      type="button"
-                      onClick={handleEdit}
-                    >
-                      Edit
-                    </button>
-                    <button
-                      className="bg-red-500 text-white active:bg-red-600 font-bold uppercase text-sm px-6 py-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
-                      type="button"
-                      onClick={handleClose}
-                    >
-                      Close
-                    </button>
+                  <div className="flex items-center justify-between p-6 rounded-b">
+                  <div className='bg-success-200 rounded shadow hover:shadow-lg outline-none focus:outline-none ease-linear transition-all duration-150'>
+                      <button
+                        className="text-white px-6 py-1 mr-1 mb-1"
+                        type="button"
+                        onClick={handleEdit}
+                      >
+                        <CheckIcon className='h-4 w-4 justify-end'/>
+                      </button>
+                    </div>
+                    <div className='bg-danger-200 rounded shadow hover:shadow-lg outline-none focus:outline-none ease-linear transition-all duration-150'>
+                      <button
+                        className="text-white px-6 py-1 mr-1 mb-1 "
+                        type="button"
+                        onClick={handleClose}
+                      >
+                        <HighlightOffIcon className='h-4 w-4 justify-end'/>
+                      </button>
+                    </div>
                   </div>
                 </div>
               </div>
