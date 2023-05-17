@@ -14,8 +14,8 @@ function App () {
   const { locations, setLocations } = useLocationsState({ storageKey: 'locations' })
 
   return (
-    <div className="App">
-      <h1 className='underline decoration-gray-500 font-extrabold'>
+    <div className="App bg-base1-300">
+      <h1 className='text-primary-300 text-3xl my-auto py-2'>
         Food Tracker
       </h1>
       <hr className='w-5/6 mx-auto' />
