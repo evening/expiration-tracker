@@ -30,16 +30,18 @@ function useLocationsState ({ storageKey }: LocationsStateOptions): LocationsSta
         return defaultLocations
       }
     } catch (error) {
-      console.log(error)
+      console.error(error)
       return defaultLocations
     }
   })
 
   // set locations in local storage
   React.useEffect(() => {
-    // TODO: need to handle possible exception from .setItem
-    window.localStorage.setItem(storageKey, JSON.stringify(Array.from(locations.entries())))
-    console.log('locations: ', locations)
+    try {
+      window.localStorage.setItem(storageKey, JSON.stringify(Array.from(locations.entries())))
+    } catch (error) {
+      console.error(error)
+    }
   }, [storageKey, locations])
 
   return { locations, setLocations }
