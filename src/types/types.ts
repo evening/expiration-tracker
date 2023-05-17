@@ -23,22 +23,5 @@ export interface Location {
   id: Id
   entries: Entries
 }
-// create location type as a map, name is the key, and the value is a Location
+
 export type Locations = Map<string, Location>
-
-// export type Location = Record<string, { id: Id, entries: Entries }>
-// equivalent to:
-// export interface Location {
-//   [key: string]: {
-//     id: string
-//     entries: Entries
-//   }
-// }
-
-// EXAMPLE:
-// export interface Location {
-//   [key: 'Fridge']: {
-//     id: 'uuid string'
-//     entries: entry[]
-//   }
-// }
