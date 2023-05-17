@@ -39,12 +39,16 @@ const AddFoodButton = ({ locations, setLocations, setIsModalOpen, isModalOpen }:
     e.preventDefault()
 
     if (entryName === '') {
+      // TODO: replace obnoxious alert with something more elegant
       alert('Please enter a Entry name')
     } else if (
       Array.from(locations.values())
         .some((location) => location
           .entries.some((entry) => entry.name === entryName))
     ) {
+      // TODO: replace obnoxious alert with something more elegant.
+      // This should also only be a warning and should still allow user to add a new item w/same name
+      // form validation message would be nicer
       alert('Item is already in the list!')
     } else {
       const newEntry: Entry =
@@ -77,6 +81,7 @@ const AddFoodButton = ({ locations, setLocations, setIsModalOpen, isModalOpen }:
                     >
                       <CancelIcon className='h-1 w-1 justify-end'/>
                   </button>
+                  {/* TODO: clean up validation style */}
                   <span className="underline underline-offset-2 decoration-secondary-300 text-lg text-secondary-300">
                       Add Food
                   </span>
@@ -131,7 +136,7 @@ const AddFoodButton = ({ locations, setLocations, setIsModalOpen, isModalOpen }:
 
       <button
         onClick={() => { setIsModalOpen(!isModalOpen) }}
-        className="fixed bottom-5 right-5 bg-primary-300 text-white px-2 py-2 rounded-full outline-none z-50 focus:outline-none active:bg-secondary-300 focus:ring-2 focus:ring-offset-2 focus:ring-secondary-300"
+        className="fixed bottom-5 right-5 bg-primary-300 text-white active:bg-secondary-300 text-xl px-2 py-2 rounded-full outline-none z-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-secondary-300"
       >
         <AddIcon />
       </button>
